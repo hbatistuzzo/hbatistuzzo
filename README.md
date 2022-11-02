@@ -25,10 +25,12 @@
 <img height="180em" width="500em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbatistuzzo&layout=compact&langs_count=7&theme=dark" />
 </div>
 
-<br>
+<div>
 
 ## Tools I use the most:
-	
+
+</div>
+
 <div style = 'display: inline_block'>
 
 <a href="https://docs.python.org/3/">

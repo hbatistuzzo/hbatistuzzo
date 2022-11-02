@@ -1,5 +1,3 @@
-# hbatistuzzo
-
 <h2 align="center"> 
 	Hi there, my name is Henrique Batistuzzo. <br>
 	I'm a physical oceanographer currently delving into data analysis :vulcan_salute:

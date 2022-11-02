@@ -36,7 +36,14 @@
 <a href="https://www.mathworks.com/products/matlab.html">
 <img align='center' width=50px alt='matlab' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
 </a>
+
+<a href="https://www.arduino.cc/">
+<img align='center' width=50px alt='arduino' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
+</a>
 </div>
+
+
+          
           
 
 

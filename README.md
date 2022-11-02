@@ -1,12 +1,7 @@
 <h2 align="center"> 
-	Hi there, my name is Henrique Batistuzzo. <br>
+	Hi there, my name is Henrique Batistuzzo from São Paulo 🏠 Brazil. <br>
 	I'm a physical oceanographer currently delving into data analysis :vulcan_salute:
 </h2>
-
-<p>
-  <span><font size="5">🏠 São Paulo -SP 🇧🇷,</font></span>
-  <br>
-</p>
 
 ##
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hbatistuzzo@gmail.com)

@@ -1,5 +1,5 @@
 <h2 align="center"> 
-	Hi there, my name is Henrique Batistuzzo from São Paulo, Brazil. <br>
+	Hi there! <br>
 	I'm a physical oceanographer currently delving into data analysis :vulcan_salute:
 </h2>
 

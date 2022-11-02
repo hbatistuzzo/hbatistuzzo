@@ -74,14 +74,21 @@
 </a>
 
 <a href="https://slack.com/">
-<img align='center' width=50px alt='slack' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg""/>
+<img align='center' width=50px alt='slack' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg"/>
+</a>
+
+<a href="https://code.visualstudio.com/">
+<img align='center' width=50px alt='vsc' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+</a>
+
+<a href="https://www.anaconda.com/">
+<img align='center' width=50px alt='conda' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
 </a>
 
 <a href="https://www.latex-project.org/">
 <img align='center' width=50px alt='latex' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"/>
 </a>
-
-
+          
 </div>
 
   ![Snake animation](https://github.com/PedroPDIN/PedroPDIN/blob/output/github-contribution-grid-snake.svg)

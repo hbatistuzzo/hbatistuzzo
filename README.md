@@ -71,7 +71,4 @@
 
 </div>
 
-            <img src= />
-          
-
   ![Snake animation](https://github.com/PedroPDIN/PedroPDIN/blob/output/github-contribution-grid-snake.svg)

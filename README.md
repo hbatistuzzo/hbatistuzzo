@@ -40,11 +40,20 @@
 <a href="https://www.arduino.cc/">
 <img align='center' width=50px alt='arduino' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
 </a>
+
+<a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">
+<img align='center' width=50px alt='arduino' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+</a>
+
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+<img align='center' width=50px alt='arduino' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+</a>
+
+<a href="https://https://ubuntu.com/">
+<img align='center' width=50px alt='arduino' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />
+</a>
+
 </div>
-
-
-          
-          
 
 
   ![Snake animation](https://github.com/PedroPDIN/PedroPDIN/blob/output/github-contribution-grid-snake.svg)

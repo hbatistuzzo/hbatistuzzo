@@ -1,5 +1,4 @@
 # hbatistuzzo
- initial page preview
 
 <h2 align="center"> 
 	Hi there, my name is Henrique Batistuzzo. <br>
@@ -26,7 +25,7 @@
 <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbatistuzzo&layout=compact&langs_count=7&theme=dark" />
 </div>
 	
-## Tecnologia que mais uso diariamente:
+## Tools I use the most:
 	
 <div style = 'display: inline_block'>
 

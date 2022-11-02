@@ -41,6 +41,10 @@
 <img align='center' width=50px alt='matlab' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
 </a>
 
+<a href="https://www.r-project.org/">
+<img align='center' width=50px alt='R' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/>
+</a>
+
 <a href="https://www.arduino.cc/">
 <img align='center' width=50px alt='arduino' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
 </a>
@@ -61,13 +65,22 @@
 <img align='center' width=50px alt='git' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </a>
 
+<a href="https://www.mysql.com/">
+<img align='center' width=50px alt='mySQL' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+</a>
+
+<a href="https://www.sqlalchemy.org/">
+<img align='center' width=50px alt='mySQLa' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg"/>
+</a>
+
+<a href="https://slack.com/">
+<img align='center' width=50px alt='slack' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg""/>
+</a>
+
 <a href="https://www.latex-project.org/">
 <img align='center' width=50px alt='latex' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"/>
 </a>
 
-<a href="https://www.mysql.com/">
-<img align='center' width=50px alt='mySQL' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
-</a>
 
 </div>
 

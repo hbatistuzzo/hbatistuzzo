@@ -33,6 +33,10 @@
 <img align='center' width=50px alt='python' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' />
 </a>
 
+<a href="https://jupyter.org/">
+<img align='center' width=50px alt='jupyter' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+</a>
+
 <a href="https://www.mathworks.com/products/matlab.html">
 <img align='center' width=50px alt='matlab' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
 </a>
@@ -42,15 +46,27 @@
 </a>
 
 <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">
-<img align='center' width=50px alt='arduino' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align='center' width=50px alt='bash' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 </a>
 
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-<img align='center' width=50px alt='arduino' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img align='center' width=50px alt='C' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 </a>
 
 <a href="https://https://ubuntu.com/">
-<img align='center' width=50px alt='arduino' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />
+<img align='center' width=50px alt='ubuntu' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />
+</a>
+
+<a href="https://git-scm.com/">
+<img align='center' width=50px alt='git' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+</a>
+
+<a href="https://www.latex-project.org/">
+<img align='center' width=50px alt='latex' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"/>
+</a>
+
+<a href="https://www.mysql.com/">
+<img align='center' width=50px alt='mySQL' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"/>
 </a>
 
 </div>

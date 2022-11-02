@@ -66,10 +66,12 @@
 </a>
 
 <a href="https://www.mysql.com/">
-<img align='center' width=50px alt='mySQL' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"/>
+<img align='center' width=50px alt='mySQL' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
 </a>
 
 </div>
 
+            <img src= />
+          
 
   ![Snake animation](https://github.com/PedroPDIN/PedroPDIN/blob/output/github-contribution-grid-snake.svg)

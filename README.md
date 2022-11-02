@@ -1,7 +1,7 @@
 <h2 align="center"> 
 	Hi there! <br>
 	I'm a physical oceanographer currently delving into data analysis :vulcan_salute: <br>
-	Here you can find a portfolio of projects dealing with Data Cleaning, Viz and processing.
+	Here you can find a portfolio of projects dealing with Data Cleaning, Viz and Processing.
 </h2>
 
 ##

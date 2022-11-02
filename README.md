@@ -32,6 +32,12 @@
 <a href="https://docs.python.org/3/">
 <img align='center' width=50px alt='python' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' />
 </a>
+
+<a href="https://www.mathworks.com/products/matlab.html">
+<img align='center' width=50px alt='matlab' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
+</a>
 </div>
+          
+
 
   ![Snake animation](https://github.com/PedroPDIN/PedroPDIN/blob/output/github-contribution-grid-snake.svg)

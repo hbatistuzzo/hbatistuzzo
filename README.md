@@ -11,15 +11,13 @@
 <div>
 <a href="https://github.com/hbatistuzzo">
 <img height="180em" width="400em" align="left" src="https://github-readme-stats.vercel.app/api?username=hbatistuzzo&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-<img height="180em" width="400em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbatistuzzo&layout=compact&langs_count=9&theme=radical" />
+<img height="180em" width="400em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbatistuzzo&layout=compact&langs_count=9&theme=radical" />
 </div>
 
-
+<br/>
 <br/>
 
 ### Tools I use the most:
-
-<br/>
 
 <div style = 'display: inline_block'>
 
@@ -87,4 +85,6 @@
 	Here is a youtube video of monthly climatologies I made with matplotlib and cartopy:
 </h3>
 
-[![Climatologies](https://photos.google.com/photo/AF1QipNKmFgYB6LOTig2L8X0B0bBg8oZzqKOcD5Xh3x6)](https://youtu.be/5fsr0Ur9py8 "Climatologies")
+<a href="https://youtu.be/5fsr0Ur9py8">
+<p align="center"><img src="https://im3.ezgif.com/tmp/ezgif-3-058b56cfa6.gif" width="100%" alt="cake"></p>
+</a>

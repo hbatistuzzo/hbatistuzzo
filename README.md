@@ -6,7 +6,8 @@
 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hbatistuzzo@gmail.com)
 [![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-batistuzzo/)
-![alt rank](https://www.codewars.com/users/hbatistuzzo/badges/large)
+<div style="text-align: right"> ![alt rank](https://www.codewars.com/users/hbatistuzzo/badges/large) </div>
+
 ---
 
 

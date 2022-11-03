@@ -85,6 +85,7 @@
 	Here is a youtube video of monthly climatologies I made with matplotlib and cartopy:
 </h3>
 
+
 <a href="https://youtu.be/5fsr0Ur9py8">
-<p align="center"><img src="https://im3.ezgif.com/tmp/ezgif-3-058b56cfa6.gif" width="100%" alt="cake"></p>
+<p align="center"><img src="ezgif-3-058b56cfa6.gif" width="100%"></p>
 </a>

@@ -1,7 +1,7 @@
 <h3 align="center"> 
-	Hi there! <br>
-	I'm a physical oceanographer currently delving into data analysis :vulcan_salute: <br>
-	Here you can find a portfolio of projects dealing with Data Cleaning, Viz and Processing.
+	👋 Hi there, I'm Henry ! <br>
+	🌱 I'm a physical oceanographer currently delving into data science :vulcan_salute: <br>
+	💞️ This is where I’m building a portfolio in Data Science, Data Analytics and Machine Learning
 </h3>
 
 <div align="center">

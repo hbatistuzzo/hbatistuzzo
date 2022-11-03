@@ -7,7 +7,8 @@
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hbatistuzzo@gmail.com)
 [![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-batistuzzo/)
 [![cw](https://www.codewars.com/users/hbatistuzzo/badges/micro)]()
-#
+
+---
 
 
 <img height="180em" width="390em" align="left" src="https://github-readme-stats.vercel.app/api?username=hbatistuzzo&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
@@ -21,6 +22,7 @@
 <br/>
 <br/>
 
+---
 ### Tools I use the most:
 <div style = 'display: inline_block'>
 <a href="https://docs.python.org/3/">

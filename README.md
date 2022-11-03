@@ -20,8 +20,6 @@
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
 
 ### Tools I use the most:
 <div style = 'display: inline_block'>

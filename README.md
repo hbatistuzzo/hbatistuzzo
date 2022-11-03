@@ -4,30 +4,15 @@
 	Here you can find a portfolio of projects dealing with Data Cleaning, Viz and Processing.
 </h3>
 
-<div align="left">
+<div align="center">
 
   <a href="">[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hbatistuzzo@gmail.com)</a>
   <a href="">[![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-batistuzzo/)</a>
-
-</div>
-
-<div align="right">
-
   <a href="">[![alt rank](https://www.codewars.com/users/hbatistuzzo/badges/large)](https://www.codewars.com/users/hbatistuzzo)</a>
 
 </div>
 
-<table>
-  <tr >
-    <td> <a href="">[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hbatistuzzo@gmail.com)</a> </td>
-    <td> <a href="">[![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-batistuzzo/)</a> </td>
-  </tr>
-  <tr>
-    <td colspan="2"> <a href="">[![alt rank](https://www.codewars.com/users/hbatistuzzo/badges/large)](https://www.codewars.com/users/hbatistuzzo)</a> </td>
-  </tr>
-</table>
 ---
-
 
 <img height="180em" width="390em" align="left" src="https://github-readme-stats.vercel.app/api?username=hbatistuzzo&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
 <img height="180em" width="390em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbatistuzzo&layout=compact&langs_count=4&theme=radical" />

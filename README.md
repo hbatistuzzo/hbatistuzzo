@@ -8,7 +8,7 @@
 [![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-batistuzzo/)
 [![cw](https://www.codewars.com/users/hbatistuzzo/badges/micro)]()
 	
-##
+#
 <div>
 <a href="https://github.com/hbatistuzzo">
 <img height="180em" width="400em" align="left" src="https://github-readme-stats.vercel.app/api?username=hbatistuzzo&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>

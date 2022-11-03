@@ -11,16 +11,15 @@
 <div>
 <a href="https://github.com/hbatistuzzo">
 <img height="180em" width="400em" align="left" src="https://github-readme-stats.vercel.app/api?username=hbatistuzzo&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-<img height="180em" width="400em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbatistuzzo&layout=compact&langs_count=9&theme=radical" />
+<img height="180em" width="400em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbatistuzzo&layout=compact&langs_count=9&theme=radical" />
 </div>
 
-##
 
-<div>
+<br/>
 
 ### Tools I use the most:
 
-</div>
+<br/>
 
 <div style = 'display: inline_block'>
 
@@ -79,10 +78,6 @@
 <a href="https://www.anaconda.com/">
 <img align='center' width=50px alt='conda' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
 </a>
-
-<a href="https://www.latex-project.org/">
-<img align='center' width=50px alt='latex' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"/>
-</a>
           
 </div>
 
@@ -92,4 +87,4 @@
 	Here is a youtube video of monthly climatologies I made with matplotlib and cartopy:
 </h3>
 
-[![Everything Is AWESOME](https://lh3.googleusercontent.com/kcnWf8zi_7TcB6FDp8oe4tufvNH6CNlrOi8WBOE06IIabNS0k-mu4M8_dcdmS3XaB-nIt5akWYMRZifkLWOhZTev0fCP5WqOPnceaEilWq05RlcNcsT3SIMgKl_KWjyyIDVHO9oyLozgFGHzQz4TYwlZN6w1mFrd8uRP_cpFivwdDtn8j7VWvkkaxDNgWEm2DJDzTiP3zclqLV4Kffj47qFLimeKsCMuwuGr9dGHIYWMyZ4wwtHXtevInEbh44YL-tdmBaKD2mTXzw3vJ7ht2ciDtNqv3DRn19UIErMBW8T086TIwpUNUabLBh_5J92GguTqteGmpa5qHdZHsdTCc_7boG7HqFAfHzkrMtjgg1WZcbUwiQgQ1csoNOnioz05pyvmgC3gBPh8euKqDgUDN31e9misvKWtsS5PZ96EQEbjfPjfbu6Dr8IJpCU3La5xweclf2FJqm_O71FBIQVYaZOVA9SFN8cqCYGC3z_qq2e9MTndzJvIa2keVMDzWvjlBoy7ZHTnirON7yENBfWWUviHOANw3IPtp38tCQda8VK6DnGUbzbOqEVnxbxKiW4lNUKsqAf93lIisxEGAGlk85l_L1w4fUpUh_edmL_I-xQDZ6snYi9qfoDmX_vMxwasop1SeWz9GoxitUXiOW10zpyV3HzkSwFE4x5yfobTNP4moKWroy9oA2T9WQfNCxYgblfGeBPe7b_qTD4M8Iav6Su1qaoFZKcMA6ZqMidm-FB_ZjG2KeC9z8piOsmuJ3IQprTMSKAGdAiGBFiKK7WCbz6lAhK2bRNIE4nWagnuCTZcI5ZOav4u5kJ3KPsLTSt7skd_7K9gXjnx-29be1Q0tvxiUYNtxWkBnJ3y1mjvP__EQQkCZ77qMlEgRnR993hYWnDf0-cOAqvQX9STO3TZMdydeK8ba0YCPJUfGfqyXNnZZprYNd6-VhdRtMEXZtwTPQRqyh14_pl8_T2d7_w=w1025-h719-no?authuser=0)](https://youtu.be/5fsr0Ur9py8 "Climatologies")
+[![Climatologies](https://photos.google.com/photo/AF1QipNKmFgYB6LOTig2L8X0B0bBg8oZzqKOcD5Xh3x6)](https://youtu.be/5fsr0Ur9py8 "Climatologies")

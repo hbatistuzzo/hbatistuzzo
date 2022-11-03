@@ -1,7 +1,7 @@
 <h3 align="center"> 
 	👋 Hi there, I'm Henry ! <br>
 	🌱 I'm a physical oceanographer currently delving into data science :vulcan_salute: <br>
-	💞️ This is where I’m building a portfolio in Data Science, Data Analytics and Machine Learning
+	📋 This is where I’m building a portfolio in Data Science, Data Analytics and Machine Learning
 </h3>
 
 <div align="center">

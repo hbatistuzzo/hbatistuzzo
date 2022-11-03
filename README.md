@@ -1,6 +1,6 @@
 <h3 align="center"> 
 	👋 Hi there, I'm Henry ! <br>
-	🌱 I'm a physical oceanographer currently delving into data science :vulcan_salute: <br>
+	🌱 I'm a physical oceanographer currently delving into data science <br>
 	📋 This is where I’m building a portfolio in Data Science, Data Analytics and Machine Learning
 </h3>
 

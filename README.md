@@ -12,13 +12,11 @@
 </div>
 
 ---
-
 <div align="center">
 
   <a href="">[![alt rank](https://www.codewars.com/users/hbatistuzzo/badges/large)](https://www.codewars.com/users/hbatistuzzo)</a>
 
 </div>
-
 
 ---
 

@@ -1,8 +1,8 @@
-<h2 align="center"> 
+<h3 align="center"> 
 	Hi there! <br>
 	I'm a physical oceanographer currently delving into data analysis :vulcan_salute: <br>
 	Here you can find a portfolio of projects dealing with Data Cleaning, Viz and Processing.
-</h2>
+</h3>
 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hbatistuzzo@gmail.com)
 [![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-batistuzzo/)

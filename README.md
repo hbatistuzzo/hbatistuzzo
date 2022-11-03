@@ -18,9 +18,7 @@
 <br/>
 
 ### Tools I use the most:
-<br/>
 <div style = 'display: inline_block'>
-<br/>
 <a href="https://docs.python.org/3/">
 <img align='center' width=50px alt='python' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' />
 </a>
@@ -82,4 +80,4 @@
   ![Snake animation](https://github.com/PedroPDIN/PedroPDIN/blob/output/github-contribution-grid-snake.svg)
 
 
-<p align="center"><img src="ezgif-3-058b56cfa6.gif" width="100%"></p>
+<p align="center"><img src="ezgif-3-058b56cfa6.gif" width="75%"></p>

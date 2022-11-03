@@ -10,8 +10,8 @@
 #
 
 
-<img height="160em" width="300em" align="left" src="https://github-readme-stats.vercel.app/api?username=hbatistuzzo&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-<img height="180em" width="300em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbatistuzzo&layout=compact&langs_count=9&theme=radical" />
+<img height="160em" width="420em" align="left" src="https://github-readme-stats.vercel.app/api?username=hbatistuzzo&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+<img height="180em" width="420em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbatistuzzo&layout=compact&langs_count=9&theme=radical" />
 <br/>
 <br/>
 <br/>
@@ -22,6 +22,7 @@
 <br/>
 <br/>
 <br/>
+
 ### Tools I use the most:
 <div style = 'display: inline_block'>
 <a href="https://docs.python.org/3/">

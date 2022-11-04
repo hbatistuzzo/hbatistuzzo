@@ -7,7 +7,7 @@
 <div align="center">
   
   <a href="">[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hbatistuzzo@gmail.com)</a>
-  <a href="">[![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-batistuzzo/)</a> <br/>
+  <a href="">[![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-batistuzzo/)</a>>
   <a href="">[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCTihcuVi7oC3RgMPvS5l7Jw)</a> <br/>
 
 </div>

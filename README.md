@@ -92,7 +92,7 @@
           
 </div>
 
-  ![Snake animation](https://github.com/PedroPDIN/PedroPDIN/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/hbatistuzzo/hbatistuzzo/blob/output/github-contribution-grid-snake.svg)
 
 
 <p align="center"><img src="ezgif-3-058b56cfa6.gif" width="75%"></p>

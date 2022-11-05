@@ -88,8 +88,6 @@
  </table>
 
 ---
-
-
   ![Snake animation](https://github.com/hbatistuzzo/hbatistuzzo/blob/output/github-contribution-grid-snake.svg)
 
 

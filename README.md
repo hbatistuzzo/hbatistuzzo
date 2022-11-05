@@ -25,18 +25,11 @@ Besides these languages, I also have experience with Bash, LaTeX and Arduino for
 </div>
 
 ---
-<div align="center">
-
-  <a href="">[![alt rank](https://www.codewars.com/users/hbatistuzzo/badges/large)](https://www.codewars.com/users/hbatistuzzo)</a>
-
-</div>
-
----
 
 <div align="center">
   <a href="https://github.com/hbatistuzzo">
 <img height="180em"  width="390em" src="https://github-readme-stats.vercel.app/api?username=hbatistuzzo&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-<img height="180em" width="390em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbatistuzzo&layout=compact&langs_count=8&theme=merko" />
+<img height="180em" width="390em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbatistuzzo&layout=compact&langs_count=4&theme=merko" />
 </div>
 
 ---
@@ -92,5 +85,12 @@ Besides these languages, I also have experience with Bash, LaTeX and Arduino for
 ---
 
   ![Snake animation](https://github.com/hbatistuzzo/hbatistuzzo/blob/output/github-contribution-grid-snake.svg)
+
+---
+<div align="center">
+
+  <a href="">[![alt rank](https://www.codewars.com/users/hbatistuzzo/badges/large)](https://www.codewars.com/users/hbatistuzzo)</a>
+
+</div>
 
 <p align="center"><img src="ezgif-3-058b56cfa6.gif" width="75%"></p>

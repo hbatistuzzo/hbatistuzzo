@@ -6,15 +6,14 @@
 
 - :ocean: I have an **Ocean / Environmental Sciences** academic background, with a BSc in **Oceanography** from the University of São Paulo	<br>
 - :desktop_computer: I've recently (10/2022) completed a bootcamp in Data Analytics through **Ironhack**
-- :bar_chart: I've worked as a TA and as an Oceanography Data Analyst
+- :bar_chart: I've worked as a TA and as an Oceanographic Data Analyst
 - 📋 This is where I’m building a portfolio in Data Science, Data Analytics and Machine Learning
 
 
 I'm an Oceanographer with a focus on Remote Sensing and Geophysical Fluid Dynamics. If academia was a game of twister, I'd have one foot in physical oceanography, another one in marine biology (mostly concerning plankton) and
  one hand now finding its balance in Data Science.
 
-I have a long experience with programming (> 5 years) to process and analyze data. I started with C, MatLab and some R but nowadays I use Python as a tool of choice on a daily basis for work and projects.
-Besides these languages, I also have experience with Bash, LaTeX and Arduino for personal projects.
+I started programming with C, MatLab and some R but nowadays I use Python as a tool of choice on a daily basis both for oceanography and data science projects. Besides these languages, I also have some experience with Bash, LaTeX and Arduino for personal projects.
 
 <div align="center">
   

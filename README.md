@@ -13,7 +13,7 @@
 I'm an Oceanographer with a focus on Remote Sensing and Geophysical Fluid Dynamics. If academia was a game of twister, I'd have one foot in physical oceanography, another one in marine biology (mostly concerning plankton) and
  one hand now finding its balance in Data Science.
 
-I have a long experience with programming (> 10 years) to process and analyze data. I started with C, MatLab and some R but nowadays I use Python as a tool of choice on a daily basis for work and projects.
+I have a long experience with programming (> 5 years) to process and analyze data. I started with C, MatLab and some R but nowadays I use Python as a tool of choice on a daily basis for work and projects.
 Besides these languages, I also have experience with Bash, LaTeX and Arduino for personal projects.
 
 <div align="center">
@@ -21,7 +21,7 @@ Besides these languages, I also have experience with Bash, LaTeX and Arduino for
   <a href="">[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hbatistuzzo@gmail.com)</a>
   <a href="">[![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-batistuzzo/)</a>
   <a href="">[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCTihcuVi7oC3RgMPvS5l7Jw)</a> <br/>
-
+  <a href="">[!<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"](discordapp.com/users/NavierStoked#3819)</a>
 </div>
 
 ---
@@ -70,6 +70,7 @@ Besides these languages, I also have experience with Bash, LaTeX and Arduino for
   <tr>
     <td><h2 align="center">Databases</h2></td>
     <td><h2 align="center">Systems</h2></td>
+    <td><h2 align="center">Miscellaneous</h2></td>
   </tr>
   <tr>
     <td> 
@@ -83,6 +84,13 @@ Besides these languages, I also have experience with Bash, LaTeX and Arduino for
   <img align='center' width=50px alt='ubuntu' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />
   <img align='center' width=50px alt='bash' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
   <img align='center' width=50px alt='git' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  </div></td>
+  </tr>
+
+  <td height="auto" width="auto">  <div align="center">
+  <img align='center' width=50px alt='arduino' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
+  <img align='center' width=50px alt='vsc' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align='center' width=50px alt='slack' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg"/>
   </div></td>
   </tr>
  </table>

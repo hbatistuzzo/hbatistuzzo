@@ -43,9 +43,14 @@
   <tr>
     <td> 
     <div align="center">
-         <img align="center" alt="python"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-   <img align="center" alt="r-base"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
-   <img align="center" alt="matlab"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
+	<img align="center" alt="python"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+	<img align='center' width=50px alt='jupyter' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+	<img align="center" alt="r-base"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+	<img align="center" alt="matlab"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
+	<img align='center' width=50px alt='conda' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
+	<img align='center' width=50px alt='conda' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
+	<img align='center' width=50px alt='C' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+	<img align='center' width=50px alt='bash' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
      </div></td>
    <div align="center">
    </tr>

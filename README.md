@@ -86,9 +86,7 @@
   <img align='center' width=50px alt='slack' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg"/>
     </div></td>
  </table>
-
 ---
   ![Snake animation](https://github.com/hbatistuzzo/hbatistuzzo/blob/output/github-contribution-grid-snake.svg)
-
 
 <p align="center"><img src="ezgif-3-058b56cfa6.gif" width="75%"></p>

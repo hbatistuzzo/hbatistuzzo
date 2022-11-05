@@ -36,7 +36,7 @@ Besides these languages, I also have experience with Bash, LaTeX and Arduino for
 
 <div align="center">
 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=hbatistuzzo&theme=merko&stroke=0000)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=hbatistuzzo&theme=neon-dark&stroke=0000)](https://git.io/streak-stats)
 
 </div>
 

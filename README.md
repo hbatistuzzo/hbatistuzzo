@@ -133,7 +133,7 @@ Besides these languages, I also have experience with Bash, LaTeX and Arduino for
     <td width="10%" align="center">
       <p align="left"> This project came from the fintech AME-Digital's case for Data Engineers based on Stack Overflow's 2018 Dev Survey. Case specific goals: answering questions regarding average salary of respondents, where they are from, what technologies and communication tools they use etc. Repo below: </p>
       <a href="https://github.com/hbatistuzzo/Ironhack-Final-Project">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hbatistuzzo&repo=Ironhack-Final-Project&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hbatistuzzo&repo=Ironhack-Final-Projecta&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
       </a>
     </td>
   </tr>

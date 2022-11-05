@@ -33,7 +33,48 @@
 <br/>
 
 ---
-### Tools I use the most:
+<div>
+  <h1 align="center">Tech Tools</h1>
+  
+  <table align="center">
+  <tr>
+    <td><h2 align="center">Data Analysis || Data Science</h2></td>
+  </tr>
+  <tr>
+    <td> 
+    <div align="center">
+         <img align="center" alt="python"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+   <img align="center" alt="r-base"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+   <img align="center" alt="matlab"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
+     </div></td>
+   <div align="center">
+   </tr>
+   </table>
+
+   <table align="center">
+  <tr>
+    <td><h2 align="center">Databases</h2></td>
+  </tr>
+  <tr>
+    <td> 
+  <div align="center">
+     <img align="center" alt="postgres"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+   <img align="center" alt="mysql"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+    </div></td>
+  </tr>
+ </table>
+
+
+
+
+
+
+
+
+
+
+
+---
 <div style = 'display: inline_block'>
 <a href="https://docs.python.org/3/">
 <img align='center' width=50px alt='python' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' />

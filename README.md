@@ -101,8 +101,8 @@ Besides these languages, I also have experience with Bash, LaTeX and Arduino for
   <div>
      <table align="left">
   <tr>
-    <td width="5%"><h2 align="center">Rossby waves from CMEMS' altimetry</h2></td>
-    <td><h3 align="center">Data Viz</h3></td>
+    <td width="5%"><h2 align="center">CMEMS' altimetry</h2></td>
+    <td><h3 align="center">Identifying Rossby waves in Absolute Dynamic Topography data</h3></td>
   </tr>
   <tr>
     <td> 

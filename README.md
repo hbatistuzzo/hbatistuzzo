@@ -34,11 +34,11 @@ Besides these languages, I also have experience with Bash, LaTeX and Arduino for
 <img height="180em" width="390em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbatistuzzo&layout=compact&langs_count=4&theme=merko" />
 </div>
 
-<p align="center">
+<div align="center">
 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=hbatistuzzo)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=hbatistuzzo&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)](https://git.io/streak-stats)
 
-</p>
+</div>
 
 ---
 <div>

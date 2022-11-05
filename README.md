@@ -105,7 +105,7 @@ Besides these languages, I also have experience with Bash, LaTeX and Arduino for
   <tr>
     <td> 
   <div align="center">
-     <img align="center" alt="vgos" height="250" width="350" src="vgos.gif" />
+     <img align="center" alt="vgos" src="vgos.gif" />
     </div></td>
     <td width="10%" align="center">
       <p align="left"> I've used CMEMS altimetry data to create functions that plot global monthly climatologies of zonal and meridional geostrophic velocities. The absolute dynamic topography variable was used to construct hovmöller diagrams in latitudes with strong signals in the low-frequency energy spectrum. Rossby waves can then be visualized in this format. You can check it on the repo below. </p>

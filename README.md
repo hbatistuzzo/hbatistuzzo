@@ -1,8 +1,20 @@
-<h3 align="center"> 
-	👋 Hi there, I'm Henry ! <br>
-	🌱 I'm a physical oceanographer currently delving into data science <br>
+<h1 align="center"> 
+	Hi there 👋, I'm Henry ! <br>
+</h1>
+
+<h3 align="center">
+	🌱 I'm currently delving into **Data Science**
+	:ocean: I have an **Ocean / Environmental Sciences** academic background, with a BSc in **Oceanography**<br>
+	:desktop_computer: I've recently (10/2022) completed a bootcamp in Data Analytics through **Ironhack**
+	:bar_chart: I've worked as a TA and as an Oceanography Data Analyst
 	📋 This is where I’m building a portfolio in Data Science, Data Analytics and Machine Learning
 </h3>
+
+I'm an Oceanographer with a focus on Remote Sensing and Geophysical Fluid Dynamics. If academia was a game of twister, I'd have one foot in physical oceanography, another one in marine biology (mostly concerning plankton) and
+ one hand now finding its balance in Data Science.
+
+I have a long experience with programming (> 10 years) to process and analyze data. I started with C, MatLab and some R but nowadays I use Python as a tool of choice on a daily basis for work and projects.
+Besides these languages, I also have experience with Bash, LaTeX and Arduino for personal projects.
 
 <div align="center">
   

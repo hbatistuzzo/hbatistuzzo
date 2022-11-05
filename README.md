@@ -58,7 +58,6 @@ Besides these languages, I also have experience with Bash, LaTeX and Arduino for
 	<img align='center' alt="conda"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
 	<img align='center' alt="C-lang"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 	<img align='center' alt="pandas"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-          
      </div></td>
    <div align="center">
    </tr>

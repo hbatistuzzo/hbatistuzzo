@@ -2,7 +2,8 @@
 	Hi there 👋, I'm Henry ! <br>
 </h1>
 
-- 🌱 I'm currently delving into **Data Science**
+<h3 align="center">... I'm currently delving into **Data Science**!</h3> 
+
 - :ocean: I have an **Ocean / Environmental Sciences** academic background, with a BSc in **Oceanography**<br>
 - :desktop_computer: I've recently (10/2022) completed a bootcamp in Data Analytics through **Ironhack**
 - :bar_chart: I've worked as a TA and as an Oceanography Data Analyst

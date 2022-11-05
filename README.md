@@ -22,7 +22,7 @@ Besides these languages, I also have experience with Bash, LaTeX and Arduino for
   <a href="">[![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-batistuzzo/)</a>
   <a href="">[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCTihcuVi7oC3RgMPvS5l7Jw)</a>
   <a href="">[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/633896601555042326)</a>
-  <a href="">[![alt rank](https://www.codewars.com/users/hbatistuzzo/badges/micro)](https://www.codewars.com/users/hbatistuzzo)</a>
+  <a href="">[![alt rank](https://www.codewars.com/users/hbatistuzzo/badges/small)](https://www.codewars.com/users/hbatistuzzo)</a>
 
 </div>
 
@@ -85,12 +85,6 @@ Besides these languages, I also have experience with Bash, LaTeX and Arduino for
  </table>
 
   ![Snake animation](https://github.com/hbatistuzzo/hbatistuzzo/blob/output/github-contribution-grid-snake.svg)
-
-<div align="center">
-
-  <a href="">[![alt rank](https://www.codewars.com/users/hbatistuzzo/badges/micro)](https://www.codewars.com/users/hbatistuzzo)</a>
-
-</div>
 
 ---
 

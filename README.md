@@ -154,7 +154,7 @@ Besides these languages, I also have experience with Bash, LaTeX and Arduino for
     <td width="10%" align="center">
       <p align="left"> Codes used in my honours' thesis "1st mode baroclinic Rossby waves modify the composition of Phytoplancton Functional Groups". Altimetry data is used in tandem with a bioalgorithm that classifies phytoplankton groups based on their spectral signature.  Repo below: </p>
       <a href="https://github.com/hbatistuzzo/PHYSAT_data_processing">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hbatistuzzo&repo=PHYSAT_data_processinga&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hbatistuzzo&repo=PHYSAT_data_processing&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
       </a>
     </td>
   </tr>

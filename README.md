@@ -109,9 +109,9 @@ Besides these languages, I also have experience with Bash, LaTeX and Arduino for
      <img align="center" alt="vgos" height="250" width="350" src="vgos.gif" />
     </div></td>
     <td width="10%" align="center">
-      <p align="left"> You can check <a href="https://codeocean.com/capsule/1662797/tree/v1">here</a>. </p>
-      <a href="https://github.com/accarniel/region-inference-methods">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=accarniel&repo=region-inference-methods&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+      <p align="left"> I've used CMEMS altimetry data to create functions that plot global monthly climatologies of zonal and meridional geostrophic velocities. The absolute dynamic topography variable was used to construct hovmöller diagrams in latitudes with strong signals in the low-frequency energy spectrum. Rossby waves can then be visualized in this format. You can check <a href="https://codeocean.com/capsule/1662797/tree/v1">here</a>. </p>
+      <a href="https://https://github.com/hbatistuzzo/PHYSAT_data_processing">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hbatistuzzi&repo=PHYSAT_data_processing&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
       </a>
     </td>
   </tr>

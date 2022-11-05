@@ -127,7 +127,7 @@ Besides these languages, I also have experience with Bash, LaTeX and Arduino for
   <tr>
     <td> 
   <div align="center">
-     <img align="center" alt="vgos" height="250" width="250" src="money3.png" />
+     <img align="center" alt="vgos" height="250" width="450" src="money3.png" />
     </div></td>
     <td width="10%" align="center">
       <p align="left"> This project came from the fintech AME-Digital's case for Data Engineers based on Stack Overflow's 2018 Dev Survey. Case specific goals: answering questions regarding average salary of respondents, where they are from, what technologies and communication tools they use etc. Repo below: </p>

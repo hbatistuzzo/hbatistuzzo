@@ -142,7 +142,7 @@ Besides these languages, I also have experience with Bash, LaTeX and Arduino for
      <table align="left">
   <tr>
     <td width="5%"><h2 align="center">Case AME-Digital </h2></td>
-    <td><h3 align="center">Ironhack Final Project: Cleaning, Viz, SQL queries, Predictive Model</h3></td>
+    <td><h3 align="center">Ironhack Bootcamp Final Project </h3></td>
   </tr>
   <tr>
     <td> 

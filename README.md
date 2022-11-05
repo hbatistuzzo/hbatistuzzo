@@ -121,13 +121,13 @@ Besides these languages, I also have experience with Bash, LaTeX and Arduino for
   <div>
      <table align="left">
   <tr>
-    <td width="5%"><h3 align="center">Case AME-Digital /h3></td>
+    <td width="5%"><h3 align="center">Case AME-Digital </h3></td>
     <td><h3 align="center">Ironhack Final Project</h3></td>
   </tr>
   <tr>
     <td> 
   <div align="center">
-     <img align="center" alt="vgos" height="300" width="400" src="money3.png" />
+     <img align="center" alt="vgos" height="250" width="350" src="money3.png" />
     </div></td>
     <td width="10%" align="center">
       <p align="left"> This project came from the fintech AME-Digital's case for Data Engineers based on Stack Overflow's 2018 Dev Survey. Case specific goals: answering questions regarding average salary of respondents, where they are from, what technologies and communication tools they use etc.repo below. </p>

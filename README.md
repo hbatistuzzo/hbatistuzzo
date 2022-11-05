@@ -111,8 +111,8 @@ Besides these languages, I also have experience with Bash, LaTeX and Arduino for
     </div></td>
     <td width="10%" align="center">
       <p align="left"> I've used CMEMS altimetry data to create functions that plot global monthly climatologies of zonal and meridional geostrophic velocities. The absolute dynamic topography variable was used to construct hovmöller diagrams in latitudes with strong signals in the low-frequency energy spectrum. Rossby waves can then be visualized in this format. You can check it on the repo below. </p>
-      <a href="https://github.com/hbatistuzzo/CMEMS_altimetry">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hbatistuzzo&repo=CMEMS_altimetry&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+      <a href="https:/github.com/hbatistuzzo/CMEMS_altimetry">
+      <img align="center" src="https:/github-readme-stats.vercel.app/api/pin/?username=hbatistuzzo&repo=CMEMS_altimetry&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
       </a>
     </td>
   </tr>
@@ -132,8 +132,8 @@ Besides these languages, I also have experience with Bash, LaTeX and Arduino for
     </div></td>
     <td width="10%" align="center">
       <p align="left"> This project came from the fintech AME-Digital's case for Data Engineers based on Stack Overflow's 2018 Dev Survey. Case specific goals: answering questions regarding average salary of respondents, where they are from, what technologies and communication tools they use etc. Repo below: </p>
-      <a href="https://github.com/hbatistuzzo/Ironhack-Final-Project">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hbatistuzzo&repo=Ironhack-Final-Project&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+      <a href="https:/github.com/hbatistuzzo/Ironhack-Final-Project">
+      <img align="center" src="https:/github-readme-stats.vercel.app/api/pin/?username=hbatistuzzo&repo=Ironhack-Final-Project&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
       </a>
     </td>
   </tr>
@@ -153,8 +153,8 @@ Besides these languages, I also have experience with Bash, LaTeX and Arduino for
     </div></td>
     <td width="10%" align="center">
       <p align="left"> Codes used in my honours' thesis "1st mode baroclinic Rossby waves modify the composition of Phytoplancton Functional Groups". Altimetry data is used in tandem with a bioalgorithm that classifies phytoplankton groups based on their spectral signature.  Repo below: </p>
-      <a href="https://github.com/hbatistuzzo/PHYSAT_data_processing">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hbatistuzzo&repo=PHYSAT_data_processing&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+      <a href="https:/github.com/hbatistuzzo/PHYSAT_data_processing">
+      <img align="center" src="https:/github-readme-stats.vercel.app/api/pin/?username=hbatistuzzo&repo=PHYSAT_data_processing&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
       </a>
     </td>
   </tr>

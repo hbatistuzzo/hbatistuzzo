@@ -75,7 +75,17 @@
   </tr>
  </table>
 
-
+<table align="center">
+  <tr>
+    <td><h2 align="center">Miscellaneous</h2></td>
+  </tr>
+    <td> 
+  <div align="center">
+  <img align='center' width=50px alt='arduino' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
+  <img align='center' width=50px alt='vsc' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align='center' width=50px alt='slack' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg"/>
+    </div></td>
+</div>
 
 
 

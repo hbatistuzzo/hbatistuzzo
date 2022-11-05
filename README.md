@@ -94,4 +94,27 @@ Besides these languages, I also have experience with Bash, LaTeX and Arduino for
 
 ---
 
-<p align="center"><img src="ezgif-3-058b56cfa6.gif" width="75%"></p>
+ <br>
+  <h1 align="center">Main Projects</h1>
+  
+  <div>
+     <table align="left">
+  <tr>
+    <td width="5%"><h3 align="center">Rossby waves from CMEMS' altimetry</h3></td>
+    <td><h3 align="center">Data Viz</h3></td>
+  </tr>
+  <tr>
+    <td> 
+  <div align="center">
+     <img align="center" alt="vgos" height="250" width="350" src="vgos.gif" />
+    </div></td>
+    <td width="10%" align="center">
+      <p align="left"> You can check <a href="https://codeocean.com/capsule/1662797/tree/v1">here</a>. </p>
+      <a href="https://github.com/accarniel/region-inference-methods">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=accarniel&repo=region-inference-methods&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+      </a>
+    </td>
+  </tr>
+ </table>
+ </div>
+  

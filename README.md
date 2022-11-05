@@ -52,11 +52,13 @@ Besides these languages, I also have experience with Bash, LaTeX and Arduino for
     <td> 
     <div align="center">
 	<img align="center" alt="python"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-	<img align='center' width=50px alt='jupyter' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+	<img align='center' alt='jupyter' height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 	<img align="center" alt="r-base"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
 	<img align="center" alt="matlab"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
-	<img align='center' width=50px alt='conda' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
-	<img align='center' width=50px alt='C' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+	<img align='center' alt="conda"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
+	<img align='center' alt="C-lang"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+	<img align='center' alt="pandas"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+          
      </div></td>
    <div align="center">
    </tr>
@@ -141,18 +143,18 @@ Besides these languages, I also have experience with Bash, LaTeX and Arduino for
   <div>
      <table align="left">
   <tr>
-    <td width="5%"><h2 align="center">Case AME-Digital </h2></td>
-    <td><h3 align="center">Ironhack Bootcamp Final Project </h3></td>
+    <td width="5%"><h2 align="center"> PHYSAT - GFD </h2></td>
+    <td><h3 align="center">Honours' Thesis Project </h3></td>
   </tr>
   <tr>
     <td> 
   <div align="center">
-     <img align="center" alt="vgos" height="250" width="450" src="money3.png" />
+     <img align="center" alt="vgos" height="250" width="450" src="dovidio_2010.png" />
     </div></td>
     <td width="10%" align="center">
-      <p align="left"> This project came from the fintech AME-Digital's case for Data Engineers based on Stack Overflow's 2018 Dev Survey. Case specific goals: answering questions regarding average salary of respondents, where they are from, what technologies and communication tools they use etc. Repo below: </p>
-      <a href="https://https://github.com/hbatistuzzo/Ironhack-Final-Project">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hbatistuzzo&repo=Ironhack-Final-Project&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+      <p align="left"> Codes used in my honours' thesis "1st mode baroclinic Rossby waves modify the composition of Phytoplancton Functional Groups". Altimetry data is used in tandem with a bioalgorithm that classifies phytoplankton groups based on their spectral signature.  Repo below: </p>
+      <a href="https://https://github.com/hbatistuzzo/PHYSAT_data_processing">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hbatistuzzo&repo=PHYSAT_data_processing&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
       </a>
     </td>
   </tr>

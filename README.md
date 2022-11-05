@@ -34,6 +34,12 @@ Besides these languages, I also have experience with Bash, LaTeX and Arduino for
 <img height="180em" width="390em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbatistuzzo&layout=compact&langs_count=4&theme=merko" />
 </div>
 
+<p align="center">
+    <a href="https://github.com/tauz-hub/tauz-hub.git">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="H streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hbatistuzzob&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
 ---
 <div>
   <h1 align="center">Tech Tools</h1>

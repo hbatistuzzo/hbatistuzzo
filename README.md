@@ -121,18 +121,18 @@ Besides these languages, I also have experience with Bash, LaTeX and Arduino for
   <div>
      <table align="left">
   <tr>
-    <td width="5%"><h3 align="center">Rossby waves from CMEMS' altimetry</h3></td>
-    <td><h3 align="center">Data Viz</h3></td>
+    <td width="5%"><h3 align="center">Case AME-Digital /h3></td>
+    <td><h3 align="center">Ironhack Final Project</h3></td>
   </tr>
   <tr>
     <td> 
   <div align="center">
-     <img align="center" alt="vgos" height="300" width="400" src="vgos.gif" />
+     <img align="center" alt="vgos" height="300" width="400" src="money3.png" />
     </div></td>
     <td width="10%" align="center">
-      <p align="left"> I've used CMEMS altimetry data to create functions that plot global monthly climatologies of zonal and meridional geostrophic velocities. The absolute dynamic topography variable was used to construct hovmöller diagrams in latitudes with strong signals in the low-frequency energy spectrum. Rossby waves can then be visualized in this format. You can check it on the repo below. </p>
-      <a href="https://https://github.com/hbatistuzzo/PHYSAT_data_processing">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hbatistuzzo&repo=PHYSAT_data_processing&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+      <p align="left"> This project came from the fintech AME-Digital's case for Data Engineers based on Stack Overflow's 2018 Dev Survey. Case specific goals: answering questions regarding average salary of respondents, where they are from, what technologies and communication tools they use etc.repo below. </p>
+      <a href="https://https://github.com/hbatistuzzo/Ironhack-Final-Project">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hbatistuzzo&repo=Ironhack-Final-Project&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
       </a>
     </td>
   </tr>

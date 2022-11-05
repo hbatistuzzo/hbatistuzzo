@@ -48,9 +48,7 @@
 	<img align="center" alt="r-base"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
 	<img align="center" alt="matlab"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
 	<img align='center' width=50px alt='conda' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
-	<img align='center' width=50px alt='conda' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
 	<img align='center' width=50px alt='C' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-	<img align='center' width=50px alt='bash' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
      </div></td>
    <div align="center">
    </tr>
@@ -59,13 +57,21 @@
    <table align="center">
   <tr>
     <td><h2 align="center">Databases</h2></td>
+    <td><h2 align="center">Systems</h2></td>
   </tr>
   <tr>
     <td> 
   <div align="center">
      <img align="center" alt="postgres"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
    <img align="center" alt="mysql"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+   <img align='center' width=50px alt='mySQLa' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg"/>
     </div></td>
+
+  <td height="auto" width="auto">  <div align="center">
+  <img align='center' width=50px alt='ubuntu' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />
+  <img align='center' width=50px alt='bash' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+  <img align='center' width=50px alt='git' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  </div></td>
   </tr>
  </table>
 

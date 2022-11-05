@@ -2,7 +2,7 @@
 	Hi there 👋, I'm Henry ! <br>
 </h1>
 
-<h3 align="center">... I'm currently delving into Data Science!</h3> 
+<h3 align="center">... I'm currently delving into Data Science 🖖 </h3> 
 
 - :ocean: I have an **Ocean / Environmental Sciences** academic background, with a BSc in **Oceanography** from the University of São Paulo	<br>
 - :desktop_computer: I've recently (10/2022) completed a bootcamp in Data Analytics through **Ironhack**

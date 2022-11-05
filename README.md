@@ -2,13 +2,12 @@
 	Hi there 👋, I'm Henry ! <br>
 </h1>
 
-<h3 align="center">
-	🌱 I'm currently delving into **Data Science**
-	:ocean: I have an **Ocean / Environmental Sciences** academic background, with a BSc in **Oceanography**<br>
-	:desktop_computer: I've recently (10/2022) completed a bootcamp in Data Analytics through **Ironhack**
-	:bar_chart: I've worked as a TA and as an Oceanography Data Analyst
-	📋 This is where I’m building a portfolio in Data Science, Data Analytics and Machine Learning
-</h3>
+- 🌱 I'm currently delving into **Data Science**
+- :ocean: I have an **Ocean / Environmental Sciences** academic background, with a BSc in **Oceanography**<br>
+- :desktop_computer: I've recently (10/2022) completed a bootcamp in Data Analytics through **Ironhack**
+- :bar_chart: I've worked as a TA and as an Oceanography Data Analyst
+- 📋 This is where I’m building a portfolio in Data Science, Data Analytics and Machine Learning
+
 
 I'm an Oceanographer with a focus on Remote Sensing and Geophysical Fluid Dynamics. If academia was a game of twister, I'd have one foot in physical oceanography, another one in marine biology (mostly concerning plankton) and
  one hand now finding its balance in Data Science.

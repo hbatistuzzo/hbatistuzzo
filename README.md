@@ -89,6 +89,7 @@ Feel free to message me on whatsapp here <a href="">[<img alt="henry | Whatsapp"
   <img align='center' width=50px alt='arduino' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
   <img align='center' width=50px alt='vsc' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align='center' width=50px alt='slack' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg"/>
+  <img align='center' width=50px alt="latex" src="latex-1.svg" />
   </div></td>
   </tr>
  </table>

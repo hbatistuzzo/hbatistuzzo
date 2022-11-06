@@ -21,7 +21,7 @@ I started programming with C, MatLab and some R but nowadays I use Python as a t
   <a href="">[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCTihcuVi7oC3RgMPvS5l7Jw)</a>
   <a href="">[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/633896601555042326)</a> <br/>
   <a href="">[![alt rank](https://www.codewars.com/users/hbatistuzzo/badges/large)](https://www.codewars.com/users/hbatistuzzo)</a>
-
+  <a href="">[<img align="left" alt="grazieledantas | Whatsapp" width="30px" src="./whatsapp.svg" />][whatsapp]
 </div>
 
 ---
@@ -157,3 +157,5 @@ I started programming with C, MatLab and some R but nowadays I use Python as a t
   </tr>
  </table>
  </div>
+
+[whatsapp]: http://api.whatsapp.com/send?phone=5511981126990

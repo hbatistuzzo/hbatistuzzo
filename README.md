@@ -60,6 +60,8 @@ Feel free to message me on whatsapp here <a href="">[<img alt="henry | Whatsapp"
 	<img align='center' alt="C-lang"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 	<img align='center' alt="pandas"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
 	<img align='center' alt="PowerBI"  height="50" width="60" src="Power-BI.svg" />
+	<img align='center' alt="tableau"  height="50" width="60" src="tableau.svg" />
+	<img align='center' alt="xarray"  height="50" width="60" src="xarray.jpg" />
      </div></td>
    <div align="center">
    </tr>

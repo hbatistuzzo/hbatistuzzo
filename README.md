@@ -166,3 +166,8 @@ Feel free to message me on whatsapp here <a href="">[<img alt="henry | Whatsapp"
  </div>
 
 [whatsapp]: http://api.whatsapp.com/send?phone=5511981126990
+
+<!---
+<img align='center' alt="conda"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
+<img align='center' alt="C-lang"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+-->

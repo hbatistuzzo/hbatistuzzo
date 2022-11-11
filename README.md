@@ -56,8 +56,6 @@ Feel free to message me on whatsapp here <a href="">[<img alt="henry | Whatsapp"
 	<img align='center' alt='jupyter' height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 	<img align="center" alt="r-base"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
 	<img align="center" alt="matlab"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
-	<img align='center' alt="conda"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
-	<img align='center' alt="C-lang"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 	<img align='center' alt="pandas"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
 	<img align='center' alt="PowerBI"  height="50" width="60" src="Power-BI.svg" />
 	<img align='center' alt="tableau"  height="50" width="60" src="tableau.png" />

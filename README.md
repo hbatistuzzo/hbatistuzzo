@@ -60,7 +60,7 @@ Feel free to message me on whatsapp here <a href="">[<img alt="henry | Whatsapp"
 	<img align='center' alt="PowerBI"  height="50" width="60" src="Power-BI.svg" />
 	<img align='center' alt="tableau"  height="50" width="60" src="tableau.png" />
 	<img align='center' alt="xarray"  height="50" width="60" src="xarray.jpg" />
-	<img align='center' width=50px alt='mySQLa' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg"/>
+	<img align='center' width=50px width="60" alt='mySQLa' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg"/>
      </div></td>
    <div align="center">
    </tr>

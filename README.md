@@ -41,6 +41,13 @@ Feel free to message me on whatsapp here <a href="">[<img alt="henry | Whatsapp"
 
 </div>
 
+
+<div align="center">
+
+<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hbatistuzzo&theme=merko" /></p>
+
+</div>
+
 ---
 <div>
   <h1 align="center">Tech Tools</h1>

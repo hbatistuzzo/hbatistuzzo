@@ -37,7 +37,7 @@ Feel free to message me on whatsapp here <a href="">[<img alt="henry | Whatsapp"
 
 <div align="center">
 
-<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hbatistuzzo&theme=nord_dark" /></p>
+<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hbatistuzzo&theme=github_dark" /></p>
 
 </div>
 

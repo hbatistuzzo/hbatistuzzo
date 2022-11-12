@@ -37,14 +37,13 @@ Feel free to message me on whatsapp here <a href="">[<img alt="henry | Whatsapp"
 
 <div align="center">
 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=hbatistuzzo&theme=merko&stroke=0000)](https://git.io/streak-stats)
+<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hbatistuzzo&theme=nord_dark" /></p>
 
 </div>
 
-
 <div align="center">
 
-<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hbatistuzzo&theme=nord_dark" /></p>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=hbatistuzzo&theme=merko&stroke=0000)](https://git.io/streak-stats)
 
 </div>
 

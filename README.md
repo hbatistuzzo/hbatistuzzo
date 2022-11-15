@@ -124,7 +124,7 @@ Feel free to message me on whatsapp here <a href="">[<img alt="henry | Whatsapp"
   
   <tr>
     <td width="50%" valign="top">
-      <h4 align="center">Identifying Rossby waves in Absolute Dynamic Topography data</h4>
+      <h4 align="center">Rossby waves in Absolute Dynamic Topography data</h4>
         <br />
 	<div align="center">
 
@@ -201,7 +201,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-w
   
   <tr>
     <td width="50%" valign="top">
-      <h4 align="center">Honours' Thesis Project</h4>
+      <h4 align="center">PHYSAT: Honours' Thesis Project</h4>
         <br />
 	<div align="center">
 

@@ -247,9 +247,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-w
 	</div>
         <br />
         <p>Predict the price of the diamonds in rick_diamonds.csv using the information from diamonds.csv through a linear regression model.<br/></p>
-      <p align="center">
+      <p align="center"><br/>
         <strong> Technologies used </strong>
-        <br/>
+        
         <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" height="50" width="60"/> </a>
 	<img  alt="pandas"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />

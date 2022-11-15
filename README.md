@@ -133,6 +133,8 @@ Feel free to message me on whatsapp here <a href="">[<img alt="henry | Whatsapp"
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/hbatistuzzo/CMEMS_altimetry)
 ![GitHub last commit](https://img.shields.io/github/last-commit/hbatistuzzo/CMEMS_altimetry)
 
+</div>
+<div align="center">
         <a target="_blank" href="google.comp">
             <img align="center" src="vgos.gif" height="300" width="400" alt="AVISO"/>
         </a>
@@ -170,6 +172,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-w
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/hbatistuzzo/Ironhack-Final-Project)
 ![GitHub last commit](https://img.shields.io/github/last-commit/hbatistuzzo/Ironhack-Final-Project)
 
+</div>
+<div align="center">
         <a target="_blank" href="google.comp">
             <img align="center" src="databank_structure.png" height="300" width="400" alt="money3"/>
         </a>
@@ -206,6 +210,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-w
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/hbatistuzzo/PHYSAT_data_processing)
 ![GitHub last commit](https://img.shields.io/github/last-commit/hbatistuzzo/PHYSAT_data_processing)
 
+</div>
+<div align="center">
         <a target="_blank" href="google.comp">
             <img src="dovidio_2010.png" height="300"width="400" alt="PHYSAT"/>
         </a>
@@ -242,6 +248,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-w
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/hbatistuzzo/Diamonds_Henrique)
 ![GitHub last commit](https://img.shields.io/github/last-commit/hbatistuzzo/Diamonds_Henrique)
 
+</div>
+<div align="center">
         <a target="_blank" href="google.comp">
             <img src="heatmap.png" height = "300" width="400" alt="heat"/>
         </a>

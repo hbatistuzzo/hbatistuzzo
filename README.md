@@ -246,13 +246,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-w
         </a>
 	</div>
         <br />
-        <p>Predict the price of the diamonds in rick_diamonds.csv using the information from diamonds.csv through a linear regression model.<br/></p>
-      <p align="center"><br/>
+        <p>Predict the price of the diamonds in rick_diamonds.csv using the information from diamonds.csv through a linear regression model.</p>
+      <p align="center">
         <strong> Technologies used </strong>
         
-        <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" height="50" width="60"/> </a>
-	<img  alt="pandas"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+        <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" height="50" width="60"/> </a>
+	<img alt="pandas"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
 	<img alt="mysql"  height=80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
       </p>
       <p align="center">

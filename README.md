@@ -258,7 +258,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-w
       <p align="center">
         <strong> IDE used </strong>
         <br/>
-        <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+        https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white
       </p>
       <p align="center">
   <a href="https://github.com/hbatistuzzo/Diamonds_Henrique" target="_blank">

@@ -127,6 +127,10 @@ Feel free to message me on whatsapp here <a href="">[<img alt="henry | Whatsapp"
       <h4 align="center">Identifying Rossby waves in Absolute Dynamic Topography data</h4>
         <br />
 	<div align="center">
+![GitHub top language](https://img.shields.io/github/languages/top/hbatistuzzo/CMEMS_altimetry)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/hbatistuzzo/CMEMS_altimetry)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/hbatistuzzo/CMEMS_altimetry)
+![GitHub last commit](https://img.shields.io/github/last-commit/hbatistuzzo/CMEMS_altimetry)
         <a target="_blank" href="google.comp">
             <img align="center" src="vgos.gif" height="300" width="400" alt="AVISO"/>
         </a>
@@ -134,7 +138,7 @@ Feel free to message me on whatsapp here <a href="">[<img alt="henry | Whatsapp"
         <br />
         <p>
 I've used CMEMS altimetry data to create functions that plot global monthly climatologies of zonal and meridional geostrophic velocities. The absolute dynamic topography variable was used to construct hovmöller diagrams in latitudes with strong signals in the low-frequency energy spectrum. Rossby waves can then be visualized in this format. You can check it on the repo below.<br></p>
-      <p align="left">
+      <p align="center">
         <strong> Technologies used </strong>
         <br/>
         <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img
@@ -143,7 +147,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-w
 	<img  alt="xarray"  height="50" width="60" src="xarray.jpg" />
 	<img  alt="dask" height="50" width="60" src="dask.svg"/>
       </p>
-      <p align="left">
+      <p align="center">
         <strong> IDE used </strong>
         <br/>
         <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
@@ -158,13 +162,17 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-w
       <h4 align="center">Ironhack Final Project: Viz, SQL queries, Predictive Model</h4>
         <br />
 	<div align="center">
+![GitHub top language](https://img.shields.io/github/languages/top/hbatistuzzo/Ironhack-Final-Project)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/hbatistuzzo/Ironhack-Final-Project)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/hbatistuzzo/Ironhack-Final-Project)
+![GitHub last commit](https://img.shields.io/github/last-commit/hbatistuzzo/Ironhack-Final-Project)
         <a target="_blank" href="google.comp">
             <img align="center" src="databank_structure.png" height="300" width="400" alt="money3"/>
         </a>
 	</div>
         <br />
         <p>This project came from the fintech AME-Digital's case for Data Engineers based on Stack Overflow's 2018 Dev Survey. Case specific goals: answering questions regarding average salary of respondents, where they are from, what technologies and communication tools they use etc.</br> Repo below:</p>
-      <p align="left">
+      <p align="center">
         <strong> Technologies used </strong>
         <br/>
         <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img
@@ -172,7 +180,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-w
 	<img alt="pandas"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
 	<img alt="mysql"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
       </p>
-      <p align="left">
+      <p align="center">
         <strong> IDE used </strong>
         <br/>
         <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
@@ -188,13 +196,17 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-w
       <h4 align="center">Honours' Thesis Project</h4>
         <br />
 	<div align="center">
+![GitHub top language](https://img.shields.io/github/languages/top/hbatistuzzo/PHYSAT_data_processing)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/hbatistuzzo/PHYSAT_data_processing)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/hbatistuzzo/PHYSAT_data_processing)
+![GitHub last commit](https://img.shields.io/github/last-commit/hbatistuzzo/PHYSAT_data_processing)
         <a target="_blank" href="google.comp">
             <img src="dovidio_2010.png" height="300"width="400" alt="PHYSAT"/>
         </a>
 	</div>
         <br />
         <p>Codes used in my honours' thesis "1st mode baroclinic Rossby waves modify the composition of Phytoplancton Functional Groups". Altimetry data is used in tandem with a bioalgorithm that classifies phytoplankton groups based on their spectral signature. Repo below:</p>
-      <p align="left">
+      <p align="center">
         <strong> Technologies used </strong>
         <br/>
         <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img
@@ -203,7 +215,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-w
 	<img  alt="xarray"  height="50" width="60" src="xarray.jpg" />
 	<img  alt="dask" height="50" width="60" src="dask.svg"/>
       </p>
-      <p align="left">
+      <p align="center">
         <strong> IDE used </strong>
         <br/>
         <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
@@ -218,13 +230,17 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-w
       <h4 align="center">Linear regression model data</h4>
         <br />
 	<div align="center">
+![GitHub top language](https://img.shields.io/github/languages/top/hbatistuzzo/Diamonds_Henrique)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/hbatistuzzo/Diamonds_Henrique)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/hbatistuzzo/Diamonds_Henrique)
+![GitHub last commit](https://img.shields.io/github/last-commit/hbatistuzzo/Diamonds_Henrique)
         <a target="_blank" href="google.comp">
             <img src="heatmap.png" height = "300" width="400" alt="heat"/>
         </a>
 	</div>
         <br />
         <p>Predict the price of the diamonds in rick_diamonds.csv using the information from diamonds.csv through a linear regression model.</p>
-      <p align="left">
+      <p align="center">
         <strong> Technologies used </strong>
         <br/>
         <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img
@@ -233,7 +249,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-w
 	<img  alt="xarray"  height="50" width="60" src="xarray.jpg" />
 	<img  alt="dask" height="50" width="60" src="dask.svg"/>
       </p>
-      <p align="left">
+      <p align="center">
         <strong> IDE used </strong>
         <br/>
         <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">

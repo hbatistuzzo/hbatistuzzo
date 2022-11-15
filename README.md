@@ -247,6 +247,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-w
 	</div>
         <br />
         <p>Predict the price of the diamonds in rick_diamonds.csv using the information from diamonds.csv through a linear regression model.</p>
+<br/>
+<br/>
 	<p align="center">
         <strong> Technologies used </strong>
         <br/>
@@ -267,7 +269,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-w
   </tr>
 
 </table>
-
-
-
  

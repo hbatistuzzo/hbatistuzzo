@@ -68,6 +68,7 @@ Feel free to message me on whatsapp here <a href="">[<img alt="henry | Whatsapp"
 	<img align='center' alt="xarray"  height="50" width="60" src="xarray.jpg" />
 	<img align='center' width=50px width="60" alt='mySQLa' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg"/>
 	<img align='center' width=50px width="60" alt='dask' src="dask.svg"/>
+	<img align='center' width=50px width="60" alt='regex' src="OOjs_UI_icon_regular-expression-progressive.svg.png"/>
      </div></td>
    <div align="center">
    </tr>
@@ -215,11 +216,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-w
       <p align="center">
         <strong> Technologies used </strong>
         <br/>
-        <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" height="50" width="60"/> </a>
-	<img  alt="pandas"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-	<img  alt="xarray"  height="50" width="60" src="xarray.jpg" />
-	<img  alt="dask" height="50" width="60" src="dask.svg"/>
+        <img align="center" alt="matlab"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
       </p>
       <p align="center">
         <strong> IDE used </strong>
@@ -256,8 +253,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-w
         <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" height="50" width="60"/> </a>
 	<img  alt="pandas"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-	<img  alt="xarray"  height="50" width="60" src="xarray.jpg" />
-	<img  alt="dask" height="50" width="60" src="dask.svg"/>
+	<img alt="mysql"  height=80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
       </p>
       <p align="center">
         <strong> IDE used </strong>

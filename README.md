@@ -10,7 +10,7 @@
 - 📋 This is where I’m building a portfolio in Data Science, Data Analytics and Machine Learning
 
 
-I'm an Oceanographer with a focus on Remote Sensing and Geophysical Fluid Dynamics. I mostly deal with subjects in physical oceanography, marine biology (phyto/zooplankton and fisheries) and recently Data Science. Currently investing in learning advanced SQL and PowerBI.
+I'm an Oceanographer with a focus on Remote Sensing and Geophysical Fluid Dynamics. I mostly deal with subjects in physical oceanography, marine biology (phyto/zooplankton and fisheries) and recently Data Science. Currently investing in learning advanced SQL, PowerBI and Spark.
 
 I started programming with C, MatLab and some R but nowadays I use Python as a tool of choice on a daily basis both for oceanography and data science projects. Besides these languages, I also have some experience with Bash, LaTeX and Arduino for personal projects.
 

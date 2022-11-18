@@ -273,7 +273,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-w
   
     </td>
 <td width="50%" valign="top">
-
+   </td>
   </tr>
 
 </table>

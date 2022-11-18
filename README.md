@@ -23,7 +23,7 @@ Feel free to message me on whatsapp here <a href="">[<img alt="henry | Whatsapp"
   <a href="">[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCTihcuVi7oC3RgMPvS5l7Jw)</a>
   <a href="">[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/633896601555042326)</a>
   <a href="">[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://ironhack.slack.com/U03NSGXN5M2)</a>
-  <a href="">[![alt rank](https://www.codewars.com/users/hbatistuzzo/badges/large)](https://www.codewars.com/users/hbatistuzzo)</a> <p align="right"><img src="ironbadge.png" width="10%" alt="Logo"></p>
+  <a href="">[![alt rank](https://www.codewars.com/users/hbatistuzzo/badges/large)](https://www.codewars.com/users/hbatistuzzo)</a>
   
 </div>
 
@@ -279,3 +279,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-w
 
 </table>
  
+ <p align="center"><img src="ironbadge.png" width="50%" alt="Logo"></p>

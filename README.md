@@ -263,7 +263,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-w
         <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
       </p>
       <p align="center">
-  <a href="https://github.com/hbatistuzzo/Ironhack-FinalProject" target="_blank">
+  <a href="https://github.com/hbatistuzzo/Diamonds_Henrique" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
   </a>  
   </tr>

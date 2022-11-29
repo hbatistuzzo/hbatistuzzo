@@ -176,6 +176,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-w
         <br />
         <p>This project came from the fintech AME-Digital's case for Data Engineers based on Stack Overflow's 2018 Dev Survey. Case specific goals: answering questions regarding average salary of respondents, where they are from, what technologies and communication tools they use etc.</br> Repo below:</p>
       <p align="center">
+	 <br/>
         <strong> Technologies used </strong>
         <br/>
         <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img

@@ -66,6 +66,7 @@ Feel free to message me on whatsapp here <a href="">[<img alt="henry | Whatsapp"
 	<img align='center' alt="PowerBI"  height="50" width="60" src="Power-BI.svg" />
 	<img align='center' alt="tableau"  height="50" width="60" src="tableau.png" />
 	<img align='center' alt="xarray"  height="50" width="60" src="xarray.jpg" />
+	<img align='center' alt="selenium"  height="50" width="60" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" />
 	<img align='center' width=50px width="60" alt='mySQLa' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg"/>
 	<img align='center' width=50px width="60" alt='dask' src="dask.svg"/>
 	<img align='center' width=50px width="60" alt='regex' src="OOjs_UI_icon_regular-expression-progressive.svg.png"/>
@@ -91,6 +92,7 @@ Feel free to message me on whatsapp here <a href="">[<img alt="henry | Whatsapp"
   <img align='center' width=50px alt='ubuntu' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />
   <img align='center' width=50px alt='bash' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
   <img align='center' width=50px alt='git' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align='center' width=50px alt='php' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
   </div></td>
 
   <td height="auto" width="auto">  <div align="center">

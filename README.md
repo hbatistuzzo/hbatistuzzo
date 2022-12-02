@@ -92,7 +92,6 @@ Feel free to message me on whatsapp here <a href="">[<img alt="henry | Whatsapp"
   <img align='center' width=50px alt='ubuntu' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />
   <img align='center' width=50px alt='bash' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
   <img align='center' width=50px alt='git' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align='center' width=50px alt='php' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
   </div></td>
 
   <td height="auto" width="auto">  <div align="center">
@@ -100,6 +99,7 @@ Feel free to message me on whatsapp here <a href="">[<img alt="henry | Whatsapp"
   <img align='center' width=50px alt='vsc' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align='center' width=50px alt='slack' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg"/>
   <img align='center' width=50px alt="latex" src="latex-1.svg" />
+  <img align='center' width=50px alt='php' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
   </div></td>
   </tr>
  </table>

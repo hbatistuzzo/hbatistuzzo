@@ -4,7 +4,7 @@
 
 <h3 align="center">... I'm currently delving into Data Science 🖖 </h3> 
 
-- :ocean: I have an **Ocean/Environmental Sciences** academic background, with a BSc in **Oceanography** from the University of São Paulo
+- :ocean: I have an **Ocean/Environmental Sciences** academic background; BSc in **Oceanography** from the University of São Paulo
 - :desktop_computer: I've recently (10/2022) completed a bootcamp in Data Analytics through **Ironhack**
 - :bar_chart: I've worked as a TA and as an Oceanographic Data Analyst in Victoria, Canada
 - 📋 This is where I’m building a portfolio in Data Science, Data Analytics and Machine Learning

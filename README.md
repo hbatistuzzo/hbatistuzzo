@@ -272,6 +272,43 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-w
 
  <tr>
     <td width="50%" valign="top">
+      <h4 align="center">Machine Learning: Rain in Australia</h4>
+        <br />
+	<div align="center">
+
+![GitHub top language](https://img.shields.io/github/languages/top/hbatistuzzo/Machine_Learning-Rain_in_Australia)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/hbatistuzzo/Machine_Learning-Rain_in_Australia)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/hbatistuzzo/Machine_Learning-Rain_in_Australia)
+![GitHub last commit](https://img.shields.io/github/last-commit/hbatistuzzo/Machine_Learning-Rain_in_Australia)
+
+</div>
+<div align="center">
+        <a target="_blank" href="google.comp">
+            <img src="distplot.png" height = "300" width="400" alt="heat"/>
+        </a>
+	</div>
+        <br />
+        <p>Given that it rains today, will it rain again tomorrow?
+Real-time accurate rainfall prediction is challenging due to the inherent non-linear nature of weather. Using a database of meteorological variables in different cities of
+Australia, the goal of this project is to train a model on short-term rainfall prediction (forecasting range up to 72 hours).</p>
+<br/>
+<br/>
+	<p align="center">
+        <strong> Technologies used </strong>
+        <br/>
+        <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" height="50" width="60"/> </a>
+	<img alt="pandas"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+      </p>
+      <p align="center">
+        <strong> IDE used </strong>
+        <br/>
+        <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+      </p>
+      <p align="center">
+  <a href="https://github.com/hbatistuzzo/Diamonds_Henrique" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
+  </a>  
 </td>
 <td width="50%" valign="top">
    </td>

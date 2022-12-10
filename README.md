@@ -296,12 +296,10 @@ Australia, the goal of this project is to train a model on short-term rainfall p
 	<p align="center">
         <strong> Technologies used </strong>
         <br/>
-        <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" height="50" width="60"/> </a>
+        <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" height="50" width="60"/> </a>
 	<img alt="pandas"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
 	<img alt="tf"  height="50" width="60" src="href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" />
-
-      </p>
+	</p>
       <p align="center">
         <strong> IDE used </strong>
         <br/>

@@ -292,7 +292,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-w
 Real-time accurate rainfall prediction is challenging due to the inherent non-linear nature of weather. Using a database of meteorological variables in different cities of
 Australia, the goal of this project is to train a model on short-term rainfall prediction (forecasting range up to 72 hours).</p>
 <br/>
-<br/>
 	<p align="center">
         <strong> Technologies used </strong>
         <br/>

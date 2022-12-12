@@ -28,6 +28,7 @@ Feel free to message me on whatsapp here <a href="">[<img alt="henry | Whatsapp"
 </div>
 
 ---
+<h1 align="center">GitHub Stats</h1>
 
 <div align="center">
   <a href="https://github.com/hbatistuzzo">

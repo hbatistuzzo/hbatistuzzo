@@ -330,6 +330,7 @@ Australia, the goal of this project is to train a model on short-term rainfall p
         <p>Exploratory Analysis of a Covid-19 Dataset using SQL. I've done this project to showcase my skills related to: Joins, CTE's, Temporary Tables, Windows Functions, Aggregate Functions, Creating Views and Converting Data Types.</p>
 <br/>
 <br/>
+<br/>
 	<p align="center">
         <strong> Technologies used </strong>
         <br/>

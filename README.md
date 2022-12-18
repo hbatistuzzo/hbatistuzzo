@@ -284,7 +284,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-w
 
 </div>
 <div align="center">
-        <a target="_blank" href="google.comp">
+        <a target="_blank" href="google.com">
             <img src="distplot.png" height = "300" width="400" alt="heat"/>
         </a>
 	</div>
@@ -311,6 +311,48 @@ Australia, the goal of this project is to train a model on short-term rainfall p
   </a>  
 </td>
 <td width="50%" valign="top">
+      <h4 align="center">Machine Learning: Rain in Australia</h4>
+        <br />
+	<div align="center">
+
+![GitHub top language](https://img.shields.io/github/languages/top/hbatistuzzo/Covid_SQL)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/hbatistuzzo/Covid_SQL)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/hbatistuzzo/Covid_SQL)
+![GitHub last commit](https://img.shields.io/github/last-commit/hbatistuzzo/Covid_SQL)
+
+</div>
+<div align="center">
+        <a target="_blank" href="google.com">
+            <img src="example.png" height = "300" width="400" alt="exx"/>
+        </a>
+	</div>
+        <br />
+        <p>Exploratory Analysis of a Covid-19 Dataset using SQL. I've done this project to showcase my skills related to:
+- Joins
+- CTE's
+- Temporary Tables
+- Windows Functions
+- Aggregate Functions
+- Creating Views
+- Converting Data Types
+</p>
+<br/>
+	<p align="center">
+        <strong> Technologies used </strong>
+        <br/>
+
+        <img alt="mysql"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+
+	</p>
+      <p align="center">
+        <strong> IDE used </strong>
+        <br/>
+        <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+      </p>
+      <p align="center">
+  <a href="https://github.com/hbatistuzzo/Covid_SQL" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
+  </a>  
    </td>
   </tr>
 

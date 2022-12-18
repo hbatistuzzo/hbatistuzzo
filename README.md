@@ -311,7 +311,7 @@ Australia, the goal of this project is to train a model on short-term rainfall p
   </a>  
 </td>
 <td width="50%" valign="top">
-      <h4 align="center">Machine Learning: Rain in Australia</h4>
+      <h4 align="center">COVID-19 SQL Project</h4>
         <br />
 	<div align="center">
 
@@ -327,22 +327,12 @@ Australia, the goal of this project is to train a model on short-term rainfall p
         </a>
 	</div>
         <br />
-        <p>Exploratory Analysis of a Covid-19 Dataset using SQL. I've done this project to showcase my skills related to:
-- Joins
-- CTE's
-- Temporary Tables
-- Windows Functions
-- Aggregate Functions
-- Creating Views
-- Converting Data Types
-</p>
+        <p>Exploratory Analysis of a Covid-19 Dataset using SQL. I've done this project to showcase my skills related to: Joins, CTE's, Temporary Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types</p>
 <br/>
 	<p align="center">
         <strong> Technologies used </strong>
         <br/>
-
         <img alt="mysql"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-
 	</p>
       <p align="center">
         <strong> IDE used </strong>

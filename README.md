@@ -335,6 +335,7 @@ Australia, the goal of this project is to train a model on short-term rainfall p
         <strong> Technologies used </strong>
         <br/>
         <img alt="mysql"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+	<img alt="MSsql"  height="50" width="60" src="/5968306.png" />
 	</p>
       <p align="center">
         <strong> IDE used </strong>

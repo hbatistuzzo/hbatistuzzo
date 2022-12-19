@@ -59,15 +59,16 @@ Feel free to message me on whatsapp here <a href="">[<img alt="henry | Whatsapp"
   <tr>
     <td> 
     <div align="center">
-	<img align="center" alt="python"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-	<img align='center' alt='jupyter' height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-	<img align="center" alt="r-base"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
-	<img align="center" alt="matlab"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
-	<img align='center' alt="pandas"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-	<img align='center' alt="PowerBI"  height="50" width="60" src="Power-BI.svg" />
-	<img align='center' alt="tableau"  height="50" width="60" src="tableau.png" />
-	<img align='center' alt="xarray"  height="50" width="60" src="xarray.jpg" />
-	<img align='center' alt="selenium"  height="50" width="60" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" />
+	<img align="center" alt="python"  height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="60" height="60"/>
+	<img align='center' alt='jupyter' height="60" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+	<img align="center" alt="r-base"  height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+	<img align="center" alt="matlab"  height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
+	<img align='center' alt="pandas"  height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+	<img align='center' alt="PowerBI"  height="60" width="60" src="Power-BI.svg" />
+	<img align='center' alt="tableau"  height="60" width="60" src="tableau.png" />
+	<img align='center' alt="xarray"  height="60" width="60" src="xarray.jpg" />
+	<img align='center' alt="selenium"  height="60" width="60" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" />
 	<img align='center' width=50px width="60" alt='mySQLa' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg"/>
 	<img align='center' width=50px width="60" alt='dask' src="dask.svg"/>
 	<img align='center' width=50px width="60" alt='regex' src="OOjs_UI_icon_regular-expression-progressive.svg.png"/>
@@ -85,7 +86,7 @@ Feel free to message me on whatsapp here <a href="">[<img alt="henry | Whatsapp"
   <tr>
     <td> 
   <div align="center">
-     <img align="center" alt="postgres"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+     <img align="center" alt="postgres"  height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
    <img align="center" alt="mysql"  height=80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
 <img align="center" alt="MSsql"  height="70" width="70" src="/msql.png" />
     </div></td>
@@ -336,7 +337,7 @@ Australia, the goal of this project is to train a model on short-term rainfall p
         <strong> Technologies used </strong>
         <br/>
         <img alt="mysql"  height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-	<img alt="MSsql"  height="70" width="70" src="/5968306.png" />
+	<img align="center" alt="MSsql"  height="70" width="70" src="/msql.png" />
 	</p>
       <p align="center">
         <strong> IDE used </strong>

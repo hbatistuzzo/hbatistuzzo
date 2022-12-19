@@ -60,7 +60,7 @@ Feel free to message me on whatsapp here <a href="">[<img alt="henry | Whatsapp"
     <td> 
     <div align="center">
 	<img align="center" alt="python"  height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="60" height="60"/>
+	<img align="center" alt="numpy" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg""/>
 	<img align='center' alt='jupyter' height="60" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 	<img align="center" alt="r-base"  height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
 	<img align="center" alt="matlab"  height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />

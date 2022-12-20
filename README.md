@@ -147,9 +147,9 @@ I've used CMEMS altimetry data to create functions that plot global monthly clim
         <br/>
         <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" height="50" width="60"/> </a>
-	<img  alt="pandas"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-	<img  alt="xarray"  height="50" width="60" src="xarray.jpg" />
-	<img  alt="dask" height="50" width="60" src="dask.svg"/>
+	<img  alt="pandas"  height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+	<img  alt="xarray"  height="70" width="70" src="xarray.jpg" />
+	<img  alt="dask" height="70" width="70" src="dask.svg"/>
       </p>
       <p align="center">
         <strong> IDE used </strong>
@@ -223,7 +223,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-w
       <p align="center">
         <strong> Technologies used </strong>
         <br/>
-        <img align="center" alt="matlab"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
+        <img align="center" alt="matlab"  height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
       </p>
       <p align="center">
         <strong> IDE used </strong>
@@ -260,8 +260,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-w
         <strong> Technologies used </strong>
         <br/>
         <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" height="50" width="60"/> </a>
-	<img alt="pandas"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" height="70" width="70"/> </a>
+	<img alt="pandas"  height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
       </p>
       <p align="center">
         <strong> IDE used </strong>
@@ -299,9 +299,9 @@ Australia, the goal of this project is to train a model on short-term rainfall p
 	<p align="center">
         <strong> Technologies used </strong>
         <br/>
-        <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" height="50" width="60"/> </a>
-	<img alt="pandas"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-	<img alt="tf"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+        <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" height="70" width="70"/> </a>
+	<img alt="pandas"  height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+	<img alt="tf"  height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
 	</p>
       <p align="center">
         <strong> IDE used </strong>

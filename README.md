@@ -338,6 +338,7 @@ Australia, the goal of this project is to train a model on short-term rainfall p
         <br/>
         <img align="center" alt="mysql"  height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 	<img align="center" alt="MSsql"  height="70" width="70" src="/msql.png" />
+	<img align='center' alt="tableau"  height="70" width="70" src="tableau.png" />
 	</p>
       <p align="center">
         <strong> IDE used </strong>

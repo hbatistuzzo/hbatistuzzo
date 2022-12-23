@@ -89,6 +89,7 @@ Feel free to message me on whatsapp here <a href="">[<img alt="henry | Whatsapp"
      <img align="center" alt="postgres"  height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
    <img align="center" alt="mysql"  height=80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
 <img align="center" alt="MSsql"  height="70" width="70" src="/msql.png" />
+<img align="center" alt="ADS"  height="70" width="70" src="/azure-data-studio.svg" />
     </div></td>
 
   <td height="auto" width="auto">  <div align="center">

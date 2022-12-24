@@ -15,8 +15,6 @@ I'm an Oceanographer with a focus on Remote Sensing and Geophysical Fluid Dynami
 I started programming with C, MatLab and some R but nowadays I use Python as a tool of choice on a daily basis both for oceanography and data science projects. Besides these languages, I also have some experience with Bash, LaTeX and Arduino for personal projects.
 
 Feel free to message me on whatsapp here <a href="">[<img alt="henry | Whatsapp" width="40px" src="./whatsapp.svg" />][whatsapp] or contact me through any of these links below:
-
-<div align="center">
   
 <div align="center">
   <a href="">[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hbatistuzzo@gmail.com)</a>

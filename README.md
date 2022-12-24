@@ -8,7 +8,7 @@
 - :desktop_computer: I've recently (10/2022) completed a bootcamp in Data Analytics through **Ironhack**
 - :bar_chart: I've worked as a TA and as an Oceanographic Data Analyst in Victoria, Canada
 - 📋 This is where I’m building a portfolio in Data Science, Data Analytics and Machine Learning
-- 🤘 4th kyu in codewars. YES it's **actually** a badge of honor. _It ain't easy_!
+- 🤘 4th kyu in codewars. Non-ironically a badge of honor. It ain't easy 😢!
 
 I'm an Oceanographer with a focus on Remote Sensing and Geophysical Fluid Dynamics. I mostly deal with subjects in physical oceanography, marine biology (phyto/zooplankton and fisheries) and recently Data Science. Currently investing in learning advanced SQL, PowerBI, Spark and PHP.
 

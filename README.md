@@ -10,6 +10,10 @@
 - 📋 This is where I’m building a portfolio in Data Science, Data Analytics and Machine Learning
 - 🤘 4th kyu in codewars. Non-ironically a badge of honor. It ain't easy 😢!
 
+<div align="center">
+  <a href="">[![alt rank](https://www.codewars.com/users/hbatistuzzo/badges/large)](https://www.codewars.com/users/hbatistuzzo)</a>
+</div>
+
 I'm an Oceanographer with a focus on Remote Sensing and Geophysical Fluid Dynamics. I mostly deal with subjects in physical oceanography, marine biology (phyto/zooplankton and fisheries) and recently Data Science. Currently investing in learning advanced SQL, PowerBI, Spark and PHP.
 
 I started programming with C, MatLab and some R but nowadays I use Python as a tool of choice on a daily basis both for oceanography and data science projects. Besides these languages, I also have some experience with Bash, LaTeX and Arduino for personal projects.
@@ -23,7 +27,6 @@ Feel free to message me on whatsapp here <a href="">[<img alt="henry | Whatsapp"
   <a href="">[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCTihcuVi7oC3RgMPvS5l7Jw)</a>
   <a href="">[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/633896601555042326)</a>
   <a href="">[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://ironhack.slack.com/U03NSGXN5M2)</a>
-  <a href="">[![alt rank](https://www.codewars.com/users/hbatistuzzo/badges/large)](https://www.codewars.com/users/hbatistuzzo)</a>
   
 </div>
 

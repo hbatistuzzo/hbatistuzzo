@@ -5,6 +5,7 @@
 <h3 align="center">... I'm currently delving into Data Science 🖖 </h3> 
 
 - :ocean: I have an **Ocean/Environmental Sciences** academic background; BSc in **Oceanography** from the University of São Paulo
+- ⚓: Currently working at the DHN/Brazilian Navy as an oceanographic data analyst, looking at buoy data.
 - :desktop_computer: I've recently (10/2022) completed a bootcamp in Data Analytics through **Ironhack**
 - :bar_chart: I've worked as a TA and as an Oceanographic Data Analyst in Victoria, Canada
 - 📋 This is where I’m building a portfolio in Data Science, Data Analytics and Machine Learning
@@ -16,9 +17,12 @@
 
 </div>
 
-I'm an Oceanographer with a focus on Remote Sensing and Geophysical Fluid Dynamics. I mostly deal with subjects in physical oceanography, marine biology (phyto/zooplankton and fisheries) and recently Data Science. Currently investing in learning advanced SQL, PowerBI, Spark and PHP.
+As an oceanographer I've focused mostly on Remote Sensing and Geophysical Fluid Dynamics. I started programming with C, MatLab and some R but nowadays I use Python as a tool of choice on a daily basis both for oceanography and data science projects. I also have some experience with Arduino for personal projects.
 
-I started programming with C, MatLab and some R but nowadays I use Python as a tool of choice on a daily basis both for oceanography and data science projects. Besides these languages, I also have some experience with Bash, LaTeX and Arduino for personal projects.
+Some (probably) superfluous esoteric pseudoBS trivia: my approach to data has been similar to my approach to music: I'm not the sharpest tool in the shed, so to properly learn these things, I have to delve into it and experiment organically.
+With piano, I'm mostly stuck to the key of C. No flats or sharps in its signature. It's _basic_, yet didactic. With a transpose button nearby, all other keys are brought to it and tied to its simplicity.
+There's a lot  of trial and error, and probably a horrible way of dealing with studying for the more OCD inclined people out there.
+... And yet, ["*There's method in the key of C*"](https://www.youtube.com/watch?v=RGEuuxz754M) - Jon Anderson 
 
 Feel free to message me on whatsapp here <a href="">[<img alt="henry | Whatsapp" width="40px" src="./whatsapp.svg" />][whatsapp] or contact me through any of these links below:
 
@@ -31,12 +35,6 @@ Feel free to message me on whatsapp here <a href="">[<img alt="henry | Whatsapp"
   <a href="">[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://ironhack.slack.com/U03NSGXN5M2)</a>
 
 </div>
-
-Some (probably) superfluous esoteric pseudoBS trivia: my approach to data has been similar to my approach to music: I'm not the sharpest tool in the shed, so to properly learn these things, I have to delve into it and experiment organically.
-With piano, I'm mostly stuck to the key of C. No flats or sharps in its signature. It's _basic_, yet didactic. With a transpose button nearby, all other keys are brought to it and tied to its simplicity.
-There's a lot  of trial and error, and probably a horrible way of dealing with studying for the more OCD inclined people out there.
-... And yet, ["*There's method in the key of C*"](https://www.youtube.com/watch?v=RGEuuxz754M) - Jon Anderson 
-
 
 ---
 <h1 align="center">GitHub Stats</h1>

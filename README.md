@@ -19,7 +19,8 @@
 
 As an oceanographer I've focused mostly on Remote Sensing and Geophysical Fluid Dynamics. I started programming with C, MatLab and some R but nowadays I use Python as a tool of choice on a daily basis both for oceanography and data science projects. I also have some experience with Arduino for personal projects.
 
-Some superfluous esoteric pseudoBS trivia: my approach to data has been similar to my approach to music: I'm not the sharpest tool in the shed, so to properly learn these things, I have to delve into it and experiment organically.
+🎹 Some superfluous esoteric pseudoBS trivia:
+- my approach to data has been similar to my approach to music: I'm not the sharpest tool in the shed, so to properly learn these things I have to delve into it and experiment organically.
 With piano, I'm mostly stuck to the key of C. No flats or sharps in its signature. It's _basic_, yet didactic. With a transpose button nearby, all other keys are brought to it and tied to its simplicity.
 There's a lot  of trial and error, and it's probably a horrible way of dealing with studying for the more OCD inclined people out there.
 

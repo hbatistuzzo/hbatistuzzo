@@ -24,7 +24,7 @@ As an oceanographer I've focused mostly on Remote Sensing and Geophysical Fluid 
 With piano, I'm mostly stuck to the key of C. No flats or sharps in its signature. It's _basic_, yet didactic. With a transpose button nearby, all other keys are brought to it and tied to its simplicity.
 There's a lot  of trial and error, and it's probably a horrible way of dealing with studying for the more OCD inclined people out there.
 
-... And yet, ["*There's method in the key of C*"](https://www.youtube.com/watch?v=RGEuuxz754M) - Jon Anderson 
+... And yet, ["*There's method in the key of C*"](https://www.youtube.com/watch?v=RGEuuxz754M) - Jon Anderson 🎶
 
 Feel free to message me on whatsapp here <a href="">[<img alt="henry | Whatsapp" width="40px" src="./whatsapp.svg" />][whatsapp] or contact me through any of these links below:
 

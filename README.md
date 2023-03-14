@@ -19,7 +19,7 @@
 
 As an oceanographer I've focused mostly on Remote Sensing and Geophysical Fluid Dynamics. I started programming with C, MatLab and some R but nowadays I use Python as a tool of choice on a daily basis both for oceanography and data science projects. I also have some experience with Arduino for personal projects.
 
-🎹 I play the piano, and speaking of which, my approach to data has been similar to my approach to music: I'm not a natural in any of these things, so to properly learn the ropes I have to delve into it and experiment organically.
+🎹 I play the piano, and speaking of which, my approach to data has been similar to my approach to music: I'm not a natural in either of these things, so to properly learn the ropes I have to delve into it and experiment organically.
 With piano, I'm mostly stuck to the key of C. No flats or sharps in its signature. It's _basic_, yet didactic. With a transpose button, however, all other keys are brought to C and tied to its simplicity.
 There's a lot of trial and error, and it's probably not a good way of dealing with studying for the more OCD inclined people out there. Still, I find that the experience gained this way is what's really valuable.
 With data science, after setting the foundations, one can use myriad tools to make the job easier, much like bringing the capo to the guitar or pressing that dangerous transpose button in the keyboard.

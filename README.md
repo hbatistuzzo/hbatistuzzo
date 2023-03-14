@@ -24,7 +24,7 @@ With piano, I'm mostly stuck to the key of C. No flats or sharps in its signatur
 There's a lot of trial and error, and it's probably not a good way of dealing with studying for the more OCD inclined people out there. Still, I find that the experience gained this way is what's really valuable.
 With data science, after setting the foundations, one can use myriad tools to make the job easier, much like bringing the capo to the guitar or pressing that dangerous transpose button in the keyboard.
 A capo alone won't make you a guitar virtuoso, much like chatgpt won't make you a programming guru. Knowing the right tool for the right job, however, definitely helps. After all:
-["*There _is_ method in the key of C*"](https://www.youtube.com/watch?v=RGEuuxz754M) - Jon Anderson 🎶
+["*There **is** method in the key of C*"](https://www.youtube.com/watch?v=RGEuuxz754M) - Jon Anderson 🎶
 
 Feel free to message me on whatsapp here <a href="">[<img alt="henry | Whatsapp" width="40px" src="./whatsapp.svg" />][whatsapp] or contact me through any of these links below:
 

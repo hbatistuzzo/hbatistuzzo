@@ -5,8 +5,8 @@
 <h3 align="center">... I'm currently delving into Data Science 🖖 </h3> 
 
 - :ocean: I have an **Ocean/Environmental Sciences** academic background; BSc in **Oceanography** from the University of São Paulo
-- ⚓: Currently working at the DHN/Brazilian Navy as an oceanographic data analyst, looking at buoy data.
-- :desktop_computer: I've recently (10/2022) completed a bootcamp in Data Analytics through **Ironhack**
+- ⚓: Currently working at the Brazilian Navy-DHN as an oceanographic data analyst, studying buoy datasets.
+- :desktop_computer: last October I completed a bootcamp in Data Analytics through **Ironhack**
 - :bar_chart: I've worked as a TA and as an Oceanographic Data Analyst in Victoria, Canada
 - 📋 This is where I’m building a portfolio in Data Science, Data Analytics and Machine Learning
 - 🤘 4th kyu in codewars. Non-ironically a badge of honor. It ain't easy 😢!
@@ -19,12 +19,12 @@
 
 As an oceanographer I've focused mostly on Remote Sensing and Geophysical Fluid Dynamics. I started programming with C, MatLab and some R but nowadays I use Python as a tool of choice on a daily basis both for oceanography and data science projects. I also have some experience with Arduino for personal projects.
 
-🎹 Some superfluous esoteric pseudoBS trivia:
-- my approach to data has been similar to my approach to music: I'm not the sharpest tool in the shed, so to properly learn these things I have to delve into it and experiment organically.
-With piano, I'm mostly stuck to the key of C. No flats or sharps in its signature. It's _basic_, yet didactic. With a transpose button nearby, all other keys are brought to it and tied to its simplicity.
-There's a lot  of trial and error, and it's probably a horrible way of dealing with studying for the more OCD inclined people out there.
-
-... And yet, ["*There's method in the key of C*"](https://www.youtube.com/watch?v=RGEuuxz754M) - Jon Anderson 🎶
+🎹 I play the piano, and speaking of which, my approach to data has been similar to my approach to music: I'm not a natural for any of these things, so to properly learn the ropes I have to delve into it and experiment organically.
+With piano, I'm mostly stuck to the key of C. No flats or sharps in its signature. It's _basic_, yet didactic. With a transpose button, however, all other keys are brought to C and tied to its simplicity.
+There's a lot of trial and error, and it's probably not a good way of dealing with studying for the more OCD inclined people out there. Still, I find that the experience gained this way is what's really valuable.
+With data science, after setting the foundations, one can use myriad tools to make the job easier. Much like bringing the capo to the guitar or pressing that dangerous transpose button in the keyboard.
+A capo alone won't make you a guitar virtuoso, much like chatgpt won't make you a programming guru. Knowing the right tool for the right job, however, definitely helps. After all:
+["*There _is_ method in the key of C*"](https://www.youtube.com/watch?v=RGEuuxz754M) - Jon Anderson 🎶
 
 Feel free to message me on whatsapp here <a href="">[<img alt="henry | Whatsapp" width="40px" src="./whatsapp.svg" />][whatsapp] or contact me through any of these links below:
 

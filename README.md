@@ -19,8 +19,6 @@
 
 As an oceanographer I've focused mostly on Remote Sensing and Geophysical Fluid Dynamics. I started programming with C, MatLab and some R but nowadays I use Python as a tool of choice on a daily basis both for oceanography and data science projects. I also have some experience with Arduino for personal projects.
 
-🎹 I play the pian.["*There **is** method in the key of C*"](https://www.youtube.com/watch?v=RGEuuxz754M) - Jon Anderson of Yes 🎶
-
 Feel free to message me on whatsapp here <a href="">[<img alt="henry | Whatsapp" width="40px" src="./whatsapp.svg" />][whatsapp] or contact me through any of these links below:
 
 <div align="center">

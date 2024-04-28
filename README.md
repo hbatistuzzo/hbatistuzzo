@@ -23,7 +23,6 @@ As an oceanographer I've focused mostly on Remote Sensing and Geophysical Fluid 
 Feel free to message me on whatsapp here <a href="">[<img alt="henry | Whatsapp" width="40px" src="./whatsapp.svg" />][whatsapp] or contact me through any of these links below:
 
 <div align="center">
-  <a href="">[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-0077B5?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/hbatistuzzo)</a>
   <a href="">[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hbatistuzzo@gmail.com)</a>
   <a href="">[![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-batistuzzo/)</a>
   <a href="">[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCTihcuVi7oC3RgMPvS5l7Jw)</a>

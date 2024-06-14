@@ -10,7 +10,7 @@
 - :bar_chart: I've worked as a TA/Specialist Instructor and as an Oceanographic Data Analyst in BC, Canada
 - 📋 This is where I’m building a portfolio in Data Analysis, Data Science and Data Engineering
 - 🤘 4th kyu in codewars. It ain't easy 😢!
-- Currently enrolled in the Python AI Backend Developer from DIO
+- Recently completed the Python AI Backend Developer from DIO
 
 <div align="center">
 

@@ -30,10 +30,10 @@ Feel free to message me on whatsapp here <a href="">[<img alt="henry | Whatsapp"
   <a href="">[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCTihcuVi7oC3RgMPvS5l7Jw)</a>
   <a href="">[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/633896601555042326)</a>
   <a href="">[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://ironhack.slack.com/U03NSGXN5M2)</a>
-
 </div>
 
----
+![Abhinandan Trilokia](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
+
 <h1 align="center">GitHub Stats</h1>
 
 <div align="center">

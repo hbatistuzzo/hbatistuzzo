@@ -363,3 +363,6 @@ Australia, the goal of this project is to train a model on short-term rainfall p
 </table>
  
  <p align="center"><img src="ironbadge.png" width="50%" alt="Logo"></p>
+
+
+![Abhinandan Trilokia](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)

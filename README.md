@@ -1,5 +1,5 @@
 <h1 align="center"> 
-	Hi there 👋, I'm Henry <br>
+	Hi there, I'm Henry <br>
 </h1>
 
 <h3 align="center">... I'm currently delving into Data Science 🖖 </h3> 

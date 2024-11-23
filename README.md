@@ -4,13 +4,13 @@
 
 <h3 align="center">... I'm currently delving into Data Science 🖖 </h3> 
 
-- :ocean: I have an **Ocean/Environmental Sciences** academic background; BSc in **Oceanography** from the University of São Paulo
-- ⚓: Currently working at the Brazilian Navy-DHN as an oceanographic data analyst
-- :desktop_computer: Completed a bootcamp in Data Analytics through **Ironhack**
-- :bar_chart: I've worked as a TA/Specialist Instructor and as an Oceanographic Data Analyst in BC, Canada
-- 📋 This is where I’m building a portfolio in Data Analysis, Data Science and Data Engineering
-- 🤘 4th kyu in codewars. It ain't easy 😢!
-- Recently completed the Python AI Backend Developer from DIO
+🔹 :ocean: I have an **Ocean/Environmental Sciences** academic background; BSc in **Oceanography** from the University of São Paulo
+🔹 ⚓: Currently working at the Brazilian Navy-DHN as an oceanographic data analyst
+🔹 :desktop_computer: Completed a bootcamp in Data Analytics through **Ironhack**
+🔹 :bar_chart: I've worked as a TA/Specialist Instructor and as an Oceanographic Data Analyst in BC, Canada
+🔹 📋 This is where I’m building a portfolio in Data Analysis, Data Science and Data Engineering
+🔹 🤘 4th kyu in codewars. It ain't easy 😢!
+🔹 Recently completed the Python AI Backend Developer from DIO
 
 <div align="center">
 

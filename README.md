@@ -6,7 +6,7 @@
 
 🔹 :ocean: I have an **Ocean/Environmental Sciences** academic background; BSc in **Oceanography** from the University of São Paulo <br>
 🔹 ⚓: Currently working at the Brazilian Navy-DHN as an oceanographic data analyst <br>
-🔹- :desktop_computer: Completed a bootcamp in Data Analytics through **Ironhack** <br>
+🔹 :desktop_computer: Completed a bootcamp in Data Analytics through **Ironhack** <br>
 🔹 :bar_chart: I've worked as a TA/Specialist Instructor and as an Oceanographic Data Analyst in BC, Canada <br>
 🔹 📋 This is where I’m building a portfolio in Data Analysis, Data Science and Data Engineering <br>
 🔹 🤘 4th kyu in codewars. It ain't easy 😢! <br>

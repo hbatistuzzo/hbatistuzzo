@@ -4,13 +4,13 @@
 
 <h3 align="center">... I'm currently delving into Data Science 🖖 </h3> 
 
-🔹 :ocean: I have an **Ocean/Environmental Sciences** academic background; BSc in **Oceanography** from the University of São Paulo
-🔹 ⚓: Currently working at the Brazilian Navy-DHN as an oceanographic data analyst
-🔹- :desktop_computer: Completed a bootcamp in Data Analytics through **Ironhack**
-🔹 :bar_chart: I've worked as a TA/Specialist Instructor and as an Oceanographic Data Analyst in BC, Canada
-🔹 📋 This is where I’m building a portfolio in Data Analysis, Data Science and Data Engineering
-🔹 🤘 4th kyu in codewars. It ain't easy 😢!
-🔹 Recently completed the Python AI Backend Developer from DIO
+🔹 :ocean: I have an **Ocean/Environmental Sciences** academic background; BSc in **Oceanography** from the University of São Paulo <br>
+🔹 ⚓: Currently working at the Brazilian Navy-DHN as an oceanographic data analyst <br>
+🔹- :desktop_computer: Completed a bootcamp in Data Analytics through **Ironhack** <br>
+🔹 :bar_chart: I've worked as a TA/Specialist Instructor and as an Oceanographic Data Analyst in BC, Canada <br>
+🔹 📋 This is where I’m building a portfolio in Data Analysis, Data Science and Data Engineering <br>
+🔹 🤘 4th kyu in codewars. It ain't easy 😢! <br>
+🔹 Recently completed the Python AI Backend Developer from DIO <br>
 
 <div align="center">
 
@@ -20,11 +20,10 @@
 
 As an oceanographer I've focused mostly on Remote Sensing and Geophysical Fluid Dynamics. I started programming with C, MatLab and some R but nowadays I use Python as a tool of choice on a daily basis both for oceanography and data science projects. I also have some experience with Arduino for personal projects. I've recently been expanding my database management experience by studying NoSQL (with MongoDB). I'm still more familiar with relational databases and SQL.
 
-Feel free to message me on whatsapp here <a href="">[<img alt="henry | Whatsapp" width="40px" src="./whatsapp.svg" />][whatsapp] or contact me through any of these links below:
+Feel free to message me on whatsapp here  <a href="">[<img alt="henry | Whatsapp" width="40px" src="./whatsapp.svg" />][whatsapp] or contact me through any of these links below:
 
 <div align="center">
 
-  <a href="">[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-0077B5?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/hbatistuzzo)</a>
   <a href="">[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hbatistuzzo@gmail.com)</a>
   <a href="">[![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-batistuzzo/)</a>
   <a href="">[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCTihcuVi7oC3RgMPvS5l7Jw)</a>

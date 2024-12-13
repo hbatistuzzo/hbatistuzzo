@@ -77,6 +77,7 @@ Feel free to message me on whatsapp here  <a href="">[<img alt="henry | Whatsapp
 	<img align='center' width=50px width="60" alt='mySQLa' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg"/>
 	<img align='center' width=50px width="60" alt='dask' src="dask.svg"/>
 	<img align='center' width=50px width="60" alt='regex' src="OOjs_UI_icon_regular-expression-progressive.svg.png"/>
+	<img align='center' width=50px width="60" alt='docker' <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"/>
      </div></td>
    <div align="center">
    </tr>

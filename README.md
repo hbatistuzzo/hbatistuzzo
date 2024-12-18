@@ -10,7 +10,7 @@
 🔹 :bar_chart: I've worked as a TA/Specialist Instructor and as an Oceanographic Data Analyst in BC, Canada <br>
 🔹 📋 This is where I’m building a portfolio in Data Analysis, Data Science and Data Engineering <br>
 🔹 🤘 4th kyu in codewars. It ain't easy 😢! <br>
-🔹 Recently completed the Python AI Backend Developer from DIO <br>
+🔹 Currently tackling React and React Native while brushing up javascript <br>
 
 <div align="center">
 

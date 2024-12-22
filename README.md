@@ -74,10 +74,12 @@ Feel free to message me on whatsapp here  <a href="">[<img alt="henry | Whatsapp
 	<img align='center' alt="tableau"  height="60" width="60" src="tableau.png" />
 	<img align='center' alt="xarray"  height="60" width="60" src="xarray.jpg" />
 	<img align='center' alt="selenium"  height="60" width="60" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" />
-	<img align='center' width=50px width="60" alt='mySQLa' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg"/>
-	<img align='center' width=50px width="60" alt='dask' src="dask.svg"/>
-	<img align='center' width=50px width="60" alt='regex' src="OOjs_UI_icon_regular-expression-progressive.svg.png"/>
-	<img align='center' width=50px width="60" alt='docker' <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"/>
+	<img align='center' width="60" alt='mySQLa' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg"/>
+	<img align='center' width="60" alt='dask' src="dask.svg"/>
+	<img align='center' width="60" alt='regex' src="OOjs_UI_icon_regular-expression-progressive.svg.png"/>
+	<img align='center' width="60" alt='docker'src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"/>
+  	<img align='center' width="60" alt='REACT' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+</div>
      </div></td>
    <div align="center">
    </tr>
@@ -91,12 +93,16 @@ Feel free to message me on whatsapp here  <a href="">[<img alt="henry | Whatsapp
   </tr>
   <tr>
     <td> 
+	    
   <div align="center">
      <img align="center" alt="postgres"  height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-   <img align="center" alt="mysql"  height=80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+     <img align="center" alt="mysql"  height=80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+     <img align="center" alt="mysql"  height=80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"/>
+  </div></td>
+
 <!-- <img align="center" alt="MSsql"  height="70" width="70" src="/msql.png" /> -->
 <!-- <img align="center" alt="ADS"  height="70" width="70" src="/azure-data-studio.svg" /> -->
-    </div></td>
+
 
   <td height="auto" width="auto">  <div align="center">
   <img align='center' width=50px alt='ubuntu' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />

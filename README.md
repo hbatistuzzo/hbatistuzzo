@@ -55,70 +55,80 @@ Feel free to message me on whatsapp here  <a href="">[<img alt="henry | Whatsapp
 
 ---
 <div>
-  <h1 align="center">Tech Tools</h1>
-  
+  <h1 align="center">Tech Stack</h1>
+
   <table align="center">
-  <tr>
-    <td><h2 align="center">Data Analysis || Data Science</h2></td>
-  </tr>
-  <tr>
-    <td> 
-    <div align="center">
-	<img align="center" alt="python"  height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-	<img align="center" alt="numpy" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg""/>
-	<img align='center' alt='jupyter' height="60" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-	<img align="center" alt="r-base"  height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
-	<img align="center" alt="matlab"  height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
-	<img align='center' alt="pandas"  height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-	<img align='center' alt="PowerBI"  height="60" width="60" src="Power-BI.svg" />
-	<img align='center' alt="tableau"  height="60" width="60" src="tableau.png" />
-	<img align='center' alt="xarray"  height="60" width="60" src="xarray.jpg" />
-	<img align='center' alt="selenium"  height="60" width="60" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" />
-	<img align='center' width="60" alt='mySQLa' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg"/>
-	<img align='center' width="60" alt='dask' src="dask.svg"/>
-	<img align='center' width="60" alt='regex' src="OOjs_UI_icon_regular-expression-progressive.svg.png"/>
-	<img align='center' width="60" alt='docker'src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"/>
-  	<img align='center' width="60" alt='REACT' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+    <!-- Programming and Data Processing -->
+    <tr>
+      <td>
+        <h2 align="center">Programming & Data Processing</h2>
+        <div align="center">
+          <img align="center" alt="python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+          <img align="center" alt="numpy" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
+          <img align="center" alt="scipy" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" />
+          <img align="center" alt="jupyter" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+          <img align="center" alt="r-base" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+          <img align="center" alt="matlab" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
+          <img align="center" alt="pandas" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+          <img align="center" alt="dask" height="60" width="60" src="dask.svg" />
+          <img align="center" alt="regex" height="60" width="60" src="OOjs_UI_icon_regular-expression-progressive.svg.png" />
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h2 align="center">Visualization & Business Intelligence</h2>
+        <div align="center">
+          <img align="center" alt="Power BI" height="60" width="60" src="Power-BI.svg" />
+          <img align="center" alt="Tableau" height="60" width="60" src="tableau.png" />
+  	  <img align="center" alt="Matplotlib" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" />
+  	  <img align="center" alt="Seaborn" height="75" width="75" src="https://seaborn.pydata.org/_static/logo-tall-lightbg.svg" />
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h2 align="center">Databases</h2>
+        <div align="center">
+          <img align="center" alt="PostgreSQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+          <img align="center" alt="MySQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+	  <img align="center" alt="MySQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
+          <img align="center" alt="SQLite" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+          <img align="center" alt="SQLAlchemy" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" />
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h2 align="center">Data Engineering & Automation</h2>
+        <div align="center">
+          <img align="center" alt="Docker" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+          <img align="center" alt="Selenium" height="60" width="60" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" />
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h2 align="center">Systems & Development Tools</h2>
+        <div align="center">
+          <img align="center" alt="Ubuntu" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" />
+          <img align="center" alt="Bash" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+          <img align="center" alt="Git" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h2 align="center">Miscellaneous</h2>
+        <div align="center">
+          <img align="center" alt="Arduino" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
+          <img align="center" alt="VS Code" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+          <img align="center" alt="LaTeX" height="60" width="60" src="latex-1.svg" />
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
-     </div></td>
-   <div align="center">
-   </tr>
-   </table>
-
-   <table align="center">
-  <tr>
-    <td><h2 align="center">Databases</h2></td>
-    <td><h2 align="center">Systems</h2></td>
-    <td><h2 align="center">Miscellaneous</h2></td>
-  </tr>
-  <tr>
-    <td> 
-	    
-  <div align="center">
-     <img align="center" alt="postgres"  height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-     <img align="center" alt="mysql"  height=80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
-     <img align="center" alt="mysql"  height=80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"/>
-  </div></td>
-
-<!-- <img align="center" alt="MSsql"  height="70" width="70" src="/msql.png" /> -->
-<!-- <img align="center" alt="ADS"  height="70" width="70" src="/azure-data-studio.svg" /> -->
-
-
-  <td height="auto" width="auto">  <div align="center">
-  <img align='center' width=50px alt='ubuntu' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />
-  <img align='center' width=50px alt='bash' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-  <img align='center' width=50px alt='git' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  </div></td>
-
-  <td height="auto" width="auto">  <div align="center">
-  <img align='center' width=50px alt='arduino' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
-  <img align='center' width=50px alt='vsc' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align='center' width=50px alt='slack' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg"/>
-  <img align='center' width=50px alt="latex" src="latex-1.svg" />
-  <img align='center' width=50px alt='php' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
-  </div></td>
-  </tr>
- </table>
 
   ![Snake animation](https://github.com/hbatistuzzo/hbatistuzzo/blob/output/github-contribution-grid-snake.svg)
 

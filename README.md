@@ -57,49 +57,52 @@ Feel free to message me on whatsapp here  <a href="">[<img alt="henry | Whatsapp
 <div>
   <h1 align="center">Tech Stack</h1>
 
-  <table align="center">
-    <!-- Programming and Data Processing -->
+<table align="center" style="width: 80%; table-layout: fixed;">
+  <tr>
+    <td style="text-align: center; padding: 20px;">
+      <h2> Currently Learning</h2>
+      <div align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="React" height="80" width="80"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="JS" height="80" width="80"/>
+      </div>
+    </td>
+  </tr>
+</table>
+
+  <table align="center" style="width: 100%; table-layout: fixed; border-spacing: 10px;">
     <tr>
-      <td>
+      <td style="width: 50%; vertical-align: top;">
         <h2 align="center">Programming & Data Processing</h2>
         <div align="center">
           <img align="center" alt="python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-          <img align="center" alt="numpy" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
+          <img align="center" alt="numpy" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
           <img align="center" alt="scipy" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" />
           <img align="center" alt="jupyter" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
           <img align="center" alt="r-base" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
           <img align="center" alt="matlab" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
-          <img align="center" alt="pandas" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-          <img align="center" alt="dask" height="60" width="60" src="dask.svg" />
-          <img align="center" alt="regex" height="60" width="60" src="OOjs_UI_icon_regular-expression-progressive.svg.png" />
         </div>
       </td>
-    </tr>
-    <tr>
-      <td>
+      <td style="width: 50%; vertical-align: top;">
         <h2 align="center">Visualization & Business Intelligence</h2>
         <div align="center">
           <img align="center" alt="Power BI" height="60" width="60" src="Power-BI.svg" />
           <img align="center" alt="Tableau" height="60" width="60" src="tableau.png" />
-  	  <img align="center" alt="Matplotlib" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" />
-  	  <img align="center" alt="Seaborn" height="75" width="75" src="https://seaborn.pydata.org/_static/logo-tall-lightbg.svg" />
+          <img align="center" alt="Matplotlib" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" />
+          <img align="center" alt="Seaborn" height="75" width="75" src="https://seaborn.pydata.org/_static/logo-tall-lightbg.svg" />
         </div>
       </td>
     </tr>
     <tr>
-      <td>
+      <td style="width: 50%; vertical-align: top;">
         <h2 align="center">Databases</h2>
         <div align="center">
           <img align="center" alt="PostgreSQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
           <img align="center" alt="MySQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-	  <img align="center" alt="MySQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
+          <img align="center" alt="MongoDB" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
           <img align="center" alt="SQLite" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
-          <img align="center" alt="SQLAlchemy" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" />
         </div>
       </td>
-    </tr>
-    <tr>
-      <td>
+      <td style="width: 50%; vertical-align: top;">
         <h2 align="center">Data Engineering & Automation</h2>
         <div align="center">
           <img align="center" alt="Docker" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
@@ -108,7 +111,7 @@ Feel free to message me on whatsapp here  <a href="">[<img alt="henry | Whatsapp
       </td>
     </tr>
     <tr>
-      <td>
+      <td style="width: 50%; vertical-align: top;">
         <h2 align="center">Systems & Development Tools</h2>
         <div align="center">
           <img align="center" alt="Ubuntu" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" />
@@ -116,9 +119,7 @@ Feel free to message me on whatsapp here  <a href="">[<img alt="henry | Whatsapp
           <img align="center" alt="Git" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
         </div>
       </td>
-    </tr>
-    <tr>
-      <td>
+      <td style="width: 50%; vertical-align: top;">
         <h2 align="center">Miscellaneous</h2>
         <div align="center">
           <img align="center" alt="Arduino" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
@@ -129,6 +130,8 @@ Feel free to message me on whatsapp here  <a href="">[<img alt="henry | Whatsapp
     </tr>
   </table>
 </div>
+
+
 
   ![Snake animation](https://github.com/hbatistuzzo/hbatistuzzo/blob/output/github-contribution-grid-snake.svg)
 

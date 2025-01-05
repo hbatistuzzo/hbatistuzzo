@@ -131,8 +131,21 @@ Feel free to message me on whatsapp here  <a href="">[<img alt="henry | Whatsapp
   </table>
 </div>
 
-
-
+<table align="center" style="width: 80%; table-layout: fixed;">
+  <tr>
+    <td style="text-align: center; padding: 20px;">
+      <h2> Some (some) experience with.. </h2>
+      <div align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="Flask" height="80" width="80"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="Redis" height="80" width="80"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" alt="Dot-net" height="80" width="80"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" height="80" width="80"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" height="80" width="80"/>
+      </div>
+    </td>
+  </tr>
+</table>
+          
   ![Snake animation](https://github.com/hbatistuzzo/hbatistuzzo/blob/output/github-contribution-grid-snake.svg)
 
 ---

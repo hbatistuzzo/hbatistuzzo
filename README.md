@@ -10,7 +10,7 @@
 🔹 :bar_chart: I've worked as a TA/Specialist Instructor and as an Oceanographic Data Analyst in BC, Canada <br>
 🔹 📋 This is where I’m building a portfolio in Data Analysis, Data Science and Data Engineering <br>
 🔹 🤘 4th kyu in codewars. It ain't easy 😢! <br>
-🔹 Currently tackling React and React Native while brushing up javascript <br>
+🔹 Currently getting acquainted with React and Apache Airflow, brushing up javascript, learning swarm and kubernetes in-depth <br>
 
 <div align="center">
 
@@ -59,26 +59,28 @@ Feel free to message me on whatsapp here  <a href="">[<img alt="henry | Whatsapp
 
 <table align="center" style="width: 80%; table-layout: fixed;">
   <tr>
-    <td style="text-align: center; padding: 20px;">
-      <h2> Currently Learning</h2>
+    <td style="padding: 20px;">
+      <h2 align="center"> Currently Learning</h2>
       <div align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="React" height="80" width="80"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="JS" height="80" width="80"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" height="80" width="80"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" alt="Kubernetes" height="80" width="80"/>
       </div>
     </td>
   </tr>
 </table>
-
+          
   <table align="center" style="width: 100%; table-layout: fixed; border-spacing: 10px;">
     <tr>
       <td style="width: 50%; vertical-align: top;">
         <h2 align="center">Programming & Data Processing</h2>
         <div align="center">
           <img align="center" alt="python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+          <img align="center" alt="pandas" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
           <img align="center" alt="numpy" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
           <img align="center" alt="scipy" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" />
           <img align="center" alt="jupyter" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-          <img align="center" alt="r-base" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
           <img align="center" alt="matlab" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
         </div>
       </td>
@@ -88,7 +90,7 @@ Feel free to message me on whatsapp here  <a href="">[<img alt="henry | Whatsapp
           <img align="center" alt="Power BI" height="60" width="60" src="Power-BI.svg" />
           <img align="center" alt="Tableau" height="60" width="60" src="tableau.png" />
           <img align="center" alt="Matplotlib" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" />
-          <img align="center" alt="Seaborn" height="75" width="75" src="https://seaborn.pydata.org/_static/logo-tall-lightbg.svg" />
+          <img align="center" alt="Seaborn" height="60" width="60" src="https://seaborn.pydata.org/_static/logo-tall-lightbg.svg" />
         </div>
       </td>
     </tr>
@@ -96,16 +98,16 @@ Feel free to message me on whatsapp here  <a href="">[<img alt="henry | Whatsapp
       <td style="width: 50%; vertical-align: top;">
         <h2 align="center">Databases</h2>
         <div align="center">
-          <img align="center" alt="PostgreSQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-          <img align="center" alt="MySQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-          <img align="center" alt="MongoDB" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-          <img align="center" alt="SQLite" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+          <img align="center" alt="PostgreSQL" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+          <img align="center" alt="MySQL" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+          <img align="center" alt="MongoDB" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+          <img align="center" alt="SQLalchemy" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" />
         </div>
       </td>
       <td style="width: 50%; vertical-align: top;">
         <h2 align="center">Data Engineering & Automation</h2>
         <div align="center">
-          <img align="center" alt="Docker" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+          <img align="center" alt="Docker" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
           <img align="center" alt="Selenium" height="60" width="60" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" />
         </div>
       </td>
@@ -131,6 +133,18 @@ Feel free to message me on whatsapp here  <a href="">[<img alt="henry | Whatsapp
   </table>
 </div>
 
+<table align="center" style="width: 100%; table-layout: fixed; border-spacing: 10px;">
+	<tr>
+  	<td style="width: 50%; vertical-align: top;">
+    	<h2 align="center">APIs</h2>
+    	<div align="center">
+      	<img align="center" alt="FastAPI" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" />
+      	<img align="center" alt="Postman" height="60" width="60" src="https://www.svgrepo.com/show/354202/postman-icon.svg" />
+    	</div>
+  	</td>
+	</tr>
+</table>
+
 <table align="center" style="width: 80%; table-layout: fixed;">
   <tr>
     <td style="text-align: center; padding: 20px;">
@@ -138,8 +152,9 @@ Feel free to message me on whatsapp here  <a href="">[<img alt="henry | Whatsapp
       <div align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="Flask" height="80" width="80"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="Redis" height="80" width="80"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" alt="Dot-net" height="80" width="80"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" height="80" width="80"/>
+<!-- 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" alt="Dot-net" height="80" width="80"/> -->
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" height="80" width="80"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" height="80" width="80"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" height="80" width="80"/>
       </div>
     </td>

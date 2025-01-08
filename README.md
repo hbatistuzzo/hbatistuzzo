@@ -62,10 +62,10 @@ Feel free to message me on whatsapp here  <a href="">[<img alt="henry | Whatsapp
     <td style="padding: 20px;">
       <h2 align="center"> Currently Learning</h2>
       <div align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="React" height="80" width="80"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="JS" height="80" width="80"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" height="80" width="80"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" alt="Kubernetes" height="80" width="80"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="React" height="75" width="75"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="JS" height="75" width="75"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" height="75" width="75"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" alt="Kubernetes" height="75" width="75"/>
       </div>
     </td>
   </tr>
@@ -81,6 +81,8 @@ Feel free to message me on whatsapp here  <a href="">[<img alt="henry | Whatsapp
           <img align="center" alt="numpy" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
           <img align="center" alt="scipy" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" />
           <img align="center" alt="jupyter" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+          <img align="center" alt="xarray" height="60" width="60" src="https://raw.githubusercontent.com/pydata/xarray/026aa7c073d03fb6d749c216be1d829816583fac/doc/_static/logos/Xarray_Icon_Final.svg" />
+          <img align="center" alt="netcdf" height="60" width="60" src="https://landscape.lfenergy.org/logos/netcdf-c.svg" />
           <img align="center" alt="matlab" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
         </div>
       </td>
@@ -148,14 +150,17 @@ Feel free to message me on whatsapp here  <a href="">[<img alt="henry | Whatsapp
 <table align="center" style="width: 80%; table-layout: fixed;">
   <tr>
     <td style="text-align: center; padding: 20px;">
-      <h2> Some (some) experience with.. </h2>
+      <h2 align="center"> Some (some) experience with.. </h2>
       <div align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="Flask" height="80" width="80"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="Redis" height="80" width="80"/>
+	<img src="https://docs.dask.org/en/stable/_images/dask_icon.svg" alt="dask" height="80" width="75"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="Flask" height="75" width="75"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="Redis" height="75" width="75"/>
 <!-- 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" alt="Dot-net" height="80" width="80"/> -->
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" height="80" width="80"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" height="80" width="80"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" height="80" width="80"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" height="75" width="75"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" height="75" width="75"/>
+<!-- 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" height="75" width="75"/> -->
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" height="75" width="75"/>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" height="75" width="75"/>
       </div>
     </td>
   </tr>

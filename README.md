@@ -158,17 +158,16 @@ Feel free to message me on whatsapp here  <a href="">[<img alt="henry | Whatsapp
       <div align="center">
 	<img src="https://docs.dask.org/en/stable/_images/dask_icon.svg" alt="dask" height="80" width="75"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="Flask" height="75" width="75"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="Redis" height="75" width="75"/>
-<!-- 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" alt="Dot-net" height="80" width="80"/> -->
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" height="75" width="75"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" height="75" width="75"/>
-<!-- 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" height="75" width="75"/> -->
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" height="75" width="75"/>
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" height="75" width="75"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" alt="css" height="75" width="75"/>
       </div>
     </td>
   </tr>
 </table>
+          
 
 <table align="center" style="width: 80%; table-layout: fixed;">
   <tr>

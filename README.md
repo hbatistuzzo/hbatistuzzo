@@ -132,20 +132,24 @@ Feel free to message me on whatsapp here  <a href="">[<img alt="henry | Whatsapp
         </div>
       </td>
     </tr>
-  </table>
-</div>
-
-<table align="center" style="width: 100%; table-layout: fixed; border-spacing: 10px;">
-	<tr>
-  	<td style="width: 50%; vertical-align: top;">
-    	<h2 align="center">APIs</h2>
-    	<div align="center">
+    <tr>
+      <td style="width: 50%; vertical-align: top;">
+        <h2 align="center">API's</h2>
+        <div align="center">
       	<img align="center" alt="FastAPI" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" />
       	<img align="center" alt="Postman" height="60" width="60" src="https://www.svgrepo.com/show/354202/postman-icon.svg" />
-    	</div>
-  	</td>
-	</tr>
-</table>
+        </div>
+      </td>
+      <td style="width: 50%; vertical-align: top;">
+        <h2 align="center">Cloud Services</h2>
+        <div align="center">
+          <img align="center" alt="AWS" height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+          
 
 <table align="center" style="width: 80%; table-layout: fixed;">
   <tr>

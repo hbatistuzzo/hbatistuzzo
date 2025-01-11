@@ -60,7 +60,7 @@ Feel free to message me on whatsapp here  <a href="">[<img alt="henry | Whatsapp
 <table align="center" style="width: 80%; table-layout: fixed;">
   <tr>
     <td style="padding: 20px;">
-      <h2 align="center"> Currently Learning</h2>
+      <h2 align="center"> Currently Learning...</h2>
       <div align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="React" height="75" width="75"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="JS" height="75" width="75"/>
@@ -165,6 +165,19 @@ Feel free to message me on whatsapp here  <a href="">[<img alt="henry | Whatsapp
     </td>
   </tr>
 </table>
+
+<table align="center" style="width: 80%; table-layout: fixed;">
+  <tr>
+    <td style="text-align: center; padding: 20px;">
+      <h2 align="center"> Planning on learning </h2>
+      <div align="center">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" alt="DBeaver" height="80" width="75"/>
+      </div>
+    </td>
+  </tr>
+</table>
+
+
           
   ![Snake animation](https://github.com/hbatistuzzo/hbatistuzzo/blob/output/github-contribution-grid-snake.svg)
 

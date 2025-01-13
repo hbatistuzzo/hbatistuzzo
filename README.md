@@ -54,6 +54,27 @@ Feel free to message me on whatsapp here  <a href="">[<img alt="henry | Whatsapp
 </div>
 
 ---
+<br/>
+
+<h1 align="center">What's your deal, man? 🤔</h1> 
+
+Glad you've asked! My deal is mindmaps.<br> <br>
+Mindmaps everywhere, from conducting the literature review of scientific articles to organizing the study of data science topics. The [method of loci](https://en.wikipedia.org/wiki/Method_of_loci) is well established in neuroscience, and by creating blueprints for a mind-palace with mind-maps, this method leverages spatial and visual memory in complementary ways, as corroborated in [Dresler et al, 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC5439266/). <br> <br>
+Listen, Geophysical Fluid Dynamics is hard enough, and I'm not particularly smart, but my _sister_ is, so I'll take a hint from someone who has a postdoc in neurobiology and take any advantage I can get. Cognitive architecture is a vibrant field and I suspect they're on to something.
+
+<div align="center">
+        <a target="_blank" href="mindmeinster">
+            <img align="center" src="mindmaps.gif" width="800" alt="mindmap"/>
+        </a>
+</div>
+
+<br/>
+
+I've used it to study and learn the tools in the Tech Stack section below 👇 and to organize the projects showcased beyond that.
+
+<br/>
+
+
 <div>
   <h1 align="center">Tech Stack</h1>
 
@@ -180,9 +201,6 @@ Feel free to message me on whatsapp here  <a href="">[<img alt="henry | Whatsapp
   </tr>
 </table>
 
-
-          
-  ![Snake animation](https://github.com/hbatistuzzo/hbatistuzzo/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -431,3 +449,6 @@ Australia, the goal of this project is to train a model on short-term rainfall p
 </table>
  
  <p align="center"><img src="ironbadge.png" width="50%" alt="Logo"></p>
+
+
+

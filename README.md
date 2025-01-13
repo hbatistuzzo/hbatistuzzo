@@ -180,6 +180,7 @@ I've used it to study and learn the tools in the Tech Stack section below 👇 a
 	<img src="https://docs.dask.org/en/stable/_images/dask_icon.svg" alt="dask" height="80" width="75"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="Flask" height="75" width="75"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" height="75" width="75"/>
+	<img src="/msql.png" alt="css" height="75" width="75"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" height="75" width="75"/>
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" height="75" width="75"/>
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" height="75" width="75"/>

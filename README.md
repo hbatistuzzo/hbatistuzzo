@@ -185,6 +185,9 @@ I've used it to study and learn the tools in the Tech Stack section below 👇 a
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" height="75" width="75"/>
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" height="75" width="75"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" alt="css" height="75" width="75"/>
+	<img alt="Grafana" height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" />
+	<img alt="Prometheus" height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" />
+	<img alt="GitHub Actions" height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
       </div>
     </td>
   </tr>

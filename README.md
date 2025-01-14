@@ -54,7 +54,6 @@ Feel free to message me on whatsapp here  <a href="">[<img alt="henry | Whatsapp
 </div>
 
 ---
-<br/>
 
 <h1 align="center">What's your deal, man? 🤔</h1> 
 
@@ -188,6 +187,7 @@ I've used it to study and learn the tools in the Tech Stack section below 👇 a
 	<img alt="Grafana" height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" />
 	<img alt="Prometheus" height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" />
 	<img alt="GitHub Actions" height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
+	<img alt="NGINX" height="75" src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" />
       </div>
     </td>
   </tr>

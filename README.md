@@ -177,17 +177,17 @@ I've used it to study and learn the tools in the Tech Stack section below 👇 a
       <h2 align="center"> Some (some) experience with.. </h2>
       <div align="center">
 	<img src="https://docs.dask.org/en/stable/_images/dask_icon.svg" alt="dask" height="80" width="75"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="Flask" height="75" width="75"/>
+<!--         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="Flask" height="75" width="75"/> -->
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" height="75" width="75"/>
 	<img src="/msql.png" alt="css" height="75" width="75"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" height="75" width="75"/>
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" height="75" width="75"/>
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" height="75" width="75"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" alt="css" height="75" width="75"/>
-	<img alt="Grafana" height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" />
-	<img alt="Prometheus" height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" />
+<!-- 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" alt="css" height="75" width="75"/> -->
+<!-- 	<img alt="Grafana" height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" />
+	<img alt="Prometheus" height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" /> -->
 	<img alt="GitHub Actions" height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
-	<img alt="NGINX" height="75" src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" />
+	<img alt="databricks" height="75" src="https://cdn.brandfetch.io/idSUrLOWbH/theme/dark/symbol.svg?c=1bfwsmEH20zzEfSNTed" />
       </div>
     </td>
   </tr>

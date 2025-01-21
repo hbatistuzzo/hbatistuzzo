@@ -10,7 +10,7 @@
 🔹 :bar_chart: I've worked as a TA/Specialist Instructor and as an Oceanographic Data Analyst in BC, Canada <br>
 🔹 📋 This is where I’m building a portfolio in Data Analysis, Data Science and Data Engineering <br>
 🔹 🤘 4th kyu in codewars. It ain't easy 😢! <br>
-🔹 Currently getting acquainted with React and Apache Airflow, brushing up javascript, learning swarm and kubernetes in-depth <br>
+🔹 Currently learning more about Docker, Kubernetes and their use in cloud environments <br>
 
 <div align="center">
 
@@ -18,7 +18,7 @@
 
 </div>
 
-As an oceanographer I've focused mostly on Remote Sensing and Geophysical Fluid Dynamics. I started programming with C, MatLab and some R but nowadays I use Python as a tool of choice on a daily basis both for oceanography and data science projects. I also have some experience with Arduino for personal projects. I've recently been expanding my database management experience by studying NoSQL (with MongoDB). I'm still more familiar with relational databases and SQL.
+As an oceanographer I've focused mostly on remote sensing and large-to-meso-scale Geophysical Fluid Dynamics. I started programming with C, MatLab and some R but nowadays I use Python as a tool of choice on a daily basis both for oceanography and data science. Along the way I've picked up some tools whose usage has become ubiquitous across projects: Pyenv, Pip + Venv, Pipx, Poetry and Git (of course). Docker is becoming increasingly useful. Windows or Linux? Both. I've started a migration from dual boot --> VMs --> WSL2, which I currently use within VSCode, and it's the best thing ever. If you're _really_ interested in what I do, I keep a [portfolio hosted here](https://hbatistuzzo.github.io/); mind you, it currently works properly on desktop, but it's weird on mobile, because React is arcane and outside of my domain (hey at least I've tried, gimme a break! We'll get there)
 
 Feel free to message me on whatsapp here  <a href="">[<img alt="henry | Whatsapp" width="40px" src="./whatsapp.svg" />][whatsapp] or contact me through any of these links below:
 

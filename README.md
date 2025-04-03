@@ -2,13 +2,14 @@
 	Hi there, I'm Henry <br>
 </h1>
 
-<h3 align="center">... I'm currently delving into Data Science 🖖 </h3> 
+<h3 align="center"> I'm currently delving into Data Science </h3> 
 
 🔹 :ocean: I have an **Ocean/Environmental Sciences** academic background; BSc in **Oceanography** from the University of São Paulo <br>
 🔹 ⚓: Currently working at the Brazilian Navy-DHN as an oceanographic data analyst <br>
+🔹 ⚓: Gradually morphing into a data engineer <br>
 🔹 :desktop_computer: Completed a bootcamp in Data Analytics through **Ironhack** <br>
 🔹 :bar_chart: I've worked as a TA/Specialist Instructor and as an Oceanographic Data Analyst in BC, Canada <br>
-🔹 📋 This is where I’m building a portfolio in Data Analysis, Data Science and Data Engineering <br>
+🔹 📋 This is where I’m building a portfolio in Data Science <br>
 🔹 🤘 4th kyu in codewars. It ain't easy 😢! <br>
 🔹 Currently learning more about Docker, Kubernetes and their use in cloud environments <br>
 
@@ -18,9 +19,9 @@
 
 </div>
 
-As an oceanographer I've focused mostly on remote sensing and large-to-meso-scale Geophysical Fluid Dynamics. I started programming with C, MatLab and some R but nowadays I use Python as a tool of choice on a daily basis both for oceanography and data science. Along the way I've picked up some tools whose usage has become ubiquitous across projects: Pyenv, Pip + Venv, Pipx, Poetry and Git (of course). Docker is becoming increasingly useful. Windows or Linux? Both. I've started a migration from dual boot --> VMs --> WSL2, which I currently use within VSCode, and it's the best thing ever. If you're _really_ interested in what I do, I keep a [portfolio hosted here](https://hbatistuzzo.github.io/); mind you, it currently works properly on desktop, but it's weird on mobile, because React is arcane and outside of my domain (hey at least I've tried, gimme a break! We'll get there)
+As an oceanographer I've focused mostly on remote sensing and large-to-meso-scale Geophysical Fluid Dynamics. I started programming with C, MatLab and some R but nowadays I use Python as a tool of choice on a daily basis both for oceanography and data science. If you're _really_ interested in what I do, I keep a [portfolio hosted here](https://hbatistuzzo.github.io/); mind you, it currently works properly on desktop, but it's weird on mobile, because React is arcane and outside of my domain. Hey at least I've tried, gimme a break! We'll get there. Sure, I could just surrender to vibe coding and let any LLM build a perfect website carefully tailored to delivering the most important bits of information straight into the recruiter's eyeballs. Or perhaps having a 90% functional website peppered with formatting mistakes will actually convey that I did the work. Linus Torvalds' spirit will bless it with a light full of good juju and the recruiter will feel slightly moved into getting in touch.
 
-Feel free to message me on whatsapp here  <a href="">[<img alt="henry | Whatsapp" width="40px" src="./whatsapp.svg" />][whatsapp] or contact me through any of these links below:
+Anyway, feel free to message me on whatsapp here  <a href="">[<img alt="henry | Whatsapp" width="40px" src="./whatsapp.svg" />][whatsapp] or contact me through any of these links below:
 
 <div align="center">
 
@@ -55,11 +56,11 @@ Feel free to message me on whatsapp here  <a href="">[<img alt="henry | Whatsapp
 
 ---
 
-<h1 align="center">What's your deal, man? 🤔</h1> 
+<h1 align="center">What's your deal, dude? 🤔</h1> 
 
-Glad you've asked! My deal is mindmaps.<br> <br>
-Mindmaps everywhere, from conducting the literature review of scientific articles to organizing the study of data science topics. The [method of loci](https://en.wikipedia.org/wiki/Method_of_loci) is well established in neuroscience, and by creating blueprints for a mind-palace with mind-maps, this method leverages spatial and visual memory in complementary ways, as corroborated in [Dresler et al, 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC5439266/). <br> <br>
-Listen, Geophysical Fluid Dynamics is hard enough, and I'm not particularly smart, but my _sister_ is, so I'll take a hint from someone who has a postdoc in neurobiology and take any advantage I can get. Cognitive architecture is a vibrant field and I suspect they're on to something.
+Dude, my deal is mindmaps.<br> <br>
+Mindmaps everywhere. For reviewing scientific articles, organizing the study of data science topics or scheming cake recipes. The [method of loci](https://en.wikipedia.org/wiki/Method_of_loci) is well established in neuroscience, and by creating blueprints for a mind-castle with mind-maps, this method leverages spatial and visual memory in complementary ways, as corroborated in [Dresler et al, 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC5439266/). <br> <br>
+Listen, Geophysical Fluid Dynamics is hard enough, and I'm not particularly smart, but my _sister_ is, so I'll take a hint from someone who has a postdoc in neurobiology and take any advantage I can get. Cognitive architecture is a vibrant field and she suspects they're on to something.
 
 <div align="center">
         <a target="_blank" href="mindmeinster">

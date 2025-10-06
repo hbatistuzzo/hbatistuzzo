@@ -2,23 +2,24 @@
 	Hi there, I'm Henry <br>
 </h1>
 
-<h3 align="center">... I'm currently delving into Data Science 🖖 </h3> 
+<h3 align="center">... I'm up to my neck into Data Science </h3> 
 
 🔹 :ocean: I have an **Ocean/Environmental Sciences** academic background; BSc in **Oceanography** from the University of São Paulo <br>
-🔹 ⚓: Currently working at the Brazilian Navy-DHN as an oceanographic data analyst <br>
-🔹 :desktop_computer: Completed a bootcamp in Data Analytics through **Ironhack** <br>
+🔹 ⚓: Currently working at the Brazilian Navy-DHN as an oceanographic data engineer <br>
+🔹 :desktop_computer: Was introduced to data science through **Ironhack's** Data Analysis bootcamp <br>
 🔹 :bar_chart: I've worked as a TA/Specialist Instructor and as an Oceanographic Data Analyst in BC, Canada <br>
-🔹 📋 This is where I’m building a portfolio in Data Analysis, Data Science and Data Engineering <br>
-🔹 🤘 4th kyu in codewars. It ain't easy 😢! <br>
-🔹 Currently learning more about Docker, Kubernetes and their use in cloud environments <br>
+🔹 📋 This is where I keep a portfolio of data-related projects <br>
+🔹 🤘 Glider and Sailbuoy pilot <br>
 
 <div align="center">
 
-<a href="">[![alt rank](https://www.codewars.com/users/hbatistuzzo/badges/large)](https://www.codewars.com/users/hbatistuzzo)</a>
+  <img src="https://raw.githubusercontent.com/hbatistuzzo/hbatistuzzo/main/glider.gif" alt="Slocum Glider" width="300"/>
+
+  <br>
 
 </div>
 
-As an oceanographer I've focused mostly on remote sensing and large-to-meso-scale Geophysical Fluid Dynamics. I started programming with C, MatLab and some R but nowadays I use Python as a tool of choice on a daily basis both for oceanography and data science. Along the way I've picked up some tools whose usage has become ubiquitous across projects: Pyenv, Pip + Venv, Pipx, Poetry and Git (of course). Docker is becoming increasingly useful. Windows or Linux? Both. I've started a migration from dual boot --> VMs --> WSL2, which I currently use within VSCode, and it's the best thing ever. If you're _really_ interested in what I do, I keep a [portfolio hosted here](https://hbatistuzzo.github.io/); mind you, it currently works properly on desktop, but it's weird on mobile, because React is arcane and outside of my domain (hey at least I've tried, gimme a break! We'll get there)
+As an oceanographer I've focused mostly on remote sensing and large-to-meso-scale Geophysical Fluid Dynamics. I started programming with C, MatLab and some R but nowadays I use Python as a tool of choice on a daily basis both for oceanography and data science. If you're _really_ interested in what I do, I keep a [portfolio hosted here](https://hbatistuzzo.github.io/); mind you, it currently works properly on desktop, but it's weird on mobile, because React is arcane and outside of my domain (hey at least I've tried, gimme a break! We'll get there)
 
 Feel free to message me on whatsapp here  <a href="">[<img alt="henry | Whatsapp" width="40px" src="./whatsapp.svg" />][whatsapp] or contact me through any of these links below:
 

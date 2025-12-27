@@ -1,14 +1,14 @@
 <h1 align="center"> 
-	Hi there, I'm Henry <br>
+	Hi there, I'm Henry 🖖<br>
 </h1>
 
-<h3 align="center">... I'm currently delving into Data Science 🖖 </h3> 
+<h3 align="center">I'm currently digging into Data Science </h3> 
 
 🔹 :ocean: I have an **Ocean/Environmental Sciences** academic background; BSc in **Oceanography** from the University of São Paulo <br>
-🔹 ⚓: Currently working at the Brazilian Navy-DHN as an oceanographic data analyst <br>
+🔹 ⚓: Currently working at the Brazilian Navy-CHM as a data engineer <br>
 🔹 :desktop_computer: Completed a bootcamp in Data Analytics through **Ironhack** <br>
 🔹 :bar_chart: I've worked as a TA/Specialist Instructor and as an Oceanographic Data Analyst in BC, Canada <br>
-🔹 📋 This is where I’m building a portfolio in Data Analysis, Data Science and Data Engineering <br>
+🔹 📋 This is where I’m building a portfolio in Data Science <br>
 🔹 🤘 4th kyu in codewars. It ain't easy 😢! <br>
 🔹 Currently learning more about Docker, Kubernetes and their use in cloud environments <br>
 
@@ -18,7 +18,15 @@
 
 </div>
 
-As an oceanographer I've focused mostly on remote sensing and large-to-meso-scale Geophysical Fluid Dynamics. I started programming with C, MatLab and some R but nowadays I use Python as a tool of choice on a daily basis both for oceanography and data science. Along the way I've picked up some tools whose usage has become ubiquitous across projects: Pyenv, Pip + Venv, Pipx, Poetry and Git (of course). Docker is becoming increasingly useful. Windows or Linux? Both. I've started a migration from dual boot --> VMs --> WSL2, which I currently use within VSCode, and it's the best thing ever. If you're _really_ interested in what I do, I keep a [portfolio hosted here](https://hbatistuzzo.github.io/); mind you, it currently works properly on desktop, but it's weird on mobile, because React is arcane and outside of my domain (hey at least I've tried, gimme a break! We'll get there)
+As an oceanographer I've focused mostly on remote sensing and large-to-meso-scale Geophysical Fluid Dynamics. I started programming with C, MatLab and some R (the latter mostly for bio-statistics) but nowadays I use Python as a tool of choice on a daily basis both for oceanography and data science. Along the way I've picked up some tools whose usage has become standard practice across projects: Pyenv, Pip + Venv, Pipx, Poetry and Git allows for standardization, sharing and reproducibility. Scipy, Numpy, Pandas, Matplotlib and Seaborn have been the bread and butter of data analysis since the very first days in a physical oceanography lab, all in a Linux environment. <br>
+
+XArray and Dask are useful (even necessary) when dealing with HPC and the context of large remote sensing datasets in HDF5, NetCDF or Zarr formats. That, in turn, opened the doors to the importance of "lazy" loading/computation through tools like Spark. As code snippets grew in complexity, pipelines started emerging, and with it the usage of automation tools like CRON/Rundesk and Airflow became increasingly natural. I'm now trying to leverage the power of flow orchestration through Docker, Kubernetes and Prefect. All of these thingamajigs find their way to a toolbox which, I'll be the first to admit, can get messy. The growth is organic, and the concepts that are used on a daily basis for work applications definitely calcify faster than others.
+
+I try to dip my toes into some neighboring areas under the IT umbrella: some knowledge in HTML, PHP, even tried some React to make a portfolio [here](https://hbatistuzzo.github.io/); mind you, it currently works ok on desktop, but it's weird on mobile, because React is arcane, outside of my domain, and it would probably take several months or more to grasp it with confidence. I have mixed feelings about it, because it _does_ allow for infinite customization (and the animations/transitions? *chef's kiss* 🤌). That being said, it never ends, there's just too much stuff, and it took me a lot of time in coursera and udemy to try and juggle it all. <br>
+
+More importantly, soon after taking those courses, AI tools and LLMs embedded in IDE's did started to become a thing. A weird thing, that hallucinated every 3 prompts and built a house of cards that looked awesome, but was actually built upside-down on a slope made of ice, and the cards were jelly. That was then. Now, it does make me nervous, because I can probably replicate the same portfolio on Windsurf through vibe-coding with Claude. I hope not. 
+
+We only have so much time, however, so rather than spreading myself thin, I'm trying to focus. The Docker-Kubernetes-Prefect combo will probably be a nice segue into cloud services like AWS, which I deal with at work.
 
 Feel free to message me on whatsapp here  <a href="">[<img alt="henry | Whatsapp" width="40px" src="./whatsapp.svg" />][whatsapp] or contact me through any of these links below:
 
@@ -55,11 +63,11 @@ Feel free to message me on whatsapp here  <a href="">[<img alt="henry | Whatsapp
 
 ---
 
-<h1 align="center">What's your deal, man? 🤔</h1> 
+<h1 align="center">so what's your deal, man? 🤔</h1> 
 
-Glad you've asked! My deal is mindmaps.<br> <br>
-Mindmaps everywhere, from conducting the literature review of scientific articles to organizing the study of data science topics. The [method of loci](https://en.wikipedia.org/wiki/Method_of_loci) is well established in neuroscience, and by creating blueprints for a mind-palace with mind-maps, this method leverages spatial and visual memory in complementary ways, as corroborated in [Dresler et al, 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC5439266/). <br> <br>
-Listen, Geophysical Fluid Dynamics is hard enough, and I'm not particularly smart, but my _sister_ is, so I'll take a hint from someone who has a postdoc in neurobiology and take any advantage I can get. Cognitive architecture is a vibrant field and I suspect they're on to something.
+I guess my deal is mindmaps.<br> <br>
+From doing the literature review of scientific articles to organizing the study of data science topics. Something about this method leveraging spatial and visual memory in complementary ways, as reviewed in [Dresler et al, 2018 (https://pmc.ncbi.nlm.nih.gov/articles/PMC5439266/). That toolbox that I mentioned above is a giant mess of loose threads and it's making me suspicious, I don't want to go as far as saying ADHD, but it's just too much stuff to learn! <br> <br>
+Listen, Geophysical Fluid Dynamics is hard enough, and I'm not particularly smart, but my _sister_ is, so I'll take a hint from someone who has a postdoc in neurobiology and take any advantage I can get. Cognitive architecture is a vibrant field and I suspect they're on to something. Jeez!
 
 <div align="center">
         <a target="_blank" href="mindmeinster">

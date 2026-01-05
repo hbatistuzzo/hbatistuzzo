@@ -10,7 +10,7 @@
 🔹 :bar_chart: I've worked as a TA/Specialist Instructor and as an Oceanographic Data Analyst in BC, Canada <br>
 🔹 📋 This is where I’m building a portfolio in Data Science <br>
 🔹 🤘 4th kyu in codewars. It ain't easy 😢! <br>
-🔹 Currently learning more about Docker, Kubernetes and their use in cloud environments <br>
+🔹 2026: Currently working towards the [IBM AI Engineering Professional Certificate](https://www.coursera.org/learn/machine-learning-with-python/lecture/7994V/course-introduction) <br>
 
 <div align="center">
 
@@ -20,9 +20,17 @@
 
 As an oceanographer I've focused mostly on remote sensing and large-to-meso-scale Geophysical Fluid Dynamics. I started programming with C, MatLab and some R (the latter mostly for bio-statistics) but nowadays I use Python as a tool of choice on a daily basis both for oceanography and data science. Along the way I've picked up some tools whose usage has become standard practice across projects: Pyenv, Pip + Venv, Pipx, Poetry and Git allows for standardization, sharing and reproducibility. Scipy, Numpy, Pandas, Matplotlib and Seaborn have been the bread and butter of data analysis since the very first days in a physical oceanography lab, all in a Linux environment. <br>
 
+
+<div align="center">
+        <a target="_blank" href="google.comp">
+            <img align="center" src="vgos.gif" height="300" width="400" alt="AVISO"/>
+        </a>
+	</div>
+<br>
+			
 XArray and Dask are useful (even necessary) when dealing with HPC and the context of large remote sensing datasets in HDF5, NetCDF or Zarr formats. That, in turn, opened the doors to the importance of "lazy" loading/computation through tools like Spark. As code snippets grew in complexity, pipelines started emerging, and with it the usage of automation tools like CRON/Rundesk and Airflow became increasingly natural. I'm now trying to leverage the power of flow orchestration through Docker, Kubernetes and Prefect. All of these thingamajigs find their way to a toolbox which, I'll be the first to admit, can get messy. The growth is organic, and the concepts that are used on a daily basis for work applications definitely calcify faster than others.
 
-I try to dip my toes into some neighboring areas under the IT umbrella: some knowledge in HTML, PHP, even tried some React to make a portfolio [here](https://hbatistuzzo.github.io/); mind you, it currently works ok on desktop, but it's weird on mobile, because React is arcane, outside of my domain, and it would probably take several months or more to grasp it with confidence. I have mixed feelings about it, because it _does_ allow for infinite customization (and the animations/transitions? *chef's kiss* 🤌). That being said, it never ends, there's just too much stuff, and it took me a lot of time in coursera and udemy to try and juggle it all. <br>
+I try to dip my toes into some neighboring areas under the IT umbrella: some knowledge in HTML, PHP, even tried some React to make a portfolio [here](https://hbatistuzzo.github.io/); it currently works ok on desktop, but it's weird on mobile, because React is arcane, outside of my domain, and it would probably take several months or more to grasp it with confidence. I have mixed feelings about it, because it _does_ allow for infinite customization (and the animations/transitions? *chef's kiss* 🤌). That being said, it never ends, there's just too much stuff, and it took me a lot of time in coursera and udemy to try and juggle it all. <br>
 
 More importantly, soon after taking those courses, AI tools and LLMs embedded in IDE's did started to become a thing. A weird thing, that hallucinated every 3 prompts and built a house of cards that looked awesome, but was actually built upside-down on a slope made of ice, and the cards were jelly. That was then. Now, it does make me nervous, because I can probably replicate the same portfolio on Windsurf while vibe-coding with Claude. I have a loose feeling that webdev might be more susceptible to these AI intrusions that other areas in data science. Regardless, we only have so much time, so rather than spreading myself thin, I'm trying to focus. The Docker-Kubernetes-Prefect combo will probably be a nice segue into cloud services like AWS, which I deal with at work.
 

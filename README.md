@@ -49,21 +49,21 @@ Feel free to message me on whatsapp here  <a href="">[<img alt="henry | Whatsapp
 
 <h1 align="center">GitHub Stats</h1>
 
-<div align="center">
-  <a href="https://github.com/hbatistuzzo">
-<img height="170em"  width="420em" src="https://github-readme-stats.vercel.app/api?username=hbatistuzzo&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-<img height="170em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbatistuzzo&layout=compact&langs_count=6&theme=merko" />
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hbatistuzzo&theme=transparent" />
+    </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hbatistuzzo&theme=transparent" />
+    </td>
+  </tr>
+</table>
+
 
 <div align="center">
 
-<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hbatistuzzo&theme=2077" /></p>
 
-</div>
-
-<div align="center">
-
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=hbatistuzzo&theme=merko&stroke=0000)](https://git.io/streak-stats)
 
 </div>
 

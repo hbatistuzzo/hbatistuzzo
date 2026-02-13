@@ -116,7 +116,7 @@ I've used it to study and learn the tools in the Tech Stack section below 👇 a
           <img align="center" alt="scipy" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" />
           <img align="center" alt="jupyter" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
           <img align="center" alt="xarray" height="60" width="60" src="https://raw.githubusercontent.com/pydata/xarray/026aa7c073d03fb6d749c216be1d829816583fac/doc/_static/logos/Xarray_Icon_Final.svg" />
-          <img align="center" alt="netcdf" height="60" width="60" src="https://raw.githubusercontent.com/Unidata/netcdf-c/main/docs/images/netcdf-50x50.png" />
+          <img align="center" alt="netcdf" height="60" width="60" src="https://www.unidata.ucar.edu/software/netcdf/docs/images/netcdf-50x50.png" />
           <img align="center" alt="matlab" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
         </div>
       </td>
@@ -156,7 +156,7 @@ I've used it to study and learn the tools in the Tech Stack section below 👇 a
           <img align="center" alt="Ubuntu" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" />
           <img align="center" alt="Bash" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
           <img align="center" alt="Git" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-          <img align="center" alt="XAMPP" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xampp/xampp-original.svg" />
+          <img align="center" alt="XAMPP" height="60" width="60" src="https://www.svgrepo.com/show/354575/xampp.svg" />
         </div>
       </td>
       <td style="width: 50%; vertical-align: top;">

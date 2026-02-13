@@ -116,7 +116,7 @@ I've used it to study and learn the tools in the Tech Stack section below 👇 a
           <img align="center" alt="scipy" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" />
           <img align="center" alt="jupyter" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
           <img align="center" alt="xarray" height="60" width="60" src="https://raw.githubusercontent.com/pydata/xarray/026aa7c073d03fb6d749c216be1d829816583fac/doc/_static/logos/Xarray_Icon_Final.svg" />
-          <img align="center" alt="netcdf" height="60" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/netcdf.svg" />
+          <img align="center" alt="netcdf" height="60" width="60" src="https://img.shields.io/badge/NetCDF-4-blue?style=flat" />
           <img align="center" alt="matlab" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
         </div>
       </td>

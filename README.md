@@ -23,7 +23,7 @@ As an oceanographer I've focused mostly on remote sensing and large-to-meso-scal
 
 <div align="center">
         <a target="_blank" href="google.comp">
-            <img align="center" src="vgos.gif" height="300" width="400" alt="AVISO"/>
+            <img align="center" src="images/vgos.gif" height="300" width="400" alt="AVISO"/>
         </a>
 	</div>
 <br>
@@ -34,7 +34,7 @@ I try to dip my toes into some neighboring areas under the IT umbrella: some kno
 
 More importantly, soon after taking those courses, AI tools and LLMs embedded in IDE's did started to become a thing. A weird thing, that hallucinated every 3 prompts and built a house of cards that looked awesome, but was actually built upside-down on a slope made of ice, and the cards were jelly. That was then. Now, it does make me nervous, because I can probably replicate the same portfolio on Windsurf while vibe-coding with Claude. I have a loose feeling that webdev might be more susceptible to these AI intrusions that other areas in data science. Regardless, we only have so much time, so rather than spreading myself thin, I'm trying to focus. The Docker-Kubernetes-Prefect combo will probably be a nice segue into cloud services like AWS, which I deal with at work.
 
-Feel free to message me on whatsapp here  <a href="">[<img alt="henry | Whatsapp" width="40px" src="./whatsapp.svg" />][whatsapp] or contact me through any of these links below:
+Feel free to message me on whatsapp here  <a href="">[<img alt="henry | Whatsapp" width="40px" src="./images/whatsapp.svg" />][whatsapp] or contact me through any of these links below:
 
 <div align="center">
 
@@ -77,7 +77,7 @@ Listen, Geophysical Fluid Dynamics is hard enough, and I'm not particularly smar
 
 <div align="center">
         <a target="_blank" href="mindmeinster">
-            <img align="center" src="mindmaps.gif" width="800" alt="mindmap"/>
+            <img align="center" src="images/mindmaps.gif" width="800" alt="mindmap"/>
         </a>
 </div>
 
@@ -116,15 +116,15 @@ I've used it to study and learn the tools in the Tech Stack section below 👇 a
           <img align="center" alt="scipy" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" />
           <img align="center" alt="jupyter" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
           <img align="center" alt="xarray" height="60" width="60" src="https://raw.githubusercontent.com/pydata/xarray/026aa7c073d03fb6d749c216be1d829816583fac/doc/_static/logos/Xarray_Icon_Final.svg" />
-          <img align="center" alt="netcdf" height="60" width="60" src="https://landscape.lfenergy.org/logos/netcdf-c.svg" />
+          <img align="center" alt="netcdf" height="60" width="60" src="https://raw.githubusercontent.com/Unidata/netcdf-c/main/docs/images/netcdf-50x50.png" />
           <img align="center" alt="matlab" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
         </div>
       </td>
       <td style="width: 50%; vertical-align: top;">
         <h2 align="center">Visualization & Business Intelligence</h2>
         <div align="center">
-          <img align="center" alt="Power BI" height="60" width="60" src="Power-BI.svg" />
-          <img align="center" alt="Tableau" height="60" width="60" src="tableau.png" />
+          <img align="center" alt="Power BI" height="60" width="60" src="images/Power-BI.svg" />
+          <img align="center" alt="Tableau" height="60" width="60" src="images/tableau.png" />
           <img align="center" alt="Matplotlib" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" />
           <img align="center" alt="Seaborn" height="60" width="60" src="https://seaborn.pydata.org/_static/logo-tall-lightbg.svg" />
         </div>
@@ -138,6 +138,7 @@ I've used it to study and learn the tools in the Tech Stack section below 👇 a
           <img align="center" alt="MySQL" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
           <img align="center" alt="MongoDB" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
           <img align="center" alt="SQLalchemy" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" />
+          <img align="center" alt="DBeaver" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" />
         </div>
       </td>
       <td style="width: 50%; vertical-align: top;">
@@ -155,6 +156,7 @@ I've used it to study and learn the tools in the Tech Stack section below 👇 a
           <img align="center" alt="Ubuntu" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" />
           <img align="center" alt="Bash" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
           <img align="center" alt="Git" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+          <img align="center" alt="XAMPP" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xampp/xampp-original.svg" />
         </div>
       </td>
       <td style="width: 50%; vertical-align: top;">
@@ -162,7 +164,7 @@ I've used it to study and learn the tools in the Tech Stack section below 👇 a
         <div align="center">
           <img align="center" alt="Arduino" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
           <img align="center" alt="VS Code" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-          <img align="center" alt="LaTeX" height="60" width="60" src="latex-1.svg" />
+          <img align="center" alt="LaTeX" height="60" width="60" src="images/latex-1.svg" />
         </div>
       </td>
     </tr>
@@ -193,7 +195,7 @@ I've used it to study and learn the tools in the Tech Stack section below 👇 a
 	<img src="https://docs.dask.org/en/stable/_images/dask_icon.svg" alt="dask" height="80" width="75"/>
 <!--         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="Flask" height="75" width="75"/> -->
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" height="75" width="75"/>
-	<img src="/msql.png" alt="css" height="75" width="75"/>
+	<img src="images/msql.png" alt="css" height="75" width="75"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" height="75" width="75"/>
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" height="75" width="75"/>
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" height="75" width="75"/>
@@ -208,16 +210,6 @@ I've used it to study and learn the tools in the Tech Stack section below 👇 a
 </table>
           
 
-<table align="center" style="width: 80%; table-layout: fixed;">
-  <tr>
-    <td style="text-align: center; padding: 20px;">
-      <h2 align="center"> Planning on learning </h2>
-      <div align="center">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" alt="DBeaver" height="80" width="75"/>
-      </div>
-    </td>
-  </tr>
-</table>
 
 
 ---
@@ -247,7 +239,7 @@ I've used it to study and learn the tools in the Tech Stack section below 👇 a
 </div>
 <div align="center">
         <a target="_blank" href="google.comp">
-            <img align="center" src="vgos.gif" height="300" width="400" alt="AVISO"/>
+            <img align="center" src="images/vgos.gif" height="300" width="400" alt="AVISO"/>
         </a>
 	</div>
         <br />
@@ -259,8 +251,8 @@ I've used CMEMS altimetry data to create functions that plot global monthly clim
         <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" height="50" width="60"/> </a>
 	<img  alt="pandas"  height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-	<img  alt="xarray"  height="70" width="70" src="xarray.jpg" />
-	<img  alt="dask" height="70" width="70" src="dask.svg"/>
+	<img  alt="xarray"  height="70" width="70" src="images/xarray.jpg" />
+	<img  alt="dask" height="70" width="70" src="images/dask.svg"/>
       </p>
       <p align="center">
         <strong> IDE used </strong>
@@ -286,7 +278,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-w
 </div>
 <div align="center">
         <a target="_blank" href="google.comp">
-            <img align="center" src="databank_structure.png" height="300" width="400" alt="money3"/>
+            <img align="center" src="images/databank_structure.png" height="300" width="400" alt="money3"/>
         </a>
 	</div>
         <br />
@@ -299,7 +291,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-w
 	src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" height="70" width="70"/> </a>
 	<img alt="pandas"  height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
 	<img alt="mysql"  height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-	<img alt="tableau"  height="70" width="70" src="tableau.png" />
+	<img alt="tableau"  height="70" width="70" src="images/tableau.png" />
       </p>
       <p align="center">
         <strong> IDE used </strong>
@@ -326,7 +318,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-w
 </div>
 <div align="center">
         <a target="_blank" href="google.comp">
-            <img src="dovidio_2010.png" height="300"width="400" alt="PHYSAT"/>
+            <img src="images/dovidio_2010.png" height="300"width="400" alt="PHYSAT"/>
         </a>
 	</div>
         <br />
@@ -360,7 +352,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-w
 </div>
 <div align="center">
         <a target="_blank" href="google.comp">
-            <img src="heatmap.png" height = "300" width="400" alt="heat"/>
+            <img src="images/heatmap.png" height = "300" width="400" alt="heat"/>
         </a>
 	</div>
         <br />
@@ -399,7 +391,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-w
 </div>
 <div align="center">
         <a target="_blank" href="google.com">
-            <img src="distplot.png" height = "300" width="400" alt="heat"/>
+            <img src="images/distplot.png" height = "300" width="400" alt="heat"/>
         </a>
 	</div>
         <br />
@@ -437,7 +429,7 @@ Australia, the goal of this project is to train a model on short-term rainfall p
 </div>
 <div align="center">
         <a target="_blank" href="google.com">
-            <img src="example.png" height = "300" width="400" alt="exx"/>
+            <img src="images/example.png" height = "300" width="400" alt="exx"/>
         </a>
 	</div>
         <br />
@@ -449,8 +441,8 @@ Australia, the goal of this project is to train a model on short-term rainfall p
         <strong> Technologies used </strong>
         <br/>
         <img align="center" alt="mysql"  height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-	<img align="center" alt="MSsql"  height="70" width="70" src="/msql.png" />
-	<img align='center' alt="tableau"  height="70" width="70" src="tableau.png" />
+	<img align="center" alt="MSsql"  height="70" width="70" src="images/msql.png" />
+	<img align='center' alt="tableau"  height="70" width="70" src="images/tableau.png" />
 	</p>
       <p align="center">
         <strong> IDE used </strong>
@@ -466,7 +458,7 @@ Australia, the goal of this project is to train a model on short-term rainfall p
 
 </table>
  
- <p align="center"><img src="ironbadge.png" width="50%" alt="Logo"></p>
+ <p align="center"><img src="images/ironbadge.png" width="50%" alt="Logo"></p>
 
 
 

@@ -1,5 +1,5 @@
 <h1 align="center"> 
-	Hi there, I'm Henry 🖖<br>
+	Hi there, I'm Henry <br>
 </h1>
 
 <h3 align="center">I'm currently digging into Data Science </h3> 
@@ -32,7 +32,13 @@ XArray and Dask are useful (even necessary) when dealing with HPC and the contex
 
 I try to dip my toes into some neighboring areas under the IT umbrella: some knowledge in HTML, PHP, even tried some React to make a portfolio [here](https://hbatistuzzo.github.io/); it currently works ok on desktop, but it's weird on mobile, because React is arcane, outside of my domain, and it would probably take several months or more to grasp it with confidence. I have mixed feelings about it, because it _does_ allow for infinite customization (and the animations/transitions? *chef's kiss* 🤌). That being said, it never ends, there's just too much stuff, and it took me a lot of time in coursera and udemy to try and juggle it all. <br>
 
-More importantly, soon after taking those courses, AI tools and LLMs embedded in IDE's did started to become a thing. A weird thing, that hallucinated every 3 prompts and built a house of cards that looked awesome, but was actually built upside-down on a slope made of ice, and the cards were jelly. That was then. Now, it does make me nervous, because I can probably replicate the same portfolio on Windsurf while vibe-coding with Claude. I have a loose feeling that webdev might be more susceptible to these AI intrusions that other areas in data science. Regardless, we only have so much time, so rather than spreading myself thin, I'm trying to focus. The Docker-Kubernetes-Prefect combo will probably be a nice segue into cloud services like AWS, which I deal with at work.
+More importantly, soon after taking those courses, AI tools and LLMs embedded in IDE's did started to become a thing. A weird thing, that hallucinated every 3 prompts and built a house of cards that looked awesome, but was actually built upside-down on a slope made of ice, and the cards were jelly. That was then. Now, I can probably replicate that same react portfolio on Windsurf while vibe-coding with Claude (big caveat next paragraph). I have a loose feeling that webdev might be more susceptible to these AI intrusions that other areas in data science. Regardless, we only have so much time, so rather than spreading myself thin, I'm trying to focus: Docker-Kubernetes-Prefect combo for operational purposes (will probably be a nice segue into cloud services like AWS, which I deal with at work) and machine learning + statistics for theory.
+
+*update on this whole AI ordeal*: Boris Cherny from ClaudeCode has now famously stated that "coding is largely solved" (oh oh, says every software dev ever, in unison) so 1) since this is a portfolio and 2) you might be a recruiter thinking "why do we need you again?", here's my best attempt at persuasion:
+- Coding was never meant to be "the hard part". Writing code syntax is mechanical.
+- The hard part, one could argue, is modelling the problem correctly, defining boundaries, understanding data flow, anticipating failure modes and designing systems that survive change.
+- When we write code ourselves, we are forced to understand and simulate the system in our head. Why a function exists, what assumptions are being made, what happens when inputs are invalid, etc.
+- This is training. Outsource it, and you lose the ability to reason about complexity. I'd wager that that's something to think about if you're the head of a company that _wants to be trusted by people_.
 
 Feel free to message me on whatsapp here  <a href="">[<img alt="henry | Whatsapp" width="40px" src="./images/whatsapp.svg" />][whatsapp] or contact me through any of these links below:
 

@@ -1,57 +1,279 @@
-<h1 align="center"> 
-	Hi there, I'm Henry <br>
-</h1>
+<h1 align="center">Hi, I'm Henrique 👋</h1>
 
-<h3 align="center">I'm currently digging into Data Science </h3> 
+<h3 align="center">Data Engineer · AI-augmented pipelines, AWS ETL & real-time data</h3>
 
-🔹 :ocean: I have an **Ocean/Environmental Sciences** academic background; BSc in **Oceanography** from the University of São Paulo <br>
-🔹 ⚓: Currently working at the Brazilian Navy-CHM as a data engineer <br>
-🔹 :desktop_computer: Completed a bootcamp in Data Analytics through **Ironhack** <br>
-🔹 :bar_chart: I've worked as a TA/Specialist Instructor and as an Oceanographic Data Analyst in BC, Canada <br>
-🔹 📋 This is where I’m building a portfolio in Data Science <br>
-🔹 🤘 4th kyu in codewars. It ain't easy 😢! <br>
-🔹 2026: Currently working towards the [IBM AI Engineering Professional Certificate](https://www.coursera.org/learn/machine-learning-with-python/lecture/7994V/course-introduction) <br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/henrique-batistuzzo/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:hbatistuzzo@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="http://api.whatsapp.com/send?phone=5511981126990"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+</p>
 
-<div align="center">
+<p align="center">
+🔹 ⚓ <b>Data Engineer at the Brazilian Navy (CHM)</b> — I build reliable, automated data pipelines: ETL/ELT on AWS, real-time ingestion from APIs &amp; sensors, quality control, and REST APIs.<br>
+🔹 🌊 BSc in <b>Oceanography</b> (University of São Paulo) — so I'm at home with the messy <b>scientific, sensor, geospatial &amp; time-series data</b> most generalists avoid.<br>
+🔹 🤖 <b>AI-augmented</b>: I use modern AI tooling to ship in days what used to take weeks — without cutting corners on reliability.<br>
+🔹 💬 <b>Open to freelance / contract data-engineering work.</b> If your data is trapped in spreadsheets, APIs or silos and you want it flowing automatically into something usable — <a href="mailto:hbatistuzzo@gmail.com">let's talk</a>.
+</p>
 
-<a href="">[![alt rank](https://www.codewars.com/users/hbatistuzzo/badges/large)](https://www.codewars.com/users/hbatistuzzo)</a>
+---
+
+<h1 align="center">Featured Projects</h1>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="center">🏃 runsight — Garmin activity analytics</h4>
+      <div align="center">
+
+![top](https://img.shields.io/github/languages/top/hbatistuzzo/runsight)
+![size](https://img.shields.io/github/languages/code-size/hbatistuzzo/runsight)
+![last commit](https://img.shields.io/github/last-commit/hbatistuzzo/runsight)
 
 </div>
+      <p>A production-grade Python package that pulls Garmin activity data and turns it into analytics. Proper <code>src/</code> layout, tests, CI, and a packaged CLI — the way I structure real projects.</p>
+      <p align="center"><strong>Python · pytest · CI · packaging</strong></p>
+      <p align="center">
+        <a href="https://github.com/hbatistuzzo/runsight"><img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github"/></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="center">⚡ 1 Billion Rows Challenge</h4>
+      <div align="center">
 
-As an oceanographer I've focused mostly on remote sensing and large-to-meso-scale Geophysical Fluid Dynamics. I started programming with C, MatLab and some R (the latter mostly for bio-statistics) but nowadays I use Python as a tool of choice on a daily basis both for oceanography and data science. Along the way I've picked up some tools whose usage has become standard practice across projects: Pyenv, Pip + Venv, Pipx, Poetry and Git allows for standardization, sharing and reproducibility. Scipy, Numpy, Pandas, Matplotlib and Seaborn have been the bread and butter of data analysis since the very first days in a physical oceanography lab, all in a Linux environment. <br>
+![top](https://img.shields.io/github/languages/top/hbatistuzzo/1-billion-rows-challenge)
+![size](https://img.shields.io/github/languages/code-size/hbatistuzzo/1-billion-rows-challenge)
+![last commit](https://img.shields.io/github/last-commit/hbatistuzzo/1-billion-rows-challenge)
 
+</div>
+      <p>Aggregating one billion rows — and benchmarking how far you can push it with pure Python vs Pandas, Polars, DuckDB and Dask. Performance engineering and knowing the right tool for scale.</p>
+      <p align="center"><strong>Python · Polars · DuckDB · Dask</strong></p>
+      <p align="center">
+        <a href="https://github.com/hbatistuzzo/1-billion-rows-challenge"><img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github"/></a>
+      </p>
+    </td>
+  </tr>
 
-<div align="center">
-        <a target="_blank" href="google.comp">
-            <img align="center" src="images/vgos.gif" height="300" width="400" alt="AVISO"/>
-        </a>
-	</div>
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="center">🛰️ CMEMS Altimetry — Rossby waves</h4>
+      <div align="center">
+
+![top](https://img.shields.io/github/languages/top/hbatistuzzo/CMEMS-altimetry)
+![size](https://img.shields.io/github/languages/code-size/hbatistuzzo/CMEMS-altimetry)
+![last commit](https://img.shields.io/github/last-commit/hbatistuzzo/CMEMS-altimetry)
+
+</div>
+      <div align="center"><img src="images/vgos.gif" height="230" width="300" alt="geostrophic velocity"/></div>
+      <p>Global monthly climatologies of geostrophic velocities from CMEMS altimetry, plus Hovmöller diagrams that make first-mode baroclinic Rossby waves visible. Large NetCDF handling with XArray + Dask.</p>
+      <p align="center"><strong>Python · XArray · Dask · NetCDF</strong></p>
+      <p align="center">
+        <a href="https://github.com/hbatistuzzo/CMEMS-altimetry"><img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github"/></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="center">🐍 FastAPI + TDD</h4>
+      <div align="center">
+
+![top](https://img.shields.io/github/languages/top/hbatistuzzo/DIO_FastAPI_TDD)
+![size](https://img.shields.io/github/languages/code-size/hbatistuzzo/DIO_FastAPI_TDD)
+![last commit](https://img.shields.io/github/last-commit/hbatistuzzo/DIO_FastAPI_TDD)
+
+</div>
+      <p>An async REST API built test-first with FastAPI, Pydantic and pytest — clean structure, typed schemas, and tests driving the design. How I build the API layer that sits on top of a pipeline.</p>
+      <p align="center"><strong>FastAPI · Pydantic · pytest · async</strong></p>
+      <p align="center">
+        <a href="https://github.com/hbatistuzzo/DIO_FastAPI_TDD"><img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github"/></a>
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="center">📊 Ironhack Final Project — data bank</h4>
+      <div align="center">
+
+![top](https://img.shields.io/github/languages/top/hbatistuzzo/Ironhack-FinalProject)
+![size](https://img.shields.io/github/languages/code-size/hbatistuzzo/Ironhack-FinalProject)
+![last commit](https://img.shields.io/github/last-commit/hbatistuzzo/Ironhack-FinalProject)
+
+</div>
+      <div align="center"><img src="images/databank_structure.png" height="230" width="300" alt="data bank"/></div>
+      <p>A fintech case (AME-Digital / Stack Overflow 2018 Dev Survey): designed the data bank, ran the SQL, visualized the answers and built a predictive model — end to end.</p>
+      <p align="center"><strong>Python · MySQL · Tableau</strong></p>
+      <p align="center">
+        <a href="https://github.com/hbatistuzzo/Ironhack-FinalProject"><img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github"/></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="center">🦠 COVID-19 SQL</h4>
+      <div align="center">
+
+![top](https://img.shields.io/github/languages/top/hbatistuzzo/Covid_SQL)
+![size](https://img.shields.io/github/languages/code-size/hbatistuzzo/Covid_SQL)
+![last commit](https://img.shields.io/github/last-commit/hbatistuzzo/Covid_SQL)
+
+</div>
+      <div align="center"><img src="images/example.png" height="230" width="300" alt="covid sql"/></div>
+      <p>Exploratory analysis of a COVID-19 dataset in SQL — joins, CTEs, temp tables, window &amp; aggregate functions, views and type conversions. The SQL fundamentals a data role runs on.</p>
+      <p align="center"><strong>SQL · MS SQL Server · Tableau</strong></p>
+      <p align="center">
+        <a href="https://github.com/hbatistuzzo/Covid_SQL"><img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github"/></a>
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="center">🔬 PHYSAT — honours thesis</h4>
+      <div align="center">
+
+![top](https://img.shields.io/github/languages/top/hbatistuzzo/PHYSAT_data)
+![size](https://img.shields.io/github/languages/code-size/hbatistuzzo/PHYSAT_data)
+![last commit](https://img.shields.io/github/last-commit/hbatistuzzo/PHYSAT_data)
+
+</div>
+      <div align="center"><img src="images/dovidio_2010.png" height="230" width="300" alt="PHYSAT"/></div>
+      <p>Code from my honours thesis — "1st-mode baroclinic Rossby waves modify the composition of Phytoplankton Functional Groups" — pairing altimetry with a bio-algorithm that classifies phytoplankton by spectral signature.</p>
+      <p align="center"><strong>MATLAB · remote sensing</strong></p>
+      <p align="center">
+        <a href="https://github.com/hbatistuzzo/PHYSAT_data"><img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github"/></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="center">💎 Linear Regression — diamond prices</h4>
+      <div align="center">
+
+![top](https://img.shields.io/github/languages/top/hbatistuzzo/Machine_Learning-Linear_Regression)
+![size](https://img.shields.io/github/languages/code-size/hbatistuzzo/Machine_Learning-Linear_Regression)
+![last commit](https://img.shields.io/github/last-commit/hbatistuzzo/Machine_Learning-Linear_Regression)
+
+</div>
+      <div align="center"><img src="images/heatmap.png" height="230" width="300" alt="heatmap"/></div>
+      <p>Predicting diamond prices with a linear-regression pipeline — EDA, feature engineering, model fitting and evaluation on a clean, documented workflow.</p>
+      <p align="center"><strong>Python · scikit-learn · Pandas</strong></p>
+      <p align="center">
+        <a href="https://github.com/hbatistuzzo/Machine_Learning-Linear_Regression"><img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github"/></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h1 align="center">Why work with me 🤝</h1>
+
+I started programming with C, MATLAB and R in a physical-oceanography lab, and Python became my daily tool for everything from remote sensing to data engineering. Along the way the toolbox grew into standard practice: **Pyenv, Pip/Venv, Poetry and Git** for reproducibility; **NumPy, Pandas, Matplotlib, Seaborn** for analysis; **XArray + Dask** for large HDF5/NetCDF/Zarr datasets and lazy computation; and orchestration with **CRON, Airflow and Docker** as scripts grew into pipelines — all in a Linux environment.
+
+Boris Cherny from Claude Code has famously said that *"coding is largely solved."* So if you're a client or recruiter wondering *"why do I need a data engineer, then?"* — here's my honest answer:
+
+- **Writing code syntax was never the hard part** — it's mechanical, and yes, AI does a lot of it now.
+- **The hard part is modelling the problem correctly**: defining boundaries, understanding data flow, anticipating failure modes, and designing systems that *survive change*.
+- Understanding a system deeply — why a function exists, what assumptions it makes, what happens when inputs are invalid — is what keeps a pipeline reliable at 3 a.m.
+- **AI makes me faster, not careless.** I use it to move quickly *and* I know enough to catch it when it's confidently wrong.
+
+That combination — an engineer who ships fast with modern tooling but genuinely reasons about the system — is what you're actually hiring for.
+
 <br>
-			
-XArray and Dask are useful (even necessary) when dealing with HPC and the context of large remote sensing datasets in HDF5, NetCDF or Zarr formats. That, in turn, opened the doors to the importance of "lazy" loading/computation through tools like Spark. As code snippets grew in complexity, pipelines started emerging, and with it the usage of automation tools like CRON/Rundesk and Airflow became increasingly natural. I'm now trying to understand flow orchestration through Docker, Kubernetes and Prefect. All of these thingamajigs find their way to a toolbox which, I'll be the first to admit, can get messy. The growth is organic, and the concepts that are used on a daily basis for work applications definitely calcify faster than others.
 
-I try to dip my toes into some neighboring areas under the IT umbrella: some knowledge in HTML, PHP, even tried some React to make a portfolio [here](https://hbatistuzzo.github.io/); it currently works ok on desktop, but it's weird on mobile, because React is arcane, outside of my domain, and it would probably take several months or more to grasp it with confidence. I have mixed feelings about it, because it _does_ allow for infinite customization (and the animations/transitions? *chef's kiss* 🤌). That being said, it never ends, there's just too much stuff, and it took me a lot of time in coursera and udemy to try and juggle it all. <br>
+<details>
+<summary align="center"><b>so what's your deal, man? 🤔 (a bit of personality)</b></summary>
 
-More importantly, soon after taking those courses, AI tools and LLMs embedded in IDE's did started to become a thing. A weird thing, that hallucinated every 3 prompts and built a house of cards that looked awesome, but was actually built upside-down on a slope made of ice, and the cards were jelly. That was then. Now, I can ~probably~ (nevermind, yes I can) replicate that same react portfolio on Windsurf while vibe-coding with Claude.
+<br>
 
-Speaking of which: Boris Cherny from ClaudeCode has now famously stated that "coding is largely solved" ("_oh oh_" - says every software dev ever, in unison) so 1) since this is a portfolio and 2) you might be a recruiter thinking "why do we need you again?", here's my best attempt at persuasion:
-- Coding was never meant to be "the hard part". Writing code syntax is mechanical.
-- The hard part, one could argue, is modelling the problem correctly, defining boundaries, understanding data flow, anticipating failure modes and designing systems that survive change.
-- When we write code ourselves, we are forced to understand and simulate the system in our head. Why a function exists, what assumptions are being made, what happens when inputs are invalid, etc.
-- This is training. Outsource it, and you lose the ability to reason about complexity.
+My deal is **mindmaps** — from literature reviews of scientific papers to organizing how I learn new tech. There's good evidence that this leverages spatial and visual memory in complementary ways ([Dresler et al., 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC5439266/)). My sister has a postdoc in neurobiology, so I take the hint: cognitive architecture is a vibrant field and I suspect they're onto something.
 
-Feel free to message me on whatsapp here  <a href="">[<img alt="henry | Whatsapp" width="40px" src="./images/whatsapp.svg" />][whatsapp] or contact me through any of these links below:
+<div align="center"><img src="images/mindmaps.gif" width="700" alt="mindmap"/></div>
 
-<div align="center">
+</details>
 
-  <a href="">[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hbatistuzzo@gmail.com)</a>
-  <a href="">[![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-batistuzzo/)</a>
-  <a href="">[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCTihcuVi7oC3RgMPvS5l7Jw)</a>
-  <a href="">[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/633896601555042326)</a>
-  <a href="">[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://ironhack.slack.com/U03NSGXN5M2)</a>
+---
+
+<div>
+  <h1 align="center">Tech Stack</h1>
+
+  <table align="center" style="width: 100%; table-layout: fixed; border-spacing: 10px;">
+    <tr>
+      <td style="width: 50%; vertical-align: top;">
+        <h2 align="center">Programming & Data Processing</h2>
+        <div align="center">
+          <img alt="python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+          <img alt="pandas" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
+          <img alt="numpy" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
+          <img alt="scipy" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" />
+          <img alt="jupyter" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+          <img alt="xarray" height="60" width="60" src="https://raw.githubusercontent.com/pydata/xarray/026aa7c073d03fb6d749c216be1d829816583fac/doc/_static/logos/Xarray_Icon_Final.svg" />
+          <img alt="matlab" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
+        </div>
+      </td>
+      <td style="width: 50%; vertical-align: top;">
+        <h2 align="center">Databases</h2>
+        <div align="center">
+          <img alt="PostgreSQL" height="60" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+          <img alt="MySQL" height="60" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+          <img alt="MongoDB" height="60" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+          <img alt="SQLalchemy" height="60" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" />
+          <img alt="DBeaver" height="60" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" />
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td style="width: 50%; vertical-align: top;">
+        <h2 align="center">Data Engineering & Automation</h2>
+        <div align="center">
+          <img alt="Docker" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+          <img alt="Airflow" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" />
+          <img alt="dask" height="60" width="60" src="https://docs.dask.org/en/stable/_images/dask_icon.svg" />
+          <img alt="Selenium" height="60" width="60" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" />
+          <img alt="GitHub Actions" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
+        </div>
+      </td>
+      <td style="width: 50%; vertical-align: top;">
+        <h2 align="center">Cloud & APIs</h2>
+        <div align="center">
+          <img alt="AWS" height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+          <img alt="FastAPI" height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" />
+          <img alt="Postman" height="55" width="55" src="https://www.svgrepo.com/show/354202/postman-icon.svg" />
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td style="width: 50%; vertical-align: top;">
+        <h2 align="center">Visualization & BI</h2>
+        <div align="center">
+          <img alt="Power BI" height="55" width="55" src="images/Power-BI.svg" />
+          <img alt="Tableau" height="55" width="55" src="images/tableau.png" />
+          <img alt="Matplotlib" height="55" width="55" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" />
+          <img alt="Seaborn" height="55" width="55" src="https://seaborn.pydata.org/_static/logo-tall-lightbg.svg" />
+        </div>
+      </td>
+      <td style="width: 50%; vertical-align: top;">
+        <h2 align="center">Systems & Tools</h2>
+        <div align="center">
+          <img alt="Ubuntu" height="55" width="55" src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" />
+          <img alt="Bash" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+          <img alt="Git" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+          <img alt="VS Code" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+          <img alt="LaTeX" height="55" width="55" src="images/latex-1.svg" />
+        </div>
+      </td>
+    </tr>
+  </table>
+
+  <table align="center" style="width: 80%; table-layout: fixed;">
+    <tr>
+      <td style="text-align: center; padding: 15px;">
+        <h2 align="center">Currently exploring…</h2>
+        <div align="center">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" height="60" width="60"/>
+          <img src="https://cdn.brandfetch.io/idSUrLOWbH/theme/dark/symbol.svg?c=1bfwsmEH20zzEfSNTed" alt="databricks" height="60" width="60"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="React" height="60" width="60"/>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
-![Abhinandan Trilokia](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
+---
 
 <h1 align="center">GitHub Stats</h1>
 
@@ -66,405 +288,4 @@ Feel free to message me on whatsapp here  <a href="">[<img alt="henry | Whatsapp
   </tr>
 </table>
 
-
-<div align="center">
-
-
-
-</div>
-
----
-
-<h1 align="center">so what's your deal, man? 🤔</h1> 
-
-I guess my deal is mindmaps.<br> <br>
-From doing the literature review of scientific articles to organizing the study of data science topics. Something about this method leveraging spatial and visual memory in complementary ways, as reviewed in [Dresler et al, 2018 (https://pmc.ncbi.nlm.nih.gov/articles/PMC5439266/). That toolbox that I mentioned above is a giant mess of loose threads so I need all the help I can get. <br> <br>
-Listen, Geophysical Fluid Dynamics is hard enough, and I'm not particularly smart, but my _sister_ is, so I'll take a hint from someone who has a postdoc in neurobiology and take any advantage I can get. Cognitive architecture is a vibrant field and I suspect they're on to something. Jeez!
-
-<div align="center">
-        <a target="_blank" href="mindmeinster">
-            <img align="center" src="images/mindmaps.gif" width="800" alt="mindmap"/>
-        </a>
-</div>
-
-<br/>
-
-I've used it to study and learn the tools in the Tech Stack section below 👇 and to organize the projects showcased beyond that.
-
-<br/>
-
-
-<div>
-  <h1 align="center">Tech Stack</h1>
-
-<table align="center" style="width: 80%; table-layout: fixed;">
-  <tr>
-    <td style="padding: 20px;">
-      <h2 align="center"> Currently Learning...</h2>
-      <div align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="React" height="75" width="75"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="JS" height="75" width="75"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" height="75" width="75"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" alt="Kubernetes" height="75" width="75"/>
-      </div>
-    </td>
-  </tr>
-</table>
-          
-  <table align="center" style="width: 100%; table-layout: fixed; border-spacing: 10px;">
-    <tr>
-      <td style="width: 50%; vertical-align: top;">
-        <h2 align="center">Programming & Data Processing</h2>
-        <div align="center">
-          <img align="center" alt="python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-          <img align="center" alt="pandas" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
-          <img align="center" alt="numpy" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
-          <img align="center" alt="scipy" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" />
-          <img align="center" alt="jupyter" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-          <img align="center" alt="xarray" height="60" width="60" src="https://raw.githubusercontent.com/pydata/xarray/026aa7c073d03fb6d749c216be1d829816583fac/doc/_static/logos/Xarray_Icon_Final.svg" />
-          <img align="center" alt="netcdf" height="60" width="60" src="https://img.shields.io/badge/NetCDF-4-blue?style=flat" />
-          <img align="center" alt="matlab" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
-        </div>
-      </td>
-      <td style="width: 50%; vertical-align: top;">
-        <h2 align="center">Visualization & Business Intelligence</h2>
-        <div align="center">
-          <img align="center" alt="Power BI" height="60" width="60" src="images/Power-BI.svg" />
-          <img align="center" alt="Tableau" height="60" width="60" src="images/tableau.png" />
-          <img align="center" alt="Matplotlib" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" />
-          <img align="center" alt="Seaborn" height="60" width="60" src="https://seaborn.pydata.org/_static/logo-tall-lightbg.svg" />
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td style="width: 50%; vertical-align: top;">
-        <h2 align="center">Databases</h2>
-        <div align="center">
-          <img align="center" alt="PostgreSQL" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-          <img align="center" alt="MySQL" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-          <img align="center" alt="MongoDB" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-          <img align="center" alt="SQLalchemy" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" />
-          <img align="center" alt="DBeaver" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" />
-        </div>
-      </td>
-      <td style="width: 50%; vertical-align: top;">
-        <h2 align="center">Data Engineering & Automation</h2>
-        <div align="center">
-          <img align="center" alt="Docker" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-          <img align="center" alt="Selenium" height="60" width="60" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" />
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td style="width: 50%; vertical-align: top;">
-        <h2 align="center">Systems & Development Tools</h2>
-        <div align="center">
-          <img align="center" alt="Ubuntu" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" />
-          <img align="center" alt="Bash" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-          <img align="center" alt="Git" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-          <img align="center" alt="XAMPP" height="60" width="60" src="https://www.svgrepo.com/show/354575/xampp.svg" />
-        </div>
-      </td>
-      <td style="width: 50%; vertical-align: top;">
-        <h2 align="center">Miscellaneous</h2>
-        <div align="center">
-          <img align="center" alt="Arduino" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
-          <img align="center" alt="VS Code" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-          <img align="center" alt="LaTeX" height="60" width="60" src="images/latex-1.svg" />
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td style="width: 50%; vertical-align: top;">
-        <h2 align="center">API's</h2>
-        <div align="center">
-      	<img align="center" alt="FastAPI" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" />
-      	<img align="center" alt="Postman" height="60" width="60" src="https://www.svgrepo.com/show/354202/postman-icon.svg" />
-        </div>
-      </td>
-      <td style="width: 50%; vertical-align: top;">
-        <h2 align="center">Cloud Services</h2>
-        <div align="center">
-          <img align="center" alt="AWS" height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-          
-
-<table align="center" style="width: 80%; table-layout: fixed;">
-  <tr>
-    <td style="text-align: center; padding: 20px;">
-      <h2 align="center"> Some (some) experience with.. </h2>
-      <div align="center">
-	<img src="https://docs.dask.org/en/stable/_images/dask_icon.svg" alt="dask" height="80" width="75"/>
-<!--         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="Flask" height="75" width="75"/> -->
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" height="75" width="75"/>
-	<img src="images/msql.png" alt="css" height="75" width="75"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" height="75" width="75"/>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" height="75" width="75"/>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" height="75" width="75"/>
-<!-- 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" alt="css" height="75" width="75"/> -->
-<!-- 	<img alt="Grafana" height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" />
-	<img alt="Prometheus" height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" /> -->
-	<img alt="GitHub Actions" height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
-	<img alt="databricks" height="75" src="https://cdn.brandfetch.io/idSUrLOWbH/theme/dark/symbol.svg?c=1bfwsmEH20zzEfSNTed" />
-      </div>
-    </td>
-  </tr>
-</table>
-          
-
-
-
----
-
-[whatsapp]: http://api.whatsapp.com/send?phone=5511981126990
-
-<!---
-<img align='center' alt="conda"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
-<img align='center' alt="C-lang"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
--->
-
-<hr>
-<h1 align="center">Projects</h1> 
-<table>
-  
-  <tr>
-    <td width="50%" valign="top">
-      <h4 align="center">Rossby waves in Absolute Dynamic Topography data</h4>
-        <br />
-	<div align="center">
-
-![GitHub top language](https://img.shields.io/github/languages/top/hbatistuzzo/CMEMS_altimetry)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/hbatistuzzo/CMEMS_altimetry)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/hbatistuzzo/CMEMS_altimetry)
-![GitHub last commit](https://img.shields.io/github/last-commit/hbatistuzzo/CMEMS_altimetry)
-
-</div>
-<div align="center">
-        <a target="_blank" href="google.comp">
-            <img align="center" src="images/vgos.gif" height="300" width="400" alt="AVISO"/>
-        </a>
-	</div>
-        <br />
-        <p>
-I've used CMEMS altimetry data to create functions that plot global monthly climatologies of zonal and meridional geostrophic velocities. The absolute dynamic topography variable was used to construct hovmöller diagrams in latitudes with strong signals in the low-frequency energy spectrum. Rossby waves can then be visualized in this format. You can check it on the repo below.<br></p>
-      <p align="center">
-        <strong> Technologies used </strong>
-        <br/>
-        <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" height="50" width="60"/> </a>
-	<img  alt="pandas"  height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-	<img  alt="xarray"  height="70" width="70" src="images/xarray.jpg" />
-	<img  alt="dask" height="70" width="70" src="images/dask.svg"/>
-      </p>
-      <p align="center">
-        <strong> IDE used </strong>
-        <br/>
-        <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-      </p>
-      <p align="center">
-  <a href="https://github.com/hbatistuzzo/CMEMS-altimetry" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-      </p>
-    </td>
-	<td width="50%" valign="top">
-      <h4 align="center">Ironhack Final Project: Viz, SQL queries, Predictive Model</h4>
-        <br />
-	<div align="center">
-
-![GitHub top language](https://img.shields.io/github/languages/top/hbatistuzzo/Ironhack-Final-Project)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/hbatistuzzo/Ironhack-Final-Project)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/hbatistuzzo/Ironhack-Final-Project)
-![GitHub last commit](https://img.shields.io/github/last-commit/hbatistuzzo/Ironhack-Final-Project)
-
-</div>
-<div align="center">
-        <a target="_blank" href="google.comp">
-            <img align="center" src="images/databank_structure.png" height="300" width="400" alt="money3"/>
-        </a>
-	</div>
-        <br />
-        <p>This project came from the fintech AME-Digital's case for Data Engineers based on Stack Overflow's 2018 Dev Survey. Case specific goals: answering questions regarding average salary of respondents, where they are from, what technologies and communication tools they use etc.</br> Repo below:</p>
-      <p align="center">
-	 <br/>
-        <strong> Technologies used </strong>
-        <br/>
-        <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img
-	src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" height="70" width="70"/> </a>
-	<img alt="pandas"  height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-	<img alt="mysql"  height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-	<img alt="tableau"  height="70" width="70" src="images/tableau.png" />
-      </p>
-      <p align="center">
-        <strong> IDE used </strong>
-        <br/>
-        <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-      </p>
-      <p align="center">
-  <a href="https://github.com/hbatistuzzo/Ironhack-FinalProject" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  </tr>
-  
-  <tr>
-    <td width="50%" valign="top">
-      <h4 align="center">PHYSAT: Honours' Thesis Project</h4>
-        <br />
-	<div align="center">
-
-![GitHub top language](https://img.shields.io/github/languages/top/hbatistuzzo/PHYSAT_data_processing)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/hbatistuzzo/PHYSAT_data_processing)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/hbatistuzzo/PHYSAT_data_processing)
-![GitHub last commit](https://img.shields.io/github/last-commit/hbatistuzzo/PHYSAT_data_processing)
-
-</div>
-<div align="center">
-        <a target="_blank" href="google.comp">
-            <img src="images/dovidio_2010.png" height="300"width="400" alt="PHYSAT"/>
-        </a>
-	</div>
-        <br />
-        <p>Codes used in my honours' thesis "1st mode baroclinic Rossby waves modify the composition of Phytoplancton Functional Groups". Altimetry data is used in tandem with a bioalgorithm that classifies phytoplankton groups based on their spectral signature. Repo below:</p>
-      <p align="center">
-        <strong> Technologies used </strong>
-        <br/>
-        <img align="center" alt="matlab"  height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
-      </p>
-      <p align="center">
-        <strong> IDE used </strong>
-        <br/>
-	<img src="https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white">
-      </p>
-      <p align="center">
-  <a href="https://github.com/hbatistuzzo/PHYSAT_data" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-      </p>
-    </td>
-<td width="50%" valign="top">
-      <h4 align="center">Linear regression model data</h4>
-        <br />
-	<div align="center">
-
-![GitHub top language](https://img.shields.io/github/languages/top/hbatistuzzo/Diamonds_Henrique)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/hbatistuzzo/Diamonds_Henrique)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/hbatistuzzo/Diamonds_Henrique)
-![GitHub last commit](https://img.shields.io/github/last-commit/hbatistuzzo/Diamonds_Henrique)
-
-</div>
-<div align="center">
-        <a target="_blank" href="google.comp">
-            <img src="images/heatmap.png" height = "300" width="400" alt="heat"/>
-        </a>
-	</div>
-        <br />
-        <p>Predict the price of the diamonds in rick_diamonds.csv using the information from diamonds.csv through a linear regression model.</p>
-<br/>
-<br/>
-	<p align="center">
-        <strong> Technologies used </strong>
-        <br/>
-        <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" height="70" width="70"/> </a>
-	<img alt="pandas"  height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-      </p>
-      <p align="center">
-        <strong> IDE used </strong>
-        <br/>
-        <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-      </p>
-      <p align="center">
-  <a href="https://github.com/hbatistuzzo/Diamonds_Henrique" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  </tr>
-
- <tr>
-    <td width="50%" valign="top">
-      <h4 align="center">Machine Learning: Rain in Australia</h4>
-        <br />
-	<div align="center">
-
-![GitHub top language](https://img.shields.io/github/languages/top/hbatistuzzo/Machine_Learning-Rain_in_Australia)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/hbatistuzzo/Machine_Learning-Rain_in_Australia)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/hbatistuzzo/Machine_Learning-Rain_in_Australia)
-![GitHub last commit](https://img.shields.io/github/last-commit/hbatistuzzo/Machine_Learning-Rain_in_Australia)
-
-</div>
-<div align="center">
-        <a target="_blank" href="google.com">
-            <img src="images/distplot.png" height = "300" width="400" alt="heat"/>
-        </a>
-	</div>
-        <br />
-        <p>Given that it rains today, will it rain again tomorrow?
-Real-time accurate rainfall prediction is challenging due to the inherent non-linear nature of weather. Using a database of meteorological variables in different cities of
-Australia, the goal of this project is to train a model on short-term rainfall prediction (forecasting range up to 72 hours).</p>
-<br/>
-	<p align="center">
-        <strong> Technologies used </strong>
-        <br/>
-        <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" height="70" width="70"/> </a>
-	<img alt="pandas"  height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-	<img alt="tf"  height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-	</p>
-      <p align="center">
-        <strong> IDE used </strong>
-        <br/>
-        <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-      </p>
-      <p align="center">
-  <a href="https://github.com/hbatistuzzo/Machine_Learning-Rain_in_Australia" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-</td>
-<td width="50%" valign="top">
-      <h4 align="center">COVID-19 SQL Project</h4>
-        <br />
-	<div align="center">
-
-![GitHub top language](https://img.shields.io/github/languages/top/hbatistuzzo/Covid_SQL)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/hbatistuzzo/Covid_SQL)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/hbatistuzzo/Covid_SQL)
-![GitHub last commit](https://img.shields.io/github/last-commit/hbatistuzzo/Covid_SQL)
-
-</div>
-<div align="center">
-        <a target="_blank" href="google.com">
-            <img src="images/example.png" height = "300" width="400" alt="exx"/>
-        </a>
-	</div>
-        <br />
-        <p>Exploratory Analysis of a Covid-19 Dataset using SQL. I've done this project to showcase my skills related to: Joins, CTE's, Temporary Tables, Windows Functions, Aggregate Functions, Creating Views and Converting Data Types.</p>
-<br/>
-<br/>
-<br/>
-	<p align="center">
-        <strong> Technologies used </strong>
-        <br/>
-        <img align="center" alt="mysql"  height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-	<img align="center" alt="MSsql"  height="70" width="70" src="images/msql.png" />
-	<img align='center' alt="tableau"  height="70" width="70" src="images/tableau.png" />
-	</p>
-      <p align="center">
-        <strong> IDE used </strong>
-        <br/>
-        <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-      </p>
-      <p align="center">
-  <a href="https://github.com/hbatistuzzo/Covid_SQL" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-   </td>
-  </tr>
-
-</table>
- 
- <p align="center"><img src="images/ironbadge.png" width="50%" alt="Logo"></p>
-
-
-
+<p align="center">📫 Reach me: <a href="mailto:hbatistuzzo@gmail.com">hbatistuzzo@gmail.com</a> · <a href="https://www.linkedin.com/in/henrique-batistuzzo/">LinkedIn</a> · <a href="http://api.whatsapp.com/send?phone=5511981126990">WhatsApp</a></p>

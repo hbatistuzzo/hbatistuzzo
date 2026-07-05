@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Henrique 👋</h1>
 
-<h3 align="center">Data Engineer · AI-augmented pipelines, AWS ETL & real-time data</h3>
+<h3 align="center">Data Engineer · pipelines, cloud ETL & real-time data</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/henrique-batistuzzo/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -8,21 +8,34 @@
   <a href="http://api.whatsapp.com/send?phone=5511981126990"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
-<p align="center">
-🔹 ⚓ <b>Data Engineer at the Brazilian Navy (CHM)</b> — I build reliable, automated data pipelines: ETL/ELT on AWS, real-time ingestion from APIs &amp; sensors, quality control, and REST APIs.<br>
-🔹 🌊 BSc in <b>Oceanography</b> (University of São Paulo) — so I'm at home with the messy <b>scientific, sensor, geospatial &amp; time-series data</b> most generalists avoid.<br>
-🔹 🤖 <b>AI-augmented</b>: I use modern AI tooling to ship in days what used to take weeks — without cutting corners on reliability.<br>
-🔹 💬 <b>Open to freelance / contract data-engineering work.</b> If your data is trapped in spreadsheets, APIs or silos and you want it flowing automatically into something usable — <a href="mailto:hbatistuzzo@gmail.com">let's talk</a>.
+<p align="left">
+🔹 :ocean: I have an **Ocean/Environmental Sciences** academic background; BSc in **Oceanography** from the University of São Paulo <br>
+🔹 ⚓ <b>Data Engineer at the Brazilian Navy (CHM)</b> - Automated data pipelines: real-time ingestion from telemetry, quality control, and APIs<br>
+🔹 📋 DataViz and dashboards for monitoring and analysis<br>
+🔹 :bar_chart: I've worked as a TA/Specialist Instructor and as an Oceanographic Data Analyst in BC, Canada <br>
+🔹 :desktop_computer: Started delving into Data Science through the **Ironhack** bootcamp <br>
+🔹 🤘 Certified Glider and Sailbuoy pilot
 </p>
 
 ---
+
+As an oceanographer I've focused mostly on remote sensing and large-to-meso-scale Geophysical Fluid Dynamics. I started programming with C, MATLAB and R in a physical-oceanography lab, and Python became my daily tool for everything from remote sensing to data engineering. Along the way the toolbox grew into standard practice: **Pyenv, Pip/Venv, Poetry and Git** for reproducibility; **NumPy, Pandas, Matplotlib, Seaborn** for analysis; **XArray + Dask** for large HDF5/NetCDF/Zarr datasets and lazy computation; and orchestration with **CRON, Airflow and Docker** as scripts grew into pipelines - all in a Linux environment.
+
+Git is a given for coding work, and GitHub doubles as a portfolio, so I've grouped some projects below in case you're curious.
+Boris Cherny from Claude Code has famously said that *"coding is largely solved."* So if you're a client or recruiter wondering *"why would I need a data engineer, then?"* - here's my honest answer:
+
+- **Writing code syntax was never the hard part*: it's mechanical, and yes, AI does a lot of it now.
+- **The hard part is modelling the problem correctly**: defining boundaries, understanding data flow, anticipating failure modes, and designing systems that *survive change*.
+- Understanding a system deeply (why a function exists, what assumptions it makes, what happens when inputs are invalid) is what keeps a pipeline reliable at 3 a.m.
+
+<br>
 
 <h1 align="center">Featured Projects</h1>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4 align="center">🏃 runsight — Garmin activity analytics</h4>
+      <h4 align="center">🏃 runsight - Garmin activity analytics</h4>
       <div align="center">
 
 ![top](https://img.shields.io/github/languages/top/hbatistuzzo/runsight)
@@ -30,7 +43,7 @@
 ![last commit](https://img.shields.io/github/last-commit/hbatistuzzo/runsight)
 
 </div>
-      <p>A production-grade Python package that pulls Garmin activity data and turns it into analytics. Proper <code>src/</code> layout, tests, CI, and a packaged CLI — the way I structure real projects.</p>
+      <p>A production-grade Python package that pulls Garmin activity data and turns it into analytics. Proper <code>src/</code> layout, tests, CI, and a packaged CLI - the way I structure real projects.</p>
       <p align="center"><strong>Python · pytest · CI · packaging</strong></p>
       <p align="center">
         <a href="https://github.com/hbatistuzzo/runsight"><img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github"/></a>
@@ -45,7 +58,7 @@
 ![last commit](https://img.shields.io/github/last-commit/hbatistuzzo/1-billion-rows-challenge)
 
 </div>
-      <p>Aggregating one billion rows — and benchmarking how far you can push it with pure Python vs Pandas, Polars, DuckDB and Dask. Performance engineering and knowing the right tool for scale.</p>
+      <p>Aggregating one billion rows - and benchmarking how far you can push it with pure Python vs Pandas, Polars, DuckDB and Dask. Performance engineering and knowing the right tool for scale.</p>
       <p align="center"><strong>Python · Polars · DuckDB · Dask</strong></p>
       <p align="center">
         <a href="https://github.com/hbatistuzzo/1-billion-rows-challenge"><img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github"/></a>
@@ -55,7 +68,7 @@
 
   <tr>
     <td width="50%" valign="top">
-      <h4 align="center">🛰️ CMEMS Altimetry — Rossby waves</h4>
+      <h4 align="center">🛰️ CMEMS Altimetry - Rossby waves</h4>
       <div align="center">
 
 ![top](https://img.shields.io/github/languages/top/hbatistuzzo/CMEMS-altimetry)
@@ -79,7 +92,7 @@
 ![last commit](https://img.shields.io/github/last-commit/hbatistuzzo/DIO_FastAPI_TDD)
 
 </div>
-      <p>An async REST API built test-first with FastAPI, Pydantic and pytest — clean structure, typed schemas, and tests driving the design. How I build the API layer that sits on top of a pipeline.</p>
+      <p>An async REST API built test-first with FastAPI, Pydantic and pytest - clean structure, typed schemas, and tests driving the design. How I build the API layer that sits on top of a pipeline.</p>
       <p align="center"><strong>FastAPI · Pydantic · pytest · async</strong></p>
       <p align="center">
         <a href="https://github.com/hbatistuzzo/DIO_FastAPI_TDD"><img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github"/></a>
@@ -89,7 +102,7 @@
 
   <tr>
     <td width="50%" valign="top">
-      <h4 align="center">📊 Ironhack Final Project — data bank</h4>
+      <h4 align="center">📊 Ironhack Final Project - data bank</h4>
       <div align="center">
 
 ![top](https://img.shields.io/github/languages/top/hbatistuzzo/Ironhack-FinalProject)
@@ -98,7 +111,7 @@
 
 </div>
       <div align="center"><img src="images/databank_structure.png" height="230" width="300" alt="data bank"/></div>
-      <p>A fintech case (AME-Digital / Stack Overflow 2018 Dev Survey): designed the data bank, ran the SQL, visualized the answers and built a predictive model — end to end.</p>
+      <p>A fintech case (AME-Digital / Stack Overflow 2018 Dev Survey): designed the data bank, ran the SQL, visualized the answers and built a predictive model - end to end.</p>
       <p align="center"><strong>Python · MySQL · Tableau</strong></p>
       <p align="center">
         <a href="https://github.com/hbatistuzzo/Ironhack-FinalProject"><img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github"/></a>
@@ -114,7 +127,7 @@
 
 </div>
       <div align="center"><img src="images/example.png" height="230" width="300" alt="covid sql"/></div>
-      <p>Exploratory analysis of a COVID-19 dataset in SQL — joins, CTEs, temp tables, window &amp; aggregate functions, views and type conversions. The SQL fundamentals a data role runs on.</p>
+      <p>Exploratory analysis of a COVID-19 dataset in SQL - joins, CTEs, temp tables, window &amp; aggregate functions, views and type conversions. The SQL fundamentals a data role runs on.</p>
       <p align="center"><strong>SQL · MS SQL Server · Tableau</strong></p>
       <p align="center">
         <a href="https://github.com/hbatistuzzo/Covid_SQL"><img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github"/></a>
@@ -124,7 +137,7 @@
 
   <tr>
     <td width="50%" valign="top">
-      <h4 align="center">🔬 PHYSAT — honours thesis</h4>
+      <h4 align="center">🔬 PHYSAT - honours thesis</h4>
       <div align="center">
 
 ![top](https://img.shields.io/github/languages/top/hbatistuzzo/PHYSAT_data)
@@ -133,14 +146,14 @@
 
 </div>
       <div align="center"><img src="images/dovidio_2010.png" height="230" width="300" alt="PHYSAT"/></div>
-      <p>Code from my honours thesis — "1st-mode baroclinic Rossby waves modify the composition of Phytoplankton Functional Groups" — pairing altimetry with a bio-algorithm that classifies phytoplankton by spectral signature.</p>
+      <p>Code from my honours thesis - "1st-mode baroclinic Rossby waves modify the composition of Phytoplankton Functional Groups" - pairing altimetry with a bio-algorithm that classifies phytoplankton by spectral signature.</p>
       <p align="center"><strong>MATLAB · remote sensing</strong></p>
       <p align="center">
         <a href="https://github.com/hbatistuzzo/PHYSAT_data"><img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github"/></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4 align="center">💎 Linear Regression — diamond prices</h4>
+      <h4 align="center">💎 Linear Regression - diamond prices</h4>
       <div align="center">
 
 ![top](https://img.shields.io/github/languages/top/hbatistuzzo/Machine_Learning-Linear_Regression)
@@ -149,7 +162,7 @@
 
 </div>
       <div align="center"><img src="images/heatmap.png" height="230" width="300" alt="heatmap"/></div>
-      <p>Predicting diamond prices with a linear-regression pipeline — EDA, feature engineering, model fitting and evaluation on a clean, documented workflow.</p>
+      <p>Predicting diamond prices with a linear-regression pipeline - EDA, feature engineering, model fitting and evaluation on a clean, documented workflow.</p>
       <p align="center"><strong>Python · scikit-learn · Pandas</strong></p>
       <p align="center">
         <a href="https://github.com/hbatistuzzo/Machine_Learning-Linear_Regression"><img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github"/></a>
@@ -160,27 +173,12 @@
 
 ---
 
-<h1 align="center">Why work with me 🤝</h1>
-
-I started programming with C, MATLAB and R in a physical-oceanography lab, and Python became my daily tool for everything from remote sensing to data engineering. Along the way the toolbox grew into standard practice: **Pyenv, Pip/Venv, Poetry and Git** for reproducibility; **NumPy, Pandas, Matplotlib, Seaborn** for analysis; **XArray + Dask** for large HDF5/NetCDF/Zarr datasets and lazy computation; and orchestration with **CRON, Airflow and Docker** as scripts grew into pipelines — all in a Linux environment.
-
-Boris Cherny from Claude Code has famously said that *"coding is largely solved."* So if you're a client or recruiter wondering *"why do I need a data engineer, then?"* — here's my honest answer:
-
-- **Writing code syntax was never the hard part** — it's mechanical, and yes, AI does a lot of it now.
-- **The hard part is modelling the problem correctly**: defining boundaries, understanding data flow, anticipating failure modes, and designing systems that *survive change*.
-- Understanding a system deeply — why a function exists, what assumptions it makes, what happens when inputs are invalid — is what keeps a pipeline reliable at 3 a.m.
-- **AI makes me faster, not careless.** I use it to move quickly *and* I know enough to catch it when it's confidently wrong.
-
-That combination — an engineer who ships fast with modern tooling but genuinely reasons about the system — is what you're actually hiring for.
-
-<br>
-
 <details>
 <summary align="center"><b>so what's your deal, man? 🤔 (a bit of personality)</b></summary>
 
 <br>
 
-My deal is **mindmaps** — from literature reviews of scientific papers to organizing how I learn new tech. There's good evidence that this leverages spatial and visual memory in complementary ways ([Dresler et al., 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC5439266/)). My sister has a postdoc in neurobiology, so I take the hint: cognitive architecture is a vibrant field and I suspect they're onto something.
+My deal is **mindmaps** - from literature reviews of scientific papers to organizing how I learn new tech. There's good evidence that this leverages spatial and visual memory in complementary ways ([Dresler et al., 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC5439266/)). Listen, Geophysical Fluid Dynamics is hard enough, and I'm not particularly savvy, but my _sister_ is, so I'll take a hint from someone who has a postdoc in neurobiology and take any advantage I can get. Cognitive architecture is a vibrant field and I suspect they're on to something.
 
 <div align="center"><img src="images/mindmaps.gif" width="700" alt="mindmap"/></div>
 

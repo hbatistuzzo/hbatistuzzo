@@ -28,7 +28,7 @@ Boris Cherny from Claude Code has famously said that *"coding is largely solved.
 - **The hard part is modelling the problem correctly**: defining boundaries, understanding data flow, anticipating failure modes, and designing systems that *survive change*.
 - Understanding a system deeply (why a function exists, what assumptions it makes, what happens when inputs are invalid) is what keeps a pipeline reliable at 3 a.m.
 
-<br>
+![Abhinandan Trilokia](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
 
 <h1 align="center">Featured Projects</h1>
 
